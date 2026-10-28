@@ -3,6 +3,26 @@
   "tabs": {
     "home": [
       {
+        "limit": 100,
+        "region": "MX",
+        "sort": "popular",
+        "source": "tmdb",
+        "title": "Películas en tendencia",
+        "type": "movie",
+        "file": "rows/tmdb-movie-any-mx-any-any-popular.json",
+        "list": "rows/tmdb-movie-any-mx-any-any-popular.json"
+      },
+      {
+        "limit": 100,
+        "region": "MX",
+        "sort": "popular",
+        "source": "tmdb",
+        "title": "Series en tendencia",
+        "type": "series",
+        "file": "rows/tmdb-series-any-mx-any-any-popular.json",
+        "list": "rows/tmdb-series-any-mx-any-any-popular.json"
+      },
+      {
         "catalogId": "latest_movies",
         "source": "addon",
         "title": "Películas recién añadidas",
@@ -44,16 +64,16 @@
         "type": "movie"
       },
       {
+        "file": "rows/tmdb-movie-337-mx-any-any-released.json",
         "limit": 100,
+        "list": "rows/tmdb-movie-337-mx-any-any-released.json",
         "provider": 337,
         "providerName": "Disney Plus",
         "region": "MX",
         "sort": "released",
         "source": "tmdb",
         "title": "Disney+",
-        "type": "movie",
-        "file": "rows/tmdb-movie-337-mx-any-any-released.json",
-        "list": "rows/tmdb-movie-337-mx-any-any-released.json"
+        "type": "movie"
       }
     ],
     "series": [
