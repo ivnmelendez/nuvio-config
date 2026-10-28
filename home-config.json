@@ -35,17 +35,17 @@
         "type": "series"
       },
       {
+        "file": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json",
         "genre": 28,
         "genreName": "Acción",
         "limit": 100,
+        "list": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json",
         "region": "MX",
         "shuffle": true,
         "sort": "rating",
         "source": "tmdb",
         "title": "Acción",
-        "type": "movie",
-        "file": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json",
-        "list": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json"
+        "type": "movie"
       }
     ],
     "movies": [
