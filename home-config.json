@@ -3,19 +3,9 @@
   "tabs": {
     "home": [
       {
-        "list": "usuario/peliculas-en-tendencia",
-        "sort": "popular",
-        "title": "Películas en Tendencia"
-      },
-      {
         "list": "usuario/peliculas-recien-anadidas",
         "sort": "added",
         "title": "Películas Recién Añadidas"
-      },
-      {
-        "list": "usuario/series-en-tendencia",
-        "sort": "popular",
-        "title": "Series en Tendencia"
       },
       {
         "list": "usuario/series-recien-anadidas",
@@ -23,7 +13,13 @@
         "title": "Series Recién Añadidas"
       }
     ],
-    "movies": [],
+    "movies": [
+      {
+        "list": "garycrawfordgc/top-movies-of-the-week",
+        "sort": "added",
+        "title": "Películas Recién Añadidas"
+      }
+    ],
     "series": [
       {
         "list": "garycrawfordgc/latest-tv-shows",
