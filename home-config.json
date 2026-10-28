@@ -3,24 +3,24 @@
   "tabs": {
     "home": [
       {
+        "file": "rows/tmdb-movie-any-mx-any-any-popular.json",
         "limit": 100,
+        "list": "rows/tmdb-movie-any-mx-any-any-popular.json",
         "region": "MX",
         "sort": "popular",
         "source": "tmdb",
         "title": "Películas en tendencia",
-        "type": "movie",
-        "file": "rows/tmdb-movie-any-mx-any-any-popular.json",
-        "list": "rows/tmdb-movie-any-mx-any-any-popular.json"
+        "type": "movie"
       },
       {
+        "file": "rows/tmdb-series-any-mx-any-any-popular.json",
         "limit": 100,
+        "list": "rows/tmdb-series-any-mx-any-any-popular.json",
         "region": "MX",
         "sort": "popular",
         "source": "tmdb",
         "title": "Series en tendencia",
-        "type": "series",
-        "file": "rows/tmdb-series-any-mx-any-any-popular.json",
-        "list": "rows/tmdb-series-any-mx-any-any-popular.json"
+        "type": "series"
       },
       {
         "catalogId": "latest_movies",
@@ -33,6 +33,19 @@
         "source": "addon",
         "title": "Series recién añadidas",
         "type": "series"
+      },
+      {
+        "genre": 28,
+        "genreName": "Acción",
+        "limit": 100,
+        "region": "MX",
+        "shuffle": true,
+        "sort": "rating",
+        "source": "tmdb",
+        "title": "Acción",
+        "type": "movie",
+        "file": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json",
+        "list": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json"
       }
     ],
     "movies": [
