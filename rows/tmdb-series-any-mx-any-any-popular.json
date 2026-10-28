@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "title": "Los Simpson",
+      "year": 1989
+    },
+    {
+      "id": "tt0121955",
+      "type": "series",
+      "title": "South Park",
+      "year": 1997
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "title": "Tierra de Mafia",
+      "year": 2025
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "title": "Crystal Lake",
+      "year": 2026
+    },
+    {
+      "id": "tt1520211",
+      "type": "series",
+      "title": "The Walking Dead",
+      "year": 2010
+    }
+  ]
+}
