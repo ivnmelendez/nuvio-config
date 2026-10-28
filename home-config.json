@@ -2,10 +2,26 @@
   "version": 1,
   "tabs": {
     "home": [
-      {"list": "usuario/peliculas-en-tendencia", "title": "Películas en Tendencia", "sort": "popular"},
-      {"list": "usuario/peliculas-recien-anadidas", "title": "Películas Recién Añadidas", "sort": "added"},
-      {"list": "usuario/series-en-tendencia", "title": "Series en Tendencia", "sort": "popular"},
-      {"list": "usuario/series-recien-anadidas", "title": "Series Recién Añadidas", "sort": "added"}
+      {
+        "list": "usuario/peliculas-en-tendencia",
+        "sort": "popular",
+        "title": "Películas en Tendencia"
+      },
+      {
+        "list": "usuario/peliculas-recien-anadidas",
+        "sort": "added",
+        "title": "Películas Recién Añadidas"
+      },
+      {
+        "list": "usuario/series-en-tendencia",
+        "sort": "popular",
+        "title": "Series en Tendencia"
+      },
+      {
+        "list": "usuario/series-recien-anadidas",
+        "sort": "added",
+        "title": "Series Recién Añadidas"
+      }
     ],
     "movies": [],
     "series": []
