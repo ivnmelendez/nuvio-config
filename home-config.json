@@ -1,28 +1,35 @@
 {
   "version": 1,
   "tabs": {
-    "home": [],
+    "home": [
+      {
+        "catalogId": "latest_movies",
+        "source": "addon",
+        "title": "Peliculas recién añadidas",
+        "type": "movie"
+      }
+    ],
     "movies": [
       {
+        "file": "rows/garycrawfordgc-top-movies-of-the-week__added.json",
         "list": "garycrawfordgc/top-movies-of-the-week",
         "sort": "added",
-        "title": "Películas Recién Añadidas",
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__added.json"
+        "title": "Películas Recién Añadidas"
       },
       {
+        "file": "rows/garycrawfordgc-top-movies-of-the-week__added.json",
         "limit": 30,
         "list": "garycrawfordgc/top-movies-of-the-week",
         "sort": "added",
-        "title": "Top 10 Peliculas",
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__added.json"
+        "title": "Top 10 Peliculas"
       }
     ],
     "series": [
       {
+        "file": "rows/garycrawfordgc-latest-tv-shows__added.json",
         "list": "garycrawfordgc/latest-tv-shows",
         "sort": "added",
-        "title": "Últimas Series",
-        "file": "rows/garycrawfordgc-latest-tv-shows__added.json"
+        "title": "Últimas Series"
       }
     ]
   }
