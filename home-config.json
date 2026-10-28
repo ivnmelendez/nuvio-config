@@ -5,7 +5,7 @@
       {
         "catalogId": "latest_movies",
         "source": "addon",
-        "title": "Peliculas recién añadidas",
+        "title": "Películas recién añadidas",
         "type": "movie"
       },
       {
@@ -21,11 +21,26 @@
         "list": "garycrawfordgc/top-movies-of-the-week",
         "sort": "default",
         "style": "top10",
-        "title": "Top 10 Peliculas",
+        "title": "Top 10 Películas",
         "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json"
+      },
+      {
+        "limit": 30,
+        "list": "snoak/latest-movies-digital-release",
+        "sort": "default",
+        "title": "Últimas Películas",
+        "file": "rows/snoak-latest-movies-digital-release__default.json"
       }
     ],
     "series": [
+      {
+        "limit": 10,
+        "list": "tagnor/top-shows-of-the-week-v56yefhv6s",
+        "sort": "default",
+        "style": "top10",
+        "title": "Top 10 Series",
+        "file": "rows/tagnor-top-shows-of-the-week-v56yefhv6s__default.json"
+      },
       {
         "file": "rows/garycrawfordgc-latest-tv-shows__default.json",
         "limit": 30,
