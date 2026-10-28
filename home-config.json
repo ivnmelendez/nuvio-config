@@ -7,24 +7,30 @@
         "source": "addon",
         "title": "Peliculas recién añadidas",
         "type": "movie"
+      },
+      {
+        "catalogId": "latest_series",
+        "source": "addon",
+        "title": "Series recién añadidas",
+        "type": "series"
       }
     ],
     "movies": [
       {
+        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json",
         "limit": 30,
         "list": "garycrawfordgc/top-movies-of-the-week",
         "sort": "default",
-        "title": "Top 10 Peliculas",
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json"
+        "title": "Top 10 Peliculas"
       }
     ],
     "series": [
       {
+        "file": "rows/garycrawfordgc-latest-tv-shows__default.json",
         "limit": 30,
         "list": "garycrawfordgc/latest-tv-shows",
         "sort": "default",
-        "title": "Últimas Series",
-        "file": "rows/garycrawfordgc-latest-tv-shows__default.json"
+        "title": "Últimas Series"
       }
     ]
   }
