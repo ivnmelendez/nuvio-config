@@ -17,29 +17,41 @@
     ],
     "movies": [
       {
+        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json",
         "limit": 10,
         "list": "garycrawfordgc/top-movies-of-the-week",
         "sort": "default",
         "style": "top10",
-        "title": "Top 10 Películas",
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json"
+        "title": "Top 10 Películas"
       },
       {
+        "file": "rows/snoak-latest-movies-digital-release__default.json",
         "limit": 30,
         "list": "snoak/latest-movies-digital-release",
         "sort": "default",
-        "title": "Últimas Películas",
-        "file": "rows/snoak-latest-movies-digital-release__default.json"
+        "title": "Últimas Películas"
+      },
+      {
+        "limit": 30,
+        "provider": 8,
+        "providerName": "Netflix",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Netflix",
+        "type": "movie",
+        "file": "rows/tmdb-movie-8-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-8-mx-any-any-released.json"
       }
     ],
     "series": [
       {
+        "file": "rows/tagnor-top-shows-of-the-week-v56yefhv6s__default.json",
         "limit": 10,
         "list": "tagnor/top-shows-of-the-week-v56yefhv6s",
         "sort": "default",
         "style": "top10",
-        "title": "Top 10 Series",
-        "file": "rows/tagnor-top-shows-of-the-week-v56yefhv6s__default.json"
+        "title": "Top 10 Series"
       },
       {
         "file": "rows/garycrawfordgc-latest-tv-shows__default.json",
