@@ -17,11 +17,12 @@
     ],
     "movies": [
       {
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json",
-        "limit": 30,
+        "limit": 10,
         "list": "garycrawfordgc/top-movies-of-the-week",
         "sort": "default",
-        "title": "Top 10 Peliculas"
+        "style": "top10",
+        "title": "Top 10 Peliculas",
+        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json"
       }
     ],
     "series": [
