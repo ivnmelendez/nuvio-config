@@ -11,25 +11,20 @@
     ],
     "movies": [
       {
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__added.json",
-        "list": "garycrawfordgc/top-movies-of-the-week",
-        "sort": "added",
-        "title": "Películas Recién Añadidas"
-      },
-      {
-        "file": "rows/garycrawfordgc-top-movies-of-the-week__added.json",
         "limit": 30,
         "list": "garycrawfordgc/top-movies-of-the-week",
-        "sort": "added",
-        "title": "Top 10 Peliculas"
+        "sort": "default",
+        "title": "Top 10 Peliculas",
+        "file": "rows/garycrawfordgc-top-movies-of-the-week__default.json"
       }
     ],
     "series": [
       {
-        "file": "rows/garycrawfordgc-latest-tv-shows__added.json",
+        "limit": 30,
         "list": "garycrawfordgc/latest-tv-shows",
-        "sort": "added",
-        "title": "Últimas Series"
+        "sort": "default",
+        "title": "Últimas Series",
+        "file": "rows/garycrawfordgc-latest-tv-shows__default.json"
       }
     ]
   }
