@@ -24,6 +24,12 @@
       }
     ],
     "movies": [],
-    "series": []
+    "series": [
+      {
+        "list": "garycrawfordgc/latest-tv-shows",
+        "sort": "added",
+        "title": "Últimas Series"
+      }
+    ]
   }
 }
