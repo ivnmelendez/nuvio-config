@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "title": "Guardianes de la galaxia",
+      "year": 2014
+    },
+    {
+      "id": "tt0848228",
+      "type": "movie",
+      "title": "Avengers: Los Vengadores",
+      "year": 2012
+    },
+    {
+      "id": "tt0371746",
+      "type": "movie",
+      "title": "Iron man - El hombre de hierro",
+      "year": 2008
+    },
+    {
+      "id": "tt1843866",
+      "type": "movie",
+      "title": "Capitán América y el Soldado del Invierno",
+      "year": 2014
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Un nuevo día",
+      "year": 2026
+    }
+  ]
+}
