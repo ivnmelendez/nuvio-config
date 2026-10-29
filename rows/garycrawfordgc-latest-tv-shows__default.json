@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "id": "tt42220724",
+      "type": "series",
+      "title": "Minimum Wage",
+      "year": 2026
+    },
+    {
       "id": "tt23148340",
       "type": "series",
       "title": "Crystal Lake",
