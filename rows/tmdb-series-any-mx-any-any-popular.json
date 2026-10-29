@@ -1,22 +1,16 @@
 {
   "items": [
     {
-      "id": "tt0096697",
-      "type": "series",
-      "title": "Los Simpson",
-      "year": 1989
-    },
-    {
       "id": "tt0182576",
       "type": "series",
       "title": "Padre de Familia",
       "year": 1999
     },
     {
-      "id": "tt31510819",
+      "id": "tt0096697",
       "type": "series",
-      "title": "Tierra de Mafia",
-      "year": 2025
+      "title": "Los Simpson",
+      "year": 1989
     },
     {
       "id": "tt0397306",
@@ -31,16 +25,16 @@
       "year": 1997
     },
     {
-      "id": "tt23148340",
-      "type": "series",
-      "title": "Crystal Lake",
-      "year": 2026
-    },
-    {
       "id": "tt1520211",
       "type": "series",
       "title": "The Walking Dead",
       "year": 2010
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "title": "Crystal Lake",
+      "year": 2026
     }
   ]
 }
