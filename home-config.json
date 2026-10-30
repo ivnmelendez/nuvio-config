@@ -37,13 +37,13 @@
       {
         "banner": "banners/dia_de_muertos_1080p.webp",
         "banner4k": "banners/dia_de_muertos_4k.webp",
+        "file": "rows/artdeco-dia-de-muertos__default.json",
         "from": "2026-10-25",
         "limit": 30,
         "list": "artdeco/dia-de-muertos",
         "sort": "default",
         "title": "Día de muertos",
-        "until": "2026-11-03",
-        "file": "rows/artdeco-dia-de-muertos__default.json"
+        "until": "2026-11-03"
       },
       {
         "file": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json",
