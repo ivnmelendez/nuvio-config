@@ -37,6 +37,12 @@
       "year": 2017
     },
     {
+      "id": "tt0107688",
+      "type": "movie",
+      "title": "El extraño mundo de Jack",
+      "year": 1993
+    },
+    {
       "id": "tt12042730",
       "type": "movie",
       "title": "Proyecto Fin del Mundo",
@@ -65,6 +71,12 @@
       "type": "movie",
       "title": "El final de la Calle Oak",
       "year": 2026
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "title": "Coraline y la puerta secreta",
+      "year": 2009
     },
     {
       "id": "tt15239678",
