@@ -23,6 +23,18 @@
       "type": "movie",
       "title": "ParaNorman",
       "year": 2012
+    },
+    {
+      "id": "tt0121164",
+      "type": "movie",
+      "title": "Corpse Bride",
+      "year": 2005
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "title": "Monster House",
+      "year": 2006
     }
   ]
 }
