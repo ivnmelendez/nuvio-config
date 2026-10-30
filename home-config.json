@@ -37,13 +37,13 @@
       {
         "banner": "banners/halloween_1080p.webp",
         "banner4k": "banners/halloween_4k.webp",
+        "file": "rows/hdlists-halloween-movies-the-best-of-all-time__default.json",
         "from": "2026-10-15",
         "limit": 100,
         "list": "hdlists/halloween-movies-the-best-of-all-time",
         "sort": "default",
         "title": "Halloween",
-        "until": "2026-11-01",
-        "file": "rows/hdlists-halloween-movies-the-best-of-all-time__default.json"
+        "until": "2026-11-01"
       },
       {
         "file": "rows/tmdb-movie-any-mx-28-any-rating-shuf.json",
@@ -87,16 +87,40 @@
         "title": "Últimas Películas"
       },
       {
-        "file": "rows/tmdb-movie-8-mx-any-any-released.json",
         "limit": 100,
-        "list": "rows/tmdb-movie-8-mx-any-any-released.json",
         "provider": 8,
         "providerName": "Netflix",
         "region": "MX",
         "sort": "released",
         "source": "tmdb",
         "title": "Netflix",
-        "type": "movie"
+        "type": "movie",
+        "file": "rows/tmdb-movie-8-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-8-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 119,
+        "providerName": "Amazon Prime Video",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Prime Video",
+        "type": "movie",
+        "file": "rows/tmdb-movie-119-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-119-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 1899,
+        "providerName": "HBO Max",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "HBO Max",
+        "type": "movie",
+        "file": "rows/tmdb-movie-1899-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-1899-mx-any-any-released.json"
       },
       {
         "file": "rows/tmdb-movie-337-mx-any-any-released.json",
@@ -109,6 +133,42 @@
         "source": "tmdb",
         "title": "Disney+",
         "type": "movie"
+      },
+      {
+        "limit": 100,
+        "provider": 531,
+        "providerName": "Paramount Plus",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Paramount+",
+        "type": "movie",
+        "file": "rows/tmdb-movie-531-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-531-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 350,
+        "providerName": "Apple TV",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Apple TV+",
+        "type": "movie",
+        "file": "rows/tmdb-movie-350-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-350-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 457,
+        "providerName": "VIX ",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "VIX",
+        "type": "movie",
+        "file": "rows/tmdb-movie-457-mx-any-any-released.json",
+        "list": "rows/tmdb-movie-457-mx-any-any-released.json"
       }
     ],
     "series": [
@@ -126,6 +186,90 @@
         "list": "garycrawfordgc/latest-tv-shows",
         "sort": "default",
         "title": "Últimas Series"
+      },
+      {
+        "limit": 100,
+        "provider": 8,
+        "providerName": "Netflix",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Netflix",
+        "type": "series",
+        "file": "rows/tmdb-series-8-mx-any-any-released.json",
+        "list": "rows/tmdb-series-8-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 119,
+        "providerName": "Amazon Prime Video",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Prime Video",
+        "type": "series",
+        "file": "rows/tmdb-series-119-mx-any-any-released.json",
+        "list": "rows/tmdb-series-119-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 1899,
+        "providerName": "HBO Max",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "HBO Max",
+        "type": "series",
+        "file": "rows/tmdb-series-1899-mx-any-any-released.json",
+        "list": "rows/tmdb-series-1899-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 337,
+        "providerName": "Disney Plus",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Disney+",
+        "type": "series",
+        "file": "rows/tmdb-series-337-mx-any-any-released.json",
+        "list": "rows/tmdb-series-337-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 531,
+        "providerName": "Paramount Plus",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Paramount+",
+        "type": "series",
+        "file": "rows/tmdb-series-531-mx-any-any-released.json",
+        "list": "rows/tmdb-series-531-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 350,
+        "providerName": "Apple TV",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "Apple TV+",
+        "type": "series",
+        "file": "rows/tmdb-series-350-mx-any-any-released.json",
+        "list": "rows/tmdb-series-350-mx-any-any-released.json"
+      },
+      {
+        "limit": 100,
+        "provider": 457,
+        "providerName": "VIX ",
+        "region": "MX",
+        "sort": "released",
+        "source": "tmdb",
+        "title": "VIX",
+        "type": "series",
+        "file": "rows/tmdb-series-457-mx-any-any-released.json",
+        "list": "rows/tmdb-series-457-mx-any-any-released.json"
       }
     ]
   }
