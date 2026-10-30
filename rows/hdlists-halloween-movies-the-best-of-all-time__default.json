@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "title": "Obsession",
+      "year": 2026
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "title": "Coraline",
+      "year": 2009
+    },
+    {
+      "id": "tt1623288",
+      "type": "movie",
+      "title": "ParaNorman",
+      "year": 2012
+    }
+  ]
+}
