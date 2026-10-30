@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "id": "tt0083866",
+      "type": "movie",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    {
       "id": "tt0107688",
       "type": "movie",
       "title": "The Nightmare Before Christmas",
@@ -35,6 +41,24 @@
       "type": "movie",
       "title": "Monster House",
       "year": 2006
+    },
+    {
+      "id": "tt11909878",
+      "type": "movie",
+      "title": "Hocus Pocus 2",
+      "year": 2022
+    },
+    {
+      "id": "tt0107120",
+      "type": "movie",
+      "title": "Hocus Pocus",
+      "year": 1993
+    },
+    {
+      "id": "tt0267913",
+      "type": "movie",
+      "title": "Scooby-Doo",
+      "year": 2002
     }
   ]
 }
