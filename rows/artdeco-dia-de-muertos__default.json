@@ -11,6 +11,12 @@
       "type": "movie",
       "title": "The Book of Life",
       "year": 2014
+    },
+    {
+      "id": "tt1003009",
+      "type": "movie",
+      "title": "The Legend of the Nahuala",
+      "year": 2007
     }
   ]
 }
