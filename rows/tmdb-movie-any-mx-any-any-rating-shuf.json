@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "title": "Coyote vs. Acme",
+      "year": 2026
+    },
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "title": "Guardianes de la galaxia",
+      "year": 2014
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "title": "Duna: Parte dos",
+      "year": 2024
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "title": "Proyecto Fin del Mundo",
+      "year": 2026
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "year": 2026
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "title": "Entrega al límite",
+      "year": 2026
+    },
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "title": "El extraño mundo de Jack",
+      "year": 1993
+    },
+    {
+      "id": "tt2380307",
+      "type": "movie",
+      "title": "Coco",
+      "year": 2017
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "title": "Coraline y la puerta secreta",
+      "year": 2009
+    },
+    {
+      "id": "tt34385135",
+      "type": "movie",
+      "title": "Zona cero",
+      "year": 2026
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "title": "Obsesión",
+      "year": 2026
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Un nuevo día",
+      "year": 2026
+    },
+    {
+      "id": "tt1160419",
+      "type": "movie",
+      "title": "Duna",
+      "year": 2021
+    },
+    {
+      "id": "tt0848228",
+      "type": "movie",
+      "title": "Avengers: Los Vengadores",
+      "year": 2012
+    }
+  ]
+}
