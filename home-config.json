@@ -80,11 +80,11 @@
         "title": "Top 10 Películas"
       },
       {
-        "file": "rows/snoak-latest-movies-digital-release__default.json",
-        "limit": 30,
+        "limit": 100,
         "list": "snoak/latest-movies-digital-release",
         "sort": "default",
-        "title": "Últimas Películas"
+        "title": "Últimas Películas",
+        "file": "rows/snoak-latest-movies-digital-release__default.json"
       },
       {
         "file": "rows/tmdb-movie-8-mx-any-any-released.json",
@@ -181,11 +181,11 @@
         "title": "Top 10 Series"
       },
       {
-        "file": "rows/garycrawfordgc-latest-tv-shows__default.json",
-        "limit": 30,
+        "limit": 100,
         "list": "garycrawfordgc/latest-tv-shows",
         "sort": "default",
-        "title": "Últimas Series"
+        "title": "Últimas Series",
+        "file": "rows/garycrawfordgc-latest-tv-shows__default.json"
       },
       {
         "file": "rows/tmdb-series-8-mx-any-any-released.json",
