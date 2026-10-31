@@ -29,6 +29,18 @@
       "type": "series",
       "title": "President Curtis",
       "year": 2026
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "title": "Marshals",
+      "year": 2026
+    },
+    {
+      "id": "tt40197357",
+      "type": "series",
+      "title": "Scrubs",
+      "year": 2026
     }
   ]
 }
