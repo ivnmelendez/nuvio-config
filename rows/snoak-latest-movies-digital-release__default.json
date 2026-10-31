@@ -77,6 +77,24 @@
       "type": "movie",
       "title": "The End of Oak Street",
       "year": 2026
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "year": 2026
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "title": "Backrooms",
+      "year": 2026
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "title": "Obsession",
+      "year": 2026
     }
   ]
 }
