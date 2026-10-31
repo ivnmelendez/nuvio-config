@@ -13,22 +13,16 @@
       "year": 1989
     },
     {
-      "id": "tt23112594",
-      "type": "series",
-      "title": "VisionQuest",
-      "year": 2026
-    },
-    {
       "id": "tt31510819",
       "type": "series",
       "title": "Tierra de Mafia",
       "year": 2025
     },
     {
-      "id": "tt0397306",
+      "id": "tt23112594",
       "type": "series",
-      "title": "American Dad: Un Agente de Familia",
-      "year": 2005
+      "title": "VisionQuest",
+      "year": 2026
     },
     {
       "id": "tt0121955",
@@ -37,16 +31,46 @@
       "year": 1997
     },
     {
-      "id": "tt23148340",
+      "id": "tt0397306",
       "type": "series",
-      "title": "Crystal Lake",
-      "year": 2026
+      "title": "American Dad: Un Agente de Familia",
+      "year": 2005
     },
     {
       "id": "tt1520211",
       "type": "series",
       "title": "The Walking Dead",
       "year": 2010
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "title": "Crystal Lake",
+      "year": 2026
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "title": "Futurama",
+      "year": 1999
+    },
+    {
+      "id": "tt0149460",
+      "type": "series",
+      "title": "Futurama",
+      "year": 1999
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "title": "Marshals: Una historia de Yellowstone",
+      "year": 2026
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "title": "Nocturno",
+      "year": 2026
     }
   ]
 }
