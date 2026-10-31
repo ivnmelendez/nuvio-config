@@ -31,16 +31,16 @@
       "year": 2026
     },
     {
-      "id": "tt36583977",
-      "type": "movie",
-      "title": "La isla olvidada",
-      "year": 2026
-    },
-    {
       "id": "tt2380307",
       "type": "movie",
       "title": "Coco",
       "year": 2017
+    },
+    {
+      "id": "tt36583977",
+      "type": "movie",
+      "title": "La isla olvidada",
+      "year": 2026
     },
     {
       "id": "tt0107688",
@@ -49,9 +49,9 @@
       "year": 1993
     },
     {
-      "id": "tt31049299",
+      "id": "tt1756855",
       "type": "movie",
-      "title": "Animales",
+      "title": "Coyote vs. Acme",
       "year": 2026
     },
     {
@@ -61,9 +61,9 @@
       "year": 2026
     },
     {
-      "id": "tt31349844",
+      "id": "tt31049299",
       "type": "movie",
-      "title": "Entrega al límite",
+      "title": "Animales",
       "year": 2026
     },
     {
@@ -73,16 +73,22 @@
       "year": 2026
     },
     {
+      "id": "tt31349844",
+      "type": "movie",
+      "title": "Entrega al límite",
+      "year": 2026
+    },
+    {
       "id": "tt12042730",
       "type": "movie",
       "title": "Proyecto Fin del Mundo",
       "year": 2026
     },
     {
-      "id": "tt1756855",
+      "id": "tt0327597",
       "type": "movie",
-      "title": "Coyote vs. Acme",
-      "year": 2026
+      "title": "Coraline y la puerta secreta",
+      "year": 2009
     },
     {
       "id": "tt34385135",
@@ -95,12 +101,6 @@
       "type": "movie",
       "title": "El final de la Calle Oak",
       "year": 2026
-    },
-    {
-      "id": "tt0327597",
-      "type": "movie",
-      "title": "Coraline y la puerta secreta",
-      "year": 2009
     },
     {
       "id": "tt15239678",
@@ -127,16 +127,16 @@
       "year": 2005
     },
     {
+      "id": "tt0121164",
+      "type": "movie",
+      "title": "El cadáver de la novia",
+      "year": 2005
+    },
+    {
       "id": "tt6262770",
       "type": "movie",
       "title": "Tenzing: Conquistando el Everest",
       "year": 2026
-    },
-    {
-      "id": "tt1160419",
-      "type": "movie",
-      "title": "Duna",
-      "year": 2021
     },
     {
       "id": "tt0848228",
@@ -148,6 +148,108 @@
       "id": "tt2395427",
       "type": "movie",
       "title": "Avengers 2: Era de Ultrón",
+      "year": 2015
+    },
+    {
+      "id": "tt0371746",
+      "type": "movie",
+      "title": "Iron man - El hombre de hierro",
+      "year": 2008
+    },
+    {
+      "id": "tt0371746",
+      "type": "movie",
+      "title": "Iron man - El hombre de hierro",
+      "year": 2008
+    },
+    {
+      "id": "tt1228705",
+      "type": "movie",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    {
+      "id": "tt0107120",
+      "type": "movie",
+      "title": "Abracadabra",
+      "year": 1993
+    },
+    {
+      "id": "tt3498820",
+      "type": "movie",
+      "title": "Capitán América: Civil War",
+      "year": 2016
+    },
+    {
+      "id": "tt1981115",
+      "type": "movie",
+      "title": "Thor: un mundo oscuro",
+      "year": 2013
+    },
+    {
+      "id": "tt43617372",
+      "type": "movie",
+      "title": "Tú+Yo - Los dos contra todos",
+      "year": 2026
+    },
+    {
+      "id": "tt1300854",
+      "type": "movie",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    {
+      "id": "tt0800369",
+      "type": "movie",
+      "title": "Thor",
+      "year": 2011
+    },
+    {
+      "id": "tt1003009",
+      "type": "movie",
+      "title": "La Leyenda de la Nahuala",
+      "year": 2007
+    },
+    {
+      "id": "tt1211837",
+      "type": "movie",
+      "title": "Doctor Strange: Hechicero supremo",
+      "year": 2016
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "title": "Monster house: La casa de los sustos",
+      "year": 2006
+    },
+    {
+      "id": "tt1843866",
+      "type": "movie",
+      "title": "Capitán América y el Soldado del Invierno",
+      "year": 2014
+    },
+    {
+      "id": "tt37853455",
+      "type": "movie",
+      "title": "Solo por una noche",
+      "year": 2026
+    },
+    {
+      "id": "tt0083866",
+      "type": "movie",
+      "title": "E.T. El Extraterrestre",
+      "year": 1982
+    },
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "title": "Guardianes de la galaxia",
+      "year": 2014
+    },
+    {
+      "id": "tt0478970",
+      "type": "movie",
+      "title": "Ant-Man: El hombre Hormiga",
       "year": 2015
     }
   ]
