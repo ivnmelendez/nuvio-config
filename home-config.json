@@ -56,17 +56,17 @@
         "until": "2026-11-03"
       },
       {
+        "file": "rows/tmdb-movie-any-mx-35-any-rating-shuf.json",
         "genre": 35,
         "genreName": "Comedia",
         "limit": 300,
+        "list": "rows/tmdb-movie-any-mx-35-any-rating-shuf.json",
         "region": "MX",
         "shuffle": true,
         "sort": "rating",
         "source": "tmdb",
         "title": "Comedia",
-        "type": "movie",
-        "file": "rows/tmdb-movie-any-mx-35-any-rating-shuf.json",
-        "list": "rows/tmdb-movie-any-mx-35-any-rating-shuf.json"
+        "type": "movie"
       }
     ],
     "movies": [
