@@ -4,31 +4,80 @@
       "id": "tt23112594",
       "type": "series",
       "title": "VisionQuest",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "description": "Una versión reiniciada de Visión se ha estado escondiendo de aquellos que pretenden usarlo como un arma. Mientras permanece oculto, consulta a las personalidades de IA integradas en su programación —incluyendo al infame Ultrón— para comprender su verdadero propósito.",
+      "rating": 8.656,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "runtime": "56 min"
     },
     {
       "id": "tt31510819",
       "type": "series",
       "title": "MobLand",
-      "year": 2025
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w500/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+      "description": "El poder está en juego cuando dos familias criminales rivales se enfrentan y arriesgan sus imperios y sus vidas. En el fuego cruzado está Harry Da Souza, un astuto \"solucionador\" que sabe dónde están las lealtades cuando las fuerzas opuestas chocan.",
+      "rating": 8.48,
+      "genres": [
+        "Crimen",
+        "Drama"
+      ]
     },
     {
       "id": "tt0121955",
       "type": "series",
       "title": "South Park",
-      "year": 1997
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w500/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/4GZbeusQkSnYqH40W5ls67sYq5t.png",
+      "description": "Cuatro niños (Stan, Kyle, Cartman y Kenny) irreverentes de primaria viven grandes y surrealistas desventuras en la tranquila y disfuncional pueblo South Park, Colorado.",
+      "rating": 8.332,
+      "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "runtime": "23 min"
     },
     {
       "id": "tt36849871",
       "type": "series",
       "title": "Marshals",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/hcQsv6SfYpXeQdB7OR29bN6KFY1.png",
+      "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ]
     },
     {
       "id": "tt23148340",
       "type": "series",
       "title": "Crystal Lake",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/sndzmhMXIV0tCKrsrLBgFLILP8j.svg",
+      "description": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habita",
+      "rating": 8.6,
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "runtime": "56 min"
     }
   ]
 }
