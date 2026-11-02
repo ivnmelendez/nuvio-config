@@ -1,29 +1,13 @@
 {
   "items": [
     {
-      "id": "tt0182576",
-      "type": "series",
-      "title": "Padre de Familia",
-      "year": 1999,
-      "poster": "https://image.tmdb.org/t/p/w500/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/d0qh15QxRMBigvAnuZ8bSaN02jS.png",
-      "description": "La disfuncional familia Griffin (Los padres Peter y Lois; sus hijos Meg, Chris y Stewie; y su perro antropormófico Brian) viven aventuras cada vez más enfermizas, retorcidas, políticamente incorrecto y tremendamente dulce.",
-      "rating": 7.411,
-      "genres": [
-        "Animación",
-        "Comedia"
-      ],
-      "runtime": "22 min"
-    },
-    {
       "id": "tt0096697",
       "type": "series",
       "title": "Los Simpson",
       "year": 1989,
       "poster": "https://image.tmdb.org/t/p/w500/mpizUstxJmMbgMwc8MDEXQ6kXTP.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/heDwFJx51IiBSJtjA1JYcWOXy7M.png",
+      "logo": "https://image.tmdb.org/t/p/w300/8faXjkxFwHry3pjz7jrQPcnlGvi.svg",
       "description": "La familia Simpson (Homero, Marge, Bart, Lisa y Maggie), y un reparto virtual de miles, viven aventuras cotidianas en Springfield, una ciudad estadounidense promedio.",
       "rating": 8.026,
       "genres": [
@@ -33,13 +17,29 @@
       "runtime": "23 min"
     },
     {
+      "id": "tt0182576",
+      "type": "series",
+      "title": "Padre de Familia",
+      "year": 1999,
+      "poster": "https://image.tmdb.org/t/p/w500/oalgdH3vglKvg1SB4OaMyoJ29sx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/l27nQrTwjq5GIp8typOdUKvlDZQ.png",
+      "description": "La disfuncional familia Griffin (Los padres Peter y Lois; sus hijos Meg, Chris y Stewie; y su perro antropormófico Brian) viven aventuras cada vez más enfermizas, retorcidas, políticamente incorrecto y tremendamente dulce.",
+      "rating": 7.411,
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "runtime": "22 min"
+    },
+    {
       "id": "tt31510819",
       "type": "series",
       "title": "Tierra de Mafia",
       "year": 2025,
       "poster": "https://image.tmdb.org/t/p/w500/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+      "logo": "https://image.tmdb.org/t/p/w300/eEupFv8QIGVB7Z7a2QvECrlsvzu.png",
       "description": "El poder está en juego cuando dos familias criminales rivales se enfrentan y arriesgan sus imperios y sus vidas. En el fuego cruzado está Harry Da Souza, un astuto \"solucionador\" que sabe dónde están las lealtades cuando las fuerzas opuestas chocan.",
       "rating": 8.48,
       "genres": [
@@ -64,29 +64,13 @@
       "runtime": "56 min"
     },
     {
-      "id": "tt0397306",
-      "type": "series",
-      "title": "American Dad: Un Agente de Familia",
-      "year": 2005,
-      "poster": "https://image.tmdb.org/t/p/w500/bcQKWQWZCTU47Gzm3xtFkjYGGA7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/chsje6mcnELTJrM2tVlaHQ8dLpk.png",
-      "description": "American Dad es la serie de animación subversiva que gira en torno a Stan Smith (Seth MacFarlane), un agente de la CIA con sede en Langley Falls, Virginia, que es un indiscutible experto en armas y orgulloso hombre de familia. Stan está constantemente en alerta por actividad terrorista y llegará a extremos para protege",
-      "rating": 7.019,
-      "genres": [
-        "Animación",
-        "Comedia"
-      ],
-      "runtime": "22 min"
-    },
-    {
       "id": "tt0121955",
       "type": "series",
       "title": "South Park",
       "year": 1997,
       "poster": "https://image.tmdb.org/t/p/w500/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/4GZbeusQkSnYqH40W5ls67sYq5t.png",
+      "logo": "https://image.tmdb.org/t/p/w300/bvxWAJR8Tc3UTMO2h0kP5uRFwDq.png",
       "description": "Cuatro niños (Stan, Kyle, Cartman y Kenny) irreverentes de primaria viven grandes y surrealistas desventuras en la tranquila y disfuncional pueblo South Park, Colorado.",
       "rating": 8.332,
       "genres": [
@@ -96,20 +80,20 @@
       "runtime": "23 min"
     },
     {
-      "id": "tt23148340",
+      "id": "tt0397306",
       "type": "series",
-      "title": "Crystal Lake",
-      "year": 2026,
-      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/sndzmhMXIV0tCKrsrLBgFLILP8j.svg",
-      "description": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habita",
-      "rating": 8.6,
+      "title": "American Dad: Un Agente de Familia",
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w500/bcQKWQWZCTU47Gzm3xtFkjYGGA7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/qPZi2U5Q6qZ7puOArCkcjBlxT8H.png",
+      "description": "American Dad es la serie de animación subversiva que gira en torno a Stan Smith (Seth MacFarlane), un agente de la CIA con sede en Langley Falls, Virginia, que es un indiscutible experto en armas y orgulloso hombre de familia. Stan está constantemente en alerta por actividad terrorista y llegará a extremos para protege",
+      "rating": 7.019,
       "genres": [
-        "Drama",
-        "Misterio"
+        "Animación",
+        "Comedia"
       ],
-      "runtime": "56 min"
+      "runtime": "22 min"
     },
     {
       "id": "tt1520211",
@@ -129,13 +113,29 @@
       "runtime": "68 min"
     },
     {
+      "id": "tt23148340",
+      "type": "series",
+      "title": "Crystal Lake",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
+      "description": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habita",
+      "rating": 8.6,
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "runtime": "56 min"
+    },
+    {
       "id": "tt26598805",
       "type": "series",
       "title": "Nocturno",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/umzyaQEtVHhGG0gMpzYDeyI3hli.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/nB5lOt3DlBdgJVziuOFCIGAkzjF.png",
+      "logo": "https://image.tmdb.org/t/p/w300/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
       "description": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino.",
       "rating": 5.0,
       "genres": [
@@ -152,7 +152,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/hcQsv6SfYpXeQdB7OR29bN6KFY1.png",
+      "logo": "https://image.tmdb.org/t/p/w300/3AGTImytIOlu807c3VeJpdzIj9f.png",
       "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
       "rating": 7.9,
       "genres": [
@@ -168,7 +168,7 @@
       "year": 1999,
       "poster": "https://image.tmdb.org/t/p/w500/5PLGffaQ5Xw7RyMSZXh39ue6RSt.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/6jNQtbazLLAu5gLzW46FP8EGePb.png",
+      "logo": "https://image.tmdb.org/t/p/w300/d9mSTJXcysIH5MvMPzhvxyP0JAz.png",
       "description": "Una divertidísima serie animada creada por Matt Groening que cuenta la historia de un repartidor de pizzas llamado Fry que se congela criogénicamente por accidente en 1999 y se despierta 1000 años más tarde en un nuevo mundo que, en muchos aspectos, no ha progresado mucho desde el siglo XX.",
       "rating": 8.363,
       "genres": [
