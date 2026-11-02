@@ -4,241 +4,671 @@
       "id": "tt22084616",
       "type": "movie",
       "title": "Spider-Man: Un nuevo día",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "rating": 8.473,
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "runtime": "145 min"
     },
     {
       "id": "tt37180686",
       "type": "movie",
       "title": "Velocidad y Deseo",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
+      "description": "Una joven mecánica de autos de carreras finge estar comprometida con la estrella más polémica del automovilismo. Oficialmente, es para salvar su reputación, pero en secreto es la oportunidad de ella de volver al volante. Pronto, la mentira amenaza con destruir todo, incluso lo que ya se ha convertido en mucho más que u",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "runtime": "103 min"
     },
     {
       "id": "tt32261958",
       "type": "movie",
       "title": "Verity: La sombra de un engaño",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/8i9EzaVyRMtYW6WxcN7hK3RfDng.png",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansió",
+      "rating": 6.4,
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "runtime": "114 min"
     },
     {
       "id": "tt21285562",
       "type": "movie",
       "title": "La guerra de los últimos",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/flipeYd0sa4y4kpIc7Pn59JeBIj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/kShfjkGuqc5zOWvYDlXC1YNwEHO.png",
+      "description": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el ",
+      "rating": 6.6,
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Aventura"
+      ],
+      "runtime": "119 min"
     },
     {
       "id": "tt2380307",
       "type": "movie",
       "title": "Coco",
-      "year": 2017
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "description": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de event",
+      "rating": 8.203,
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt28498219",
       "type": "movie",
       "title": "Matchbox: La película",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
+      "description": "Cuando un grupo de antiguos amigos de la infancia reconecta, su reunión da un giro inesperado al descubrir un complot internacional y darse cuenta de que deben salvar al mundo.",
+      "rating": 7.704,
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "runtime": "127 min"
     },
     {
       "id": "tt36583977",
       "type": "movie",
       "title": "La isla olvidada",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/barJMlk3d6jiiMy3AbqjhBPH0Yw.png",
+      "description": "Jo y Raissa se encuentran varadas en el fantástico mundo de la isla olvidada de Nakali. Descubren que su única forma de volver a casa podría ser a costa de toda una vida de recuerdos y emociones.",
+      "rating": 7.6,
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt0107688",
       "type": "movie",
       "title": "El extraño mundo de Jack",
-      "year": 1993
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w500/6idNHT0nOD7a1ldv7vhNJFW6jl9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/4MNLaogO8K93BPKF4Wv9ZMgJrUh.png",
+      "description": "Cansado de asustar a los humanos cada 31 de octubre con la misma vieja bolsa de trucos, Jack Skellington, el rey de Halloween Town, secuestra a Santa Claus y planea entregar cabezas encogidas y otros regalos macabros a los niños en la mañana de Navidad. Pero a medida que la Navidad se acerca, la novia de Jack, Sally, i",
+      "rating": 7.856,
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "runtime": "79 min"
     },
     {
       "id": "tt37287335",
       "type": "movie",
       "title": "Obsesión",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "rating": 8.168,
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt1756855",
       "type": "movie",
       "title": "Coyote vs. Acme",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
+      "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+      "rating": 7.769,
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "runtime": "103 min"
     },
     {
       "id": "tt31049299",
       "type": "movie",
       "title": "Animales",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dl6aDoFDDjTgNMI4Cui2GmKZUpR.png",
+      "description": "Cuando secuestran a su hijo, un candidato a alcalde y su esposa buscan desesperadamente reunir dinero para el rescate, pero sus decisiones podrían destruirles la vida.",
+      "rating": 6.966,
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Acción"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt31349844",
       "type": "movie",
       "title": "Entrega al límite",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
+      "description": "Hank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+      "rating": 8.337,
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "runtime": "97 min"
     },
     {
       "id": "tt29355505",
       "type": "movie",
       "title": "Toy Story 5",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "description": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "rating": 8.278,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "runtime": "102 min"
     },
     {
       "id": "tt12042730",
       "type": "movie",
       "title": "Proyecto Fin del Mundo",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+      "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+      "rating": 8.633,
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "156 min"
     },
     {
       "id": "tt0327597",
       "type": "movie",
       "title": "Coraline y la puerta secreta",
-      "year": 2009
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w500/1fX7HMPL9f2qJ9jXFgnBMeYHdfs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/eGd2oqRsWRgET6hVo9snTRUpn9m.png",
+      "description": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+      "rating": 7.948,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "runtime": "100 min"
     },
     {
       "id": "tt34385135",
       "type": "movie",
       "title": "Zona cero",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/hCK5tVvTG2c0SrOaPCWMlbMj69A.png",
+      "description": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+      "rating": 8.214,
+      "genres": [
+        "Terror",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "runtime": "123 min"
     },
     {
       "id": "tt27165187",
       "type": "movie",
       "title": "El final de la Calle Oak",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/jPBfFTwmgco94oS9ikdt9tqHsxm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/xm5OF5LINmyJLV7Cvq1UHxWeJHM.png",
+      "description": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.",
+      "rating": 7.079,
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "runtime": "100 min"
     },
     {
       "id": "tt26657236",
       "type": "movie",
       "title": "Backrooms: Sin salida",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
+      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+      "rating": 7.01,
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "runtime": "111 min"
     },
     {
       "id": "tt15239678",
       "type": "movie",
       "title": "Duna: Parte dos",
-      "year": 2024
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/eYvF1LhPKuoBxOAmWjFTAK7EPWl.png",
+      "description": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede ",
+      "rating": 8.143,
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "167 min"
     },
     {
       "id": "tt0121164",
       "type": "movie",
       "title": "El cadáver de la novia",
-      "year": 2005
+      "year": 2005,
+      "poster": "https://image.tmdb.org/t/p/w500/nf58Ni0DPP9KY5tEMo2lAyUIYU3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/hrTz8M55rwC08IBf0MoW8BBBAfc.png",
+      "description": "Cuando un tímido novio practica sus votos matrimoniales en presencia inadvertida de una joven fallecida, ella se levanta de la tumba asumiendo que se ha casado con ella.",
+      "rating": 7.597,
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Animación"
+      ],
+      "runtime": "77 min"
     },
     {
       "id": "tt34384900",
       "type": "movie",
       "title": "El amor de tu vida",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/uhuoKyXfPZgzWdHhvC27VfdzUT.png",
+      "description": "De la directora Rachel Morrison, El amor de tu vida es la historia de Maya, quien conoce a Charlie por accidente, vive un romance avasallador y vislumbra un futuro que supera todo lo que llegó a imaginar. Cuando ese futuro colapsa, Maya debe enfrentar una nueva vida y decidir quién es, qué quiere y cómo amar de nuevo.",
+      "rating": 6.739,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt1160419",
       "type": "movie",
       "title": "Duna",
-      "year": 2021
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/1Op57Khovv3ANSWn3TvhMStBboV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2gk0HwLIAyQcwyUBI7oddJYOxpN.png",
+      "description": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.",
+      "rating": 7.785,
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "155 min"
     },
     {
       "id": "tt6262770",
       "type": "movie",
       "title": "Tenzing: Conquistando el Everest",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "description": "Un hombre determinado realiza una hazaña desafiando probabilidades casi imposibles para cumplir su sueño de ser el primero en llegar a la cima del Monte Everest.",
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "runtime": "126 min"
     },
     {
       "id": "tt0848228",
       "type": "movie",
       "title": "Avengers: Los Vengadores",
-      "year": 2012
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w500/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2VLCNzMOGayRGdiSGyaOD0MzA3Y.png",
+      "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y",
+      "rating": 8.083,
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "runtime": "143 min"
     },
     {
       "id": "tt2395427",
       "type": "movie",
       "title": "Avengers 2: Era de Ultrón",
-      "year": 2015
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w500/fXi6HGIJXi7Z8YWZRcRI56dfY4p.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/20LDr1XcZV7e9vIDZadm8iRsDcx.png",
+      "description": "Cuando Tony Stark y Bruce Banner intentan poner en marcha un inactivo programa de mantenimiento de la paz llamado Ultrón, las cosas van terriblemente mal y depende de los héroes más poderosos de la Tierra evitar que el villano Ultrón lleve a cabo su terrible plan.",
+      "rating": 7.278,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "runtime": "141 min"
     },
     {
       "id": "tt0107120",
       "type": "movie",
       "title": "Abracadabra",
-      "year": 1993
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w500/htUY6chstw5LreWtruELHZITuxy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/cskLnOTAXQxUSgdAgFIA7xTPJmU.png",
+      "description": "El 31 de octubre de 1693, durante los juicios por brujería de Salem, Thackery Binx ve a su hermana Emily adentrarse en el bosque dirigiéndose a la cabaña de tres brujas. Allí, las hermanas Sanderson, Winifred, Mary y Sarah, hacen un hechizo en Emily para absorber su juventud y recuperar la suya, matándola en el proceso",
+      "rating": 7.048,
+      "genres": [
+        "Fantasía",
+        "Comedia",
+        "Familia"
+      ],
+      "runtime": "96 min"
     },
     {
       "id": "tt0371746",
       "type": "movie",
       "title": "Iron man - El hombre de hierro",
-      "year": 2008
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w500/bFj7XRg5avQDvuvWaag3IttjEAw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png",
+      "description": "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en “El hombre de hierro”, un héroe que se dedica a combatir el mal en todo el mundo",
+      "rating": 7.668,
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "126 min"
     },
     {
       "id": "tt3498820",
       "type": "movie",
       "title": "Capitán América: Civil War",
-      "year": 2016
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w500/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/w1ZLhVffmmKDGoB8Oi0MdlQTw6m.png",
+      "description": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengado",
+      "rating": 7.455,
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "runtime": "147 min"
     },
     {
       "id": "tt1228705",
       "type": "movie",
       "title": "Iron Man 2",
-      "year": 2010
+      "year": 2010,
+      "poster": "https://image.tmdb.org/t/p/w500/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/e7jxjQ7zFnCaTSMuZGlMXmmrmA1.png",
+      "description": "El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa inf",
+      "rating": 6.855,
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "runtime": "125 min"
     },
     {
       "id": "tt43617372",
       "type": "movie",
       "title": "Tú+Yo - Los dos contra todos",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/eV17eCN1CM9fmGJHkfDzMsqqR0a.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/aXWC2XPcpn7Ta8KHzt1NCKXxJBi.png",
+      "description": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados ",
+      "rating": 5.5,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "runtime": "94 min"
     },
     {
       "id": "tt1981115",
       "type": "movie",
       "title": "Thor: un mundo oscuro",
-      "year": 2013
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w500/cs5YLwGBCJBold74avD3NecO5Zc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/z9QOY91ablajk9tuBN6XO7I6GES.png",
+      "description": "Cuando los Elfos Oscuros intentan hundir el universo en la oscuridad, Thor debe embarcarse en un peligroso y personal viaje que lo reunirá con la doctora Jane Foster.",
+      "rating": 6.506,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "runtime": "112 min"
     },
     {
       "id": "tt1003009",
       "type": "movie",
       "title": "La Leyenda de la Nahuala",
-      "year": 2007
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w500/dggo1MOieBZsJ18qqqaT4B4VdB4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/umAxZQoJ0I6YlwYB5NqLqD7NjdX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/skTHJw09YXYawMJIqLfQUSFj8r7.png",
+      "description": "Leo San Juan, un niño inseguro de nueve años de edad, vive eternamente asustado por las historias de terror que Nando le cuenta a su hermano mayor. Dentro de estas historias es \"La leyenda de Nahuala\", según la cual, una vieja casona abandonada es poseída por el alcohol de una bruja malvada conocida como el Nahuala.",
+      "rating": 8.124,
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Animación"
+      ],
+      "runtime": "84 min"
     },
     {
       "id": "tt1300854",
       "type": "movie",
       "title": "Iron Man 3",
-      "year": 2013
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w500/ky38H2S7bWVl46OtAH5kJv6pYAw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/3Vo0tJwLjkSYhEKLmdEhm4CuRqk.png",
+      "description": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorra",
+      "rating": 6.933,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "runtime": "130 min"
     },
     {
       "id": "tt0800369",
       "type": "movie",
       "title": "Thor",
-      "year": 2011
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w500/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/mhWN03HN4j9nSkomzDKZyl6xVuq.png",
+      "description": "El poderoso Thor es desterrado del fantástico reino de Asgard por su padre Odin debido a su arrogancia y es enviado a Midgard, la Tierra, para que viva entre los humanos. Ahí conocerá a Jane y sus amigos, y en donde aprenderá para convertirse en un gran defensor de este reino.",
+      "rating": 6.772,
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
+      ],
+      "runtime": "115 min"
     },
     {
       "id": "tt0385880",
       "type": "movie",
       "title": "Monster house: La casa de los sustos",
-      "year": 2006
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w500/k31wCITusqBpVHdRG5QqOPqJGIO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/cp2tIMwgy8MVxkKs2zC4R7qJgVh.png",
+      "description": "D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de l",
+      "rating": 6.735,
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "runtime": "90 min"
     },
     {
       "id": "tt1211837",
       "type": "movie",
       "title": "Doctor Strange: Hechicero supremo",
-      "year": 2016
+      "year": 2016,
+      "poster": "https://image.tmdb.org/t/p/w500/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/oGTJ88hszp8GuTpppGmYceJB7RP.png",
+      "description": "La historia del famoso neurocirujano Dr. Stephen Strange cuya vida cambia para siempre luego de un accidente automovilístico que lo deja sin poder mover sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar una cura y esperanzas en un lugar impensado: una comunidad aislada y misteriosa llamada Kamar-",
+      "rating": 7.425,
+      "genres": [
+        "Fantasía",
+        "Aventura",
+        "Acción"
+      ],
+      "runtime": "115 min"
     },
     {
       "id": "tt37853455",
       "type": "movie",
       "title": "Solo por una noche",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3afHil7EVm655wO2NS6RHxuyicE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/AaHXwuFNm0gknm5FqwcjGxT415V.png",
+      "description": "Dos desconocidos, ávidos de amor, se topan por casualidad en la única noche del año en que las personas solteras tienen permitido tener relaciones sexuales.",
+      "rating": 6.411,
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "runtime": "103 min"
     },
     {
       "id": "tt1843866",
       "type": "movie",
       "title": "Capitán América y el Soldado del Invierno",
-      "year": 2014
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jJvrPQAHFKmz4pVano4UtWTsRgA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/7taEKhcDUfQyUV5F0vPAnzs0bYm.png",
+      "description": "Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno.",
+      "rating": 7.654,
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "runtime": "136 min"
     },
     {
       "id": "tt2262227",
       "type": "movie",
       "title": "El Libro de la Vida",
-      "year": 2014
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/k669nOalwu7NKhW7aWNJKN7Nxvi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/7bUYGOyVbGXxNQ292cjwYh003vW.png",
+      "description": "La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores m",
+      "rating": 7.542,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "runtime": "95 min"
     },
     {
       "id": "tt0083866",
       "type": "movie",
       "title": "E.T. El Extraterrestre",
-      "year": 1982
+      "year": 1982,
+      "poster": "https://image.tmdb.org/t/p/w500/ojvKem8WUzRK5PLvO7wTuAFinnz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/cj5vQJiJ9ByXNNeVy3mG5exM1BA.png",
+      "description": "Obra maestra del cine que ha cautivado a audiencias de todas las edades desde su lanzamiento en 1982. Dirigida por Steven Spielberg, esta película narra la emotiva historia de la amistad entre un niño llamado Elliott y un adorable extraterrestre perdido en la Tierra. Con una combinación perfecta de aventura, emoción y ",
+      "rating": 7.518,
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Familia"
+      ],
+      "runtime": "115 min"
     }
   ]
 }
