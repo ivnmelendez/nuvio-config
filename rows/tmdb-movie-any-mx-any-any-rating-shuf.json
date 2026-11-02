@@ -1,88 +1,237 @@
 {
   "items": [
     {
-      "id": "tt31349844",
-      "type": "movie",
-      "title": "Entrega al límite",
-      "year": 2026
-    },
-    {
-      "id": "tt37287335",
-      "type": "movie",
-      "title": "Obsesión",
-      "year": 2026
-    },
-    {
-      "id": "tt2380307",
-      "type": "movie",
-      "title": "Coco",
-      "year": 2017
-    },
-    {
-      "id": "tt2015381",
-      "type": "movie",
-      "title": "Guardianes de la galaxia",
-      "year": 2014
-    },
-    {
-      "id": "tt15239678",
-      "type": "movie",
-      "title": "Duna: Parte dos",
-      "year": 2024
-    },
-    {
-      "id": "tt0327597",
-      "type": "movie",
-      "title": "Coraline y la puerta secreta",
-      "year": 2009
-    },
-    {
-      "id": "tt29355505",
-      "type": "movie",
-      "title": "Toy Story 5",
-      "year": 2026
-    },
-    {
-      "id": "tt22084616",
-      "type": "movie",
-      "title": "Spider-Man: Un nuevo día",
-      "year": 2026
-    },
-    {
       "id": "tt12042730",
       "type": "movie",
       "title": "Proyecto Fin del Mundo",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+      "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+      "rating": 8.633,
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "156 min"
     },
     {
       "id": "tt0848228",
       "type": "movie",
       "title": "Avengers: Los Vengadores",
-      "year": 2012
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w500/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2VLCNzMOGayRGdiSGyaOD0MzA3Y.png",
+      "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y",
+      "rating": 8.083,
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "runtime": "143 min"
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "title": "Entrega al límite",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
+      "description": "Hank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+      "rating": 8.337,
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "runtime": "97 min"
     },
     {
       "id": "tt34385135",
       "type": "movie",
       "title": "Zona cero",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/hCK5tVvTG2c0SrOaPCWMlbMj69A.png",
+      "description": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
+      "rating": 8.214,
+      "genres": [
+        "Terror",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "runtime": "123 min"
     },
     {
-      "id": "tt1756855",
+      "id": "tt15239678",
       "type": "movie",
-      "title": "Coyote vs. Acme",
-      "year": 2026
+      "title": "Duna: Parte dos",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/eYvF1LhPKuoBxOAmWjFTAK7EPWl.png",
+      "description": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede ",
+      "rating": 8.143,
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "167 min"
     },
     {
-      "id": "tt1160419",
+      "id": "tt29355505",
       "type": "movie",
-      "title": "Duna",
-      "year": 2021
+      "title": "Toy Story 5",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "description": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "rating": 8.278,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt2380307",
+      "type": "movie",
+      "title": "Coco",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "description": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de event",
+      "rating": 8.203,
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt0107688",
       "type": "movie",
       "title": "El extraño mundo de Jack",
-      "year": 1993
+      "year": 1993,
+      "poster": "https://image.tmdb.org/t/p/w500/6idNHT0nOD7a1ldv7vhNJFW6jl9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/4MNLaogO8K93BPKF4Wv9ZMgJrUh.png",
+      "description": "Cansado de asustar a los humanos cada 31 de octubre con la misma vieja bolsa de trucos, Jack Skellington, el rey de Halloween Town, secuestra a Santa Claus y planea entregar cabezas encogidas y otros regalos macabros a los niños en la mañana de Navidad. Pero a medida que la Navidad se acerca, la novia de Jack, Sally, i",
+      "rating": 7.856,
+      "genres": [
+        "Fantasía",
+        "Animación",
+        "Familia"
+      ],
+      "runtime": "79 min"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "title": "Obsesión",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "rating": 8.168,
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "runtime": "109 min"
+    },
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
+      "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+      "rating": 7.769,
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "runtime": "103 min"
+    },
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "title": "Guardianes de la galaxia",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/tikZxXefORICSFaRxEJ01YEfOu1.png",
+      "description": "Peter Quill, debe mantener una incomoda alianza con Gamora, Drax, Rocket y Groot para asegurar un artefacto que pone en peligro a toda la galaxia no caiga en las manos del temible Ronan el Acusador.",
+      "rating": 7.908,
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "121 min"
+    },
+    {
+      "id": "tt1160419",
+      "type": "movie",
+      "title": "Duna",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/1Op57Khovv3ANSWn3TvhMStBboV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2gk0HwLIAyQcwyUBI7oddJYOxpN.png",
+      "description": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.",
+      "rating": 7.785,
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "runtime": "155 min"
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Un nuevo día",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "rating": 8.473,
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "runtime": "145 min"
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "title": "Coraline y la puerta secreta",
+      "year": 2009,
+      "poster": "https://image.tmdb.org/t/p/w500/1fX7HMPL9f2qJ9jXFgnBMeYHdfs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/eGd2oqRsWRgET6hVo9snTRUpn9m.png",
+      "description": "Una aventurera niña de 11 años encuentra otro mundo que es una versión extrañamente idealizada de su frustrante hogar, pero que tiene siniestros secretos.",
+      "rating": 7.948,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "runtime": "100 min"
     }
   ]
 }
