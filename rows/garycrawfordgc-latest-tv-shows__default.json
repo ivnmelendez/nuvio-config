@@ -4,43 +4,109 @@
       "id": "tt42220724",
       "type": "series",
       "title": "Minimum Wage",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/AeLoyQxyQnw2v5roiFxxvkxAJqQ.png",
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "20 min"
     },
     {
       "id": "tt23148340",
       "type": "series",
       "title": "Crystal Lake",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/sndzmhMXIV0tCKrsrLBgFLILP8j.svg",
+      "description": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habita",
+      "rating": 8.6,
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "runtime": "56 min"
     },
     {
       "id": "tt23112594",
       "type": "series",
       "title": "VisionQuest",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+      "description": "Una versión reiniciada de Visión se ha estado escondiendo de aquellos que pretenden usarlo como un arma. Mientras permanece oculto, consulta a las personalidades de IA integradas en su programación —incluyendo al infame Ultrón— para comprender su verdadero propósito.",
+      "rating": 8.656,
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "runtime": "56 min"
     },
     {
       "id": "tt6773088",
       "type": "series",
       "title": "Brothers",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/2KZleiyQwgvPu05mQolZBKY6asv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+      "description": "Los actores de Hollywood, Matthew McConaughey y Woody Harrelson, han sido los mejores amigos por años, pero un secreto familiar sugiere que sus lazos podrían ser más cercanos.",
+      "rating": 7.563,
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "32 min"
     },
     {
       "id": "tt37692332",
       "type": "series",
       "title": "President Curtis",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/fnbmOKHcO3W66rNE4ESfc4DjShi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/oA1orEp9XUfZRfhX4d5bWjJGuAk.png",
+      "description": "El presidente Curtis y su equipo enfrentan crisis extraordinarias que nadie más puede resolver.",
+      "rating": 6.885,
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "runtime": "23 min"
     },
     {
       "id": "tt36849871",
       "type": "series",
       "title": "Marshals",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/hcQsv6SfYpXeQdB7OR29bN6KFY1.png",
+      "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ]
     },
     {
       "id": "tt40197357",
       "type": "series",
       "title": "Scrubs",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/6GsNbcjl08rIqGlAIJ7sMhdNRfA.png",
+      "description": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "rating": 7.7,
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "23 min"
     }
   ]
 }
