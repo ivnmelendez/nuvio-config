@@ -1,13 +1,30 @@
 {
   "items": [
     {
+      "id": "tt26598805",
+      "type": "series",
+      "title": "Nocturne",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/umzyaQEtVHhGG0gMpzYDeyI3hli.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dKJeL6j6DQJWNFs08mK92V0IPGs.png",
+      "description": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino.",
+      "rating": 5.0,
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "runtime": "51 min"
+    },
+    {
       "id": "tt42220724",
       "type": "series",
       "title": "Minimum Wage",
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/AeLoyQxyQnw2v5roiFxxvkxAJqQ.png",
+      "logo": "https://image.tmdb.org/t/p/w300/4ixXavDLqHfiVDn26thx1SWhQl2.png",
       "genres": [
         "Comedia"
       ],
@@ -20,7 +37,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/sndzmhMXIV0tCKrsrLBgFLILP8j.svg",
+      "logo": "https://image.tmdb.org/t/p/w300/zMdL06gtSVXZYzZ5HomCFpCxjW7.png",
       "description": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habita",
       "rating": 8.6,
       "genres": [
@@ -52,7 +69,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/2KZleiyQwgvPu05mQolZBKY6asv.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+      "logo": "https://image.tmdb.org/t/p/w300/vSMOOG222GhNLmtVMX5rZGdMQgt.png",
       "description": "Los actores de Hollywood, Matthew McConaughey y Woody Harrelson, han sido los mejores amigos por años, pero un secreto familiar sugiere que sus lazos podrían ser más cercanos.",
       "rating": 7.563,
       "genres": [
@@ -67,7 +84,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/fnbmOKHcO3W66rNE4ESfc4DjShi.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/oA1orEp9XUfZRfhX4d5bWjJGuAk.png",
+      "logo": "https://image.tmdb.org/t/p/w300/sfBplhHAq2UrOkiydefSYyVLzWw.png",
       "description": "El presidente Curtis y su equipo enfrentan crisis extraordinarias que nadie más puede resolver.",
       "rating": 6.885,
       "genres": [
@@ -84,7 +101,7 @@
       "year": 2026,
       "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "logo": "https://image.tmdb.org/t/p/w300/hcQsv6SfYpXeQdB7OR29bN6KFY1.png",
+      "logo": "https://image.tmdb.org/t/p/w300/3AGTImytIOlu807c3VeJpdzIj9f.png",
       "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
       "rating": 7.9,
       "genres": [
