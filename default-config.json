@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "tabs": {
+    "home": [
+      {
+        "limit": 30,
+        "list": "snoak/latest-movies-digital-release",
+        "sort": "default",
+        "title": "Lastest Movies",
+        "file": "default/rows/snoak-latest-movies-digital-release__default.json"
+      },
+      {
+        "limit": 30,
+        "list": "garycrawfordgc/latest-tv-shows",
+        "sort": "default",
+        "title": "Lastest TV Shows",
+        "file": "default/rows/garycrawfordgc-latest-tv-shows__default.json"
+      }
+    ],
+    "movies": [
+      {
+        "limit": 30,
+        "list": "snoak/latest-netflix-movies",
+        "sort": "default",
+        "title": "Lastest Netflix Movies",
+        "file": "default/rows/snoak-latest-netflix-movies__default.json"
+      }
+    ],
+    "series": [
+      {
+        "limit": 30,
+        "list": "snoak/latest-netflix-tv-shows",
+        "sort": "default",
+        "title": "Lastest Netflix Shows",
+        "file": "default/rows/snoak-latest-netflix-tv-shows__default.json"
+      }
+    ]
+  }
+}
