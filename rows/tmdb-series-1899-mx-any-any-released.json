@@ -4,13 +4,34 @@
       "id": "tt37692332",
       "type": "series",
       "title": "El Presidente Curtis",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/fnbmOKHcO3W66rNE4ESfc4DjShi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/oA1orEp9XUfZRfhX4d5bWjJGuAk.png",
+      "description": "El presidente Curtis y su equipo enfrentan crisis extraordinarias que nadie más puede resolver.",
+      "rating": 6.885,
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "runtime": "23 min"
     },
     {
       "id": "tt10466872",
       "type": "series",
       "title": "Duna: La profecía",
-      "year": 2024
+      "year": 2024,
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/367118/posters/673bd923f1637.jpg",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/367118/backgrounds/67132b10bd5a3.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/367118/clearlogo/67132acbb0cb0.png",
+      "description": "Contada a través de los ojos de una misteriosa orden de mujeres conocidas como las Bene Gesserit, dotadas de habilidades extraordinarias gracias a su dominio del cuerpo y la mente, las Bene Gesserit se desenvuelven con pericia entre la política feudal y las intrigas del Imperio, persiguiendo sus propios planes que, en ",
+      "rating": 7.3,
+      "genres": [
+        "Science Fiction",
+        "Fantasy",
+        "Drama"
+      ]
     }
   ]
 }
