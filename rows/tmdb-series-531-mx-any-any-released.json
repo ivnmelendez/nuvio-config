@@ -4,25 +4,63 @@
       "id": "tt34991493",
       "type": "series",
       "title": "Rancho Dutton",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/7dAzAtmmfHeW5H6xxuukXsBBfzH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/w6rTydgams5hQ6T4d7ieYkg2PsQ.png",
+      "description": "Rip y Beth Dutton arriesgan todo por una nueva vida en el Sur de Texas, pero la promesa de un futuro lejos de los fantasmas de Yellowstone choca con nuevas y brutales realidades y un rancho rival que a toda costa protege su imperio.",
+      "rating": 9.126,
+      "genres": [
+        "Western",
+        "Drama"
+      ]
     },
     {
       "id": "tt36849871",
       "type": "series",
       "title": "Marshals: Una historia de Yellowstone",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/hcQsv6SfYpXeQdB7OR29bN6KFY1.png",
+      "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional.",
+      "rating": 7.9,
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Action & Adventure"
+      ]
     },
     {
       "id": "tt31510819",
       "type": "series",
       "title": "Tierra de Mafia",
-      "year": 2025
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w500/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/fh6N94BUPuLPN70WpbM0OEgOJbc.png",
+      "description": "El poder está en juego cuando dos familias criminales rivales se enfrentan y arriesgan sus imperios y sus vidas. En el fuego cruzado está Harry Da Souza, un astuto \"solucionador\" que sabe dónde están las lealtades cuando las fuerzas opuestas chocan.",
+      "rating": 8.48,
+      "genres": [
+        "Crimen",
+        "Drama"
+      ]
     },
     {
       "id": "tt0121955",
       "type": "series",
       "title": "South Park",
-      "year": 1997
+      "year": 1997,
+      "poster": "https://image.tmdb.org/t/p/w500/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/4GZbeusQkSnYqH40W5ls67sYq5t.png",
+      "description": "Cuatro niños (Stan, Kyle, Cartman y Kenny) irreverentes de primaria viven grandes y surrealistas desventuras en la tranquila y disfuncional pueblo South Park, Colorado.",
+      "rating": 8.332,
+      "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "runtime": "23 min"
     }
   ]
 }
