@@ -4,19 +4,52 @@
       "id": "tt2380307",
       "type": "movie",
       "title": "Coco",
-      "year": 2017
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+      "description": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de event",
+      "rating": 8.203,
+      "genres": [
+        "Familia",
+        "Animación",
+        "Música"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt2262227",
       "type": "movie",
       "title": "The Book of Life",
-      "year": 2014
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w500/k669nOalwu7NKhW7aWNJKN7Nxvi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b0XkgWgCBurkCZdNXp7kEZdgxEi.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/7bUYGOyVbGXxNQ292cjwYh003vW.png",
+      "description": "La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores m",
+      "rating": 7.542,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
+      ],
+      "runtime": "95 min"
     },
     {
       "id": "tt1003009",
       "type": "movie",
       "title": "The Legend of the Nahuala",
-      "year": 2007
+      "year": 2007,
+      "poster": "https://image.tmdb.org/t/p/w500/dggo1MOieBZsJ18qqqaT4B4VdB4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/umAxZQoJ0I6YlwYB5NqLqD7NjdX.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/skTHJw09YXYawMJIqLfQUSFj8r7.png",
+      "description": "Leo San Juan, un niño inseguro de nueve años de edad, vive eternamente asustado por las historias de terror que Nando le cuenta a su hermano mayor. Dentro de estas historias es \"La leyenda de Nahuala\", según la cual, una vieja casona abandonada es poseída por el alcohol de una bruja malvada conocida como el Nahuala.",
+      "rating": 8.124,
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Animación"
+      ],
+      "runtime": "84 min"
     }
   ]
 }
