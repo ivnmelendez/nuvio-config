@@ -4,13 +4,34 @@
       "id": "tt6262770",
       "type": "movie",
       "title": "Tenzing: Conquistando el Everest",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "description": "Un hombre determinado realiza una hazaña desafiando probabilidades casi imposibles para cumplir su sueño de ser el primero en llegar a la cima del Monte Everest.",
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "runtime": "126 min"
     },
     {
       "id": "tt28498219",
       "type": "movie",
       "title": "Matchbox: La película",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
+      "description": "Cuando un grupo de antiguos amigos de la infancia reconecta, su reunión da un giro inesperado al descubrir un complot internacional y darse cuenta de que deben salvar al mundo.",
+      "rating": 7.704,
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "runtime": "127 min"
     }
   ]
 }
