@@ -23,11 +23,11 @@
         "type": "series"
       },
       {
+        "file": "rows/hdlists-halloween-movies-the-best-of-all-time__default.json",
         "limit": 100,
         "list": "hdlists/halloween-movies-the-best-of-all-time",
         "sort": "default",
-        "title": "Halloween",
-        "file": "rows/hdlists-halloween-movies-the-best-of-all-time__default.json"
+        "title": "Halloween"
       },
       {
         "file": "rows/tmdb-movie-any-mx-any-any-rating-shuf.json",
@@ -41,11 +41,11 @@
         "type": "movie"
       },
       {
+        "file": "rows/artdeco-dia-de-muertos__default.json",
         "limit": 30,
         "list": "artdeco/dia-de-muertos",
         "sort": "default",
-        "title": "Día de muertos",
-        "file": "rows/artdeco-dia-de-muertos__default.json"
+        "title": "Día de muertos"
       },
       {
         "file": "rows/tmdb-movie-any-mx-35-any-rating-shuf.json",
