@@ -4,7 +4,14 @@
       "id": "tt42220724",
       "type": "series",
       "title": "Salario mínimo",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/AeLoyQxyQnw2v5roiFxxvkxAJqQ.png",
+      "genres": [
+        "Comedia"
+      ],
+      "runtime": "20 min"
     }
   ]
 }
