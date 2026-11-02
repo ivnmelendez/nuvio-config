@@ -4,97 +4,266 @@
       "id": "tt32261958",
       "type": "movie",
       "title": "Verity",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/8i9EzaVyRMtYW6WxcN7hK3RfDng.png",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansió",
+      "rating": 6.4,
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "runtime": "114 min"
     },
     {
       "id": "tt21285562",
       "type": "movie",
       "title": "The Dog Stars",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/flipeYd0sa4y4kpIc7Pn59JeBIj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/kShfjkGuqc5zOWvYDlXC1YNwEHO.png",
+      "description": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el ",
+      "rating": 6.6,
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Aventura"
+      ],
+      "runtime": "119 min"
     },
     {
       "id": "tt36583977",
       "type": "movie",
       "title": "Forgotten Island",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/barJMlk3d6jiiMy3AbqjhBPH0Yw.png",
+      "description": "Jo y Raissa se encuentran varadas en el fantástico mundo de la isla olvidada de Nakali. Descubren que su única forma de volver a casa podría ser a costa de toda una vida de recuerdos y emociones.",
+      "rating": 7.6,
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt37180686",
       "type": "movie",
       "title": "Drive - The Pretenders",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
+      "description": "Una joven mecánica de autos de carreras finge estar comprometida con la estrella más polémica del automovilismo. Oficialmente, es para salvar su reputación, pero en secreto es la oportunidad de ella de volver al volante. Pronto, la mentira amenaza con destruir todo, incluso lo que ya se ha convertido en mucho más que u",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "runtime": "103 min"
     },
     {
       "id": "tt6262770",
       "type": "movie",
       "title": "Tenzing",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+      "description": "Un hombre determinado realiza una hazaña desafiando probabilidades casi imposibles para cumplir su sueño de ser el primero en llegar a la cima del Monte Everest.",
+      "rating": 8.3,
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "runtime": "126 min"
     },
     {
       "id": "tt31349844",
       "type": "movie",
       "title": "Runner",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
+      "description": "Hank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+      "rating": 8.337,
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "runtime": "97 min"
     },
     {
       "id": "tt28498219",
       "type": "movie",
       "title": "Matchbox the Movie",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/m68Dkn7fNnhgsvV9VhzxfLFbQMe.png",
+      "description": "Cuando un grupo de antiguos amigos de la infancia reconecta, su reunión da un giro inesperado al descubrir un complot internacional y darse cuenta de que deben salvar al mundo.",
+      "rating": 7.704,
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Aventura"
+      ],
+      "runtime": "127 min"
     },
     {
       "id": "tt31049299",
       "type": "movie",
       "title": "Animals",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dl6aDoFDDjTgNMI4Cui2GmKZUpR.png",
+      "description": "Cuando secuestran a su hijo, un candidato a alcalde y su esposa buscan desesperadamente reunir dinero para el rescate, pero sus decisiones podrían destruirles la vida.",
+      "rating": 6.966,
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Acción"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt34384900",
       "type": "movie",
       "title": "Love of Your Life",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/uhuoKyXfPZgzWdHhvC27VfdzUT.png",
+      "description": "De la directora Rachel Morrison, El amor de tu vida es la historia de Maya, quien conoce a Charlie por accidente, vive un romance avasallador y vislumbra un futuro que supera todo lo que llegó a imaginar. Cuando ese futuro colapsa, Maya debe enfrentar una nueva vida y decidir quién es, qué quiere y cómo amar de nuevo.",
+      "rating": 6.739,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "runtime": "109 min"
     },
     {
       "id": "tt22084616",
       "type": "movie",
       "title": "Spider-Man: Brand New Day",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dGMb0iSnNp7UMAHkKX63Kh6AJvy.png",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "rating": 8.473,
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "runtime": "145 min"
     },
     {
       "id": "tt43617372",
       "type": "movie",
       "title": "You+Me - Against the World",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/eV17eCN1CM9fmGJHkfDzMsqqR0a.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/aXWC2XPcpn7Ta8KHzt1NCKXxJBi.png",
+      "description": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados ",
+      "rating": 5.5,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "runtime": "94 min"
     },
     {
       "id": "tt37853455",
       "type": "movie",
       "title": "One Night Only",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/dfuqSiCp3Y24nO1z1YembfTrrtn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3afHil7EVm655wO2NS6RHxuyicE.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/AaHXwuFNm0gknm5FqwcjGxT415V.png",
+      "description": "Dos desconocidos, ávidos de amor, se topan por casualidad en la única noche del año en que las personas solteras tienen permitido tener relaciones sexuales.",
+      "rating": 6.411,
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "runtime": "103 min"
     },
     {
       "id": "tt27165187",
       "type": "movie",
       "title": "The End of Oak Street",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/jPBfFTwmgco94oS9ikdt9tqHsxm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/xm5OF5LINmyJLV7Cvq1UHxWeJHM.png",
+      "description": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.",
+      "rating": 7.079,
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "runtime": "100 min"
     },
     {
       "id": "tt29355505",
       "type": "movie",
       "title": "Toy Story 5",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+      "description": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "rating": 8.278,
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "runtime": "102 min"
     },
     {
       "id": "tt26657236",
       "type": "movie",
       "title": "Backrooms",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
+      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+      "rating": 7.01,
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "runtime": "111 min"
     },
     {
       "id": "tt37287335",
       "type": "movie",
       "title": "Obsession",
-      "year": 2026
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "logo": "https://image.tmdb.org/t/p/w300/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "rating": 8.168,
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "runtime": "109 min"
     }
   ]
 }
