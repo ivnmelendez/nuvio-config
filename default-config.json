@@ -4,17 +4,24 @@
     "home": [
       {
         "limit": 30,
+        "list": "snoak/latest-tv-shows",
+        "sort": "default",
+        "title": "Latest TV Shows",
+        "file": "default/rows/snoak-latest-tv-shows__default.json"
+      },
+      {
+        "limit": 30,
         "list": "snoak/latest-movies-digital-release",
         "sort": "default",
-        "title": "Lastest Movies",
+        "title": "Latest Releases",
         "file": "default/rows/snoak-latest-movies-digital-release__default.json"
       },
       {
         "limit": 30,
-        "list": "garycrawfordgc/latest-tv-shows",
+        "list": "snoak/trending-movies",
         "sort": "default",
-        "title": "Lastest TV Shows",
-        "file": "default/rows/garycrawfordgc-latest-tv-shows__default.json"
+        "title": "Trending Movies",
+        "file": "default/rows/snoak-trending-movies__default.json"
       }
     ],
     "movies": [
@@ -22,7 +29,7 @@
         "limit": 30,
         "list": "snoak/latest-netflix-movies",
         "sort": "default",
-        "title": "Lastest Netflix Movies",
+        "title": "Lastest NF Movies",
         "file": "default/rows/snoak-latest-netflix-movies__default.json"
       }
     ],
@@ -31,7 +38,7 @@
         "limit": 30,
         "list": "snoak/latest-netflix-tv-shows",
         "sort": "default",
-        "title": "Lastest Netflix Shows",
+        "title": "Lastest NF Shows",
         "file": "default/rows/snoak-latest-netflix-tv-shows__default.json"
       }
     ]
