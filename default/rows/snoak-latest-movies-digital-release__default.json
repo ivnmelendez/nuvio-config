@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "tt10377864",
+      "type": "movie",
+      "title": "Beware Boiúna",
+      "year": 2026
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "title": "Primetime",
+      "year": 2026
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "title": "Resident Evil",
+      "year": 2026
+    },
+    {
       "id": "tt37458193",
       "type": "movie",
       "title": "My Best Friend",
@@ -178,6 +196,108 @@
       "id": "tt37070354",
       "type": "movie",
       "title": "The Storm",
+      "year": 2026
+    },
+    {
+      "id": "tt49166238",
+      "type": "movie",
+      "title": "Biohazard",
+      "year": 2026
+    },
+    {
+      "id": "tt32588798",
+      "type": "movie",
+      "title": "Practical Magic 2",
+      "year": 2026
+    },
+    {
+      "id": "tt31349844",
+      "type": "movie",
+      "title": "Runner",
+      "year": 2026
+    },
+    {
+      "id": "tt14541160",
+      "type": "movie",
+      "title": "Devour",
+      "year": 2026
+    },
+    {
+      "id": "tt37818327",
+      "type": "movie",
+      "title": "The Sun Never Sets",
+      "year": 2026
+    },
+    {
+      "id": "tt37281055",
+      "type": "movie",
+      "title": "Buddy",
+      "year": 2026
+    },
+    {
+      "id": "tt49058294",
+      "type": "movie",
+      "title": "Remain Calm",
+      "year": 2026
+    },
+    {
+      "id": "tt37520267",
+      "type": "movie",
+      "title": "Flush",
+      "year": 2025
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "title": "Matchbox the Movie",
+      "year": 2026
+    },
+    {
+      "id": "tt31049299",
+      "type": "movie",
+      "title": "Animals",
+      "year": 2026
+    },
+    {
+      "id": "tt34384900",
+      "type": "movie",
+      "title": "Love of Your Life",
+      "year": 2026
+    },
+    {
+      "id": "tt39384300",
+      "type": "movie",
+      "title": "Less of a Stranger",
+      "year": 2026
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026
+    },
+    {
+      "id": "tt32268691",
+      "type": "movie",
+      "title": "Onslaught",
+      "year": 2026
+    },
+    {
+      "id": "tt32393988",
+      "type": "movie",
+      "title": "Insidious: Out of the Further",
+      "year": 2026
+    },
+    {
+      "id": "tt29009930",
+      "type": "movie",
+      "title": "How to Divorce During the War",
+      "year": 2026
+    },
+    {
+      "id": "tt31192372",
+      "type": "movie",
+      "title": "Fall 2: Deadpoint",
       "year": 2026
     }
   ]
