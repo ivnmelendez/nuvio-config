@@ -1,536 +1,514 @@
 {
   "items": [
     {
-      "id": "tt0105236",
+      "id": "tt0044741",
       "type": "movie",
-      "title": "Reservoir Dogs",
-      "year": 1992,
-      "tmdb_id": 500,
+      "title": "Ikiru",
+      "year": 1952,
+      "tmdb_id": 3782,
       "alt_titles": [
-        "Perros de Reserva",
-        "Perros de la calle"
+        "Vivir",
+        "生きる",
+        "To Live"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/3eav2wjw0j88Y779IdbrwNm8YQm.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
-      "description": "Una banda organizada formada por seis individuos es contratada para dar un golpe. Anteriormente varios de los miembros no se conocían entre sí, por lo que entre ellos usan nombres en clave. El objetivo: atracar una empresa para llevarse unos diamantes. Pero, antes de que suene la alarma, la policía ya está allí. Alguno"
+      "poster": "https://image.tmdb.org/t/p/w500/eDg67pLOtZAewt0hKIoinECpzCG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fS4xXq5lVwu1V95qB4murKZgPFo.jpg",
+      "description": "Kanji Watanabe es un viejo funcionario público que arrastra una vida monótona y gris, sin hacer prácticamente nada. Sin embargo, no es consciente del vacío de su existencia hasta que un día le diagnostican un cáncer incurable. Con la certeza de que el fin de sus días se acerca, surge en él la necesidad de buscarle un s"
     },
     {
-      "id": "tt0078748",
+      "id": "tt0361748",
       "type": "movie",
-      "title": "Alien",
-      "year": 1979,
-      "tmdb_id": 348,
-      "alt_titles": [
-        "Alien: El Octavo Pasajero",
-        "Alien: El vuitè passatger",
-        "Alien I Directors Cut"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gZbcm1ADEXuxs1TsBVOBdk4heGI.jpg",
-      "description": "Después de que una nave espacial de comercio reciba una transmisión desconocida, aterrizan en la luna de origen para investigar pero un miembro de la tripulación es atacado por una forma de vida misteriosa. Pronto descubren que su ciclo de vida apenas comienza."
-    },
-    {
-      "id": "tt0978762",
-      "type": "movie",
-      "title": "Mary and Max",
+      "title": "Inglourious Basterds",
       "year": 2009,
-      "tmdb_id": 24238,
+      "tmdb_id": 16869,
       "alt_titles": [
-        "Mary y Max"
+        "Bastardos sin gloria",
+        "Maleïts Malparits",
+        "Once Upon A Time In Nazi-Occupied France"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/dKm9FtaH4PRumBF20X3Y6qETePH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8UxYHvKBNFnoyfHjgjMwzj4zOuy.jpg",
-      "description": "Primer largometraje de Adam Elliot, ganador de un Oscar con el cortometraje «Harvey Krumpet». Narra la larga amistad por correspondencia entre un cuarentón judío y obeso de Nueva York, y una niña australiana de ocho años que vive en los suburbios de Melbourne."
+      "poster": "https://image.tmdb.org/t/p/w500/zO4RPoYUv8S0na2K1Sff9wU3Sg2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg",
+      "description": "Segunda Guerra Mundial (1939-1945). En la Francia ocupada por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel Hans Landa. Después de huir a París, adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de sold"
     },
     {
-      "id": "tt0057565",
+      "id": "tt0118799",
       "type": "movie",
-      "title": "High and Low",
-      "year": 1963,
-      "tmdb_id": 12493,
+      "title": "Life Is Beautiful",
+      "year": 1997,
+      "tmdb_id": 637,
       "alt_titles": [
-        "El cielo y el infierno",
-        "天国と地獄",
-        "Cielo e infierno",
-        "El infierno del odio"
+        "La Vida es Bella",
+        "La vita è bella"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/9c87PSaPcoZzAGbJKQLAcYiqGRy.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i1NjlccZcuqbgDCS92RHdhEnx59.jpg",
-      "description": "En un momento crucial de su vida financiera, Gondo (Toshirô Mifune), un directivo de una importante empresa de zapatos, recibe la noticia de que su hijo ha sido secuestrado. El rescate exigido es una gran cantidad de dinero, pero Gondo la necesita para cerrar una negociación que le dará el control de la empresa."
+      "poster": "https://image.tmdb.org/t/p/w500/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "description": "Una obra maestra cinematográfica inspiradora. La vida es bella fue nominada para siete premios de la Academia® en 1998, ganando 3 Óscares®, incluyendo el de Mejor actor, para Roberto Benigni. En esta historia extraordinaria, Guido (Benigni), un encantador, pero incompetente camarero, dotado de una vívida imaginación y "
     },
     {
-      "id": "tt0083658",
+      "id": "tt0061512",
       "type": "movie",
-      "title": "Blade Runner",
+      "title": "Cool Hand Luke",
+      "year": 1967,
+      "tmdb_id": 903,
+      "alt_titles": [
+        "La leyenda del indomable"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/pFMISXcKgTS27ZYgM5tIGIpzPJo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9TDi0FPOSAePfVLZXAUgFZhiMLf.jpg",
+      "description": "Luke Jackson, un joven rebelde e impulsivo, es condenado a dos años de prisión tras causar graves destrozos estando borracho. En la cárcel, su indomable carácter chocará de frente con las rígidas normas de la institución, así como con el de otros presos, especialmente el brutal Dragline, que era el líder de los convict"
+    },
+    {
+      "id": "tt0012349",
+      "type": "movie",
+      "title": "The Kid",
+      "year": 1921,
+      "tmdb_id": 10098,
+      "poster": "https://image.tmdb.org/t/p/w500/we8AMv9ufyoXgmOlfX0SmubKOrd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yJvv7kDmeWT18jUSW2ZugZmYg0i.jpg",
+      "description": "Una mujer londinense, sumamente pobre, se ve en la necesidad de abandonar a su hijo en una casa de millonarios, aunque por una serie de circustancias el niño terminará siendo cuidado por un vagabundo que se convierte así en su padre. Cinco años después, y con la madre convertida en una popular cantante, el destino trat"
+    },
+    {
+      "id": "tt0021749",
+      "type": "movie",
+      "title": "City Lights",
+      "year": 1931,
+      "tmdb_id": 901
+    },
+    {
+      "id": "tt0986264",
+      "type": "movie",
+      "title": "Like Stars on Earth",
+      "year": 2007,
+      "tmdb_id": 7508,
+      "alt_titles": [
+        "Como estrellas en la tierra",
+        "तारे ज़मीन पर",
+        "Taare Zameen Par"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8SBqDgcYoQHyJbD09ITpjM8MKsx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bPwdy3zaNnMdZ22u0WCcYu0xxgt.jpg",
+      "description": "Ishaan Awasthi es un niño de ocho años cuyo mundo está lleno de maravillas que nadie más parece apreciar. Los colores, los peces, los perros y las cometas no parecen importantes para los adultos, que están mucho más interesados en cosas como los deberes, las notas y la pulcritud. Ishaan parece no poder hacer nada bien "
+    },
+    {
+      "id": "tt0084787",
+      "type": "movie",
+      "title": "The Thing",
       "year": 1982,
-      "tmdb_id": 78,
-      "poster": "https://image.tmdb.org/t/p/w500/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
-      "description": "Rick Deckard deambula por la jungla de acero y microchips de la ciudad de Los Angeles del siglo XXI. Su misión: buscar androides genéticos criminales. Su orden: matarlos. Su delito: querer ser humanos."
-    },
-    {
-      "id": "tt0405159",
-      "type": "movie",
-      "title": "Million Dollar Baby",
-      "year": 2004,
-      "tmdb_id": 70,
+      "tmdb_id": 1091,
       "alt_titles": [
-        "Golpes del Destino"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/tIw6uoxeFPxlbGjV9PSHTVJsA5F.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oGMomeS7bE43eN8SGJUaKvQnmud.jpg",
-      "description": "Después de haber entrenado y representado a los mejores púgiles, Frankie Dunn regenta un gimnasio con la ayuda de Scrap, un ex-boxeador que es además su único amigo. Frankie es un hombre solitario y adusto que se refugia desde hace años en la religión buscando una redención que no llega. Un día, entra en su gimnasio Ma"
-    },
-    {
-      "id": "tt1375666",
-      "type": "movie",
-      "title": "Inception",
-      "year": 2010,
-      "tmdb_id": 27205,
-      "alt_titles": [
-        "El Origen",
-        "Orixe"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-      "description": "Dom Cobb es un ladrón de secretos que se sumerge en los sueños de otros para extraer información. Para redimirse, debe implantar una idea en lugar de extraerla. En un viaje de sueños dentro de sueños, lucha por la redención mientras se enfrenta a sus propios demonios."
-    },
-    {
-      "id": "tt2380307",
-      "type": "movie",
-      "title": "Coco",
-      "year": 2017,
-      "tmdb_id": 354912,
-      "alt_titles": [
-        "Coco 3D"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-      "description": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de event"
-    },
-    {
-      "id": "tt0073195",
-      "type": "movie",
-      "title": "Jaws",
-      "year": 1975,
-      "tmdb_id": 578,
-      "alt_titles": [
-        "Jaws 50"
+        "La cosa",
+        "La cosa de otro mundo",
+        "El enigma de otro mundo",
+        "John Carpenter's The Thing"
       ]
     },
     {
-      "id": "tt0096283",
+      "id": "tt0095327",
       "type": "movie",
-      "title": "My Neighbor Totoro",
+      "title": "Grave of the Fireflies",
       "year": 1988,
-      "tmdb_id": 8392,
+      "tmdb_id": 12477,
       "alt_titles": [
-        "Mi vecino Totoro",
-        "となりのトトロ",
-        "Totoro auzokidea"
+        "La Tumba de las Luciérnagas",
+        "火垂るの墓"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
-      "description": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa ,existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había promet"
+      "poster": "https://image.tmdb.org/t/p/w500/j3fQ6LePWbY41AUg4pYyNJW94Cd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+      "description": "Centrada en la ciudad de Kōbe, Japón, narra la dura historia de dos hermanos, Seita y Setsuko, y de su lucha desesperada por sobrevivir durante los últimos meses de la Segunda Guerra Mundial."
     },
     {
-      "id": "tt0469494",
+      "id": "tt0075314",
       "type": "movie",
-      "title": "There Will Be Blood",
-      "year": 2007,
-      "tmdb_id": 7345,
+      "title": "Taxi Driver",
+      "year": 1976,
+      "tmdb_id": 103,
+      "poster": "https://image.tmdb.org/t/p/w500/9G26DnAeMbA4sp58Gi0Vze6eQv4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+      "description": "Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle (Robert De Niro) trabaja como taxista nocturno en Nueva York. Es un hombre insociable que apenas tiene contacto con los demás, se pasa los días en el cine y vive prendado de Betsy (Cybill Shepherd), una atractiva rubia que trabaja"
+    },
+    {
+      "id": "tt0245429",
+      "type": "movie",
+      "title": "Spirited Away",
+      "year": 2001,
+      "tmdb_id": 129,
       "alt_titles": [
-        "Petróleo sangriento",
-        "Pozos de ambición"
+        "El viaje de Chihiro",
+        "千と千尋の神隠し",
+        "Miyazaki's Spirited Away"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/o8VQMSZecPNWtYP42yWo2OH1gH0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
-      "description": "Texas, principios del siglo XX. Una historia sobre la familia, la avaricia y la religión. Daniel Plainview se traslada a una miserable ciudad con el propósito de hacer fortuna, pero, a medida que se va enriqueciendo, sus principios y valores desaparecen y acaba dominado por la ambición. Tras encontrar un rico yacimient"
+      "poster": "https://image.tmdb.org/t/p/w500/4TfZdXABpM0j0FIyRSUQDUXxVwV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "description": "Durante la mudanza de su familia a los suburbios, una huraña niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias."
     },
     {
-      "id": "tt5027774",
+      "id": "tt0045152",
       "type": "movie",
-      "title": "Three Billboards Outside Ebbing, Missouri",
-      "year": 2017,
-      "tmdb_id": 359940,
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "tmdb_id": 872,
       "alt_titles": [
-        "Tres anuncios por un crimen",
-        "Tres anuncios en las afueras de Ebbing, Misuri"
+        "Cantando bajo la lluvia",
+        "Cantando en la lluvia",
+        "Singing in the Rain"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/54fz9hyM3ODZ7mXyFVjDkealVKk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
-      "description": "Mildred Hayes , una mujer de 50 años cuya hija adolescente ha sido violada y asesinada, decide iniciar por su cuenta una guerra contra la Policía de su pueblo, Ebbing, al considerar que no hacen lo suficiente para resolver el caso y que se haga justicia. Su primer paso será contratar unas vallas publicitarias denuncian"
+      "poster": "https://image.tmdb.org/t/p/w500/5r8jD5R6EzpQ5VLodbzTNhvKcGw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+      "description": "Antes de conocer a la aspirante a actriz Cathy Seldon, el ídolo del cine mudo Don Lockwood pensaba que lo tenía todo; fama, fortuna y éxito. Pero, tras conocerla, se da cuenta de que ella es lo que realmente faltaba en su vida. Con el nacimiento del cine sonoro, Don quiere filmar los musicales con Kathy, pero entre amb"
     },
     {
-      "id": "tt0077416",
+      "id": "tt0253474",
       "type": "movie",
-      "title": "The Deer Hunter",
-      "year": 1978,
-      "tmdb_id": 11778
-    },
-    {
-      "id": "tt0071411",
-      "type": "movie",
-      "title": "Dersu Uzala",
-      "year": 1975,
-      "tmdb_id": 9764,
+      "title": "The Pianist",
+      "year": 2002,
+      "tmdb_id": 423,
       "alt_titles": [
-        "Dersu Uzala (El cazador)",
-        "Дерсу Узала",
-        "Dersu Uzala - El cazador"
+        "El Pianista"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/b7mZ9IQYGAWjpLf81ULC9P1UtwX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/33hRze5MIFzwV2MR3kF5QzPkgjR.jpg",
-      "description": "El capitán Vladimir Arseniev y su destacamento tienen que realizar unas prospecciones geológicas en los bosques de la taiga siberiana. La inmensidad del territorio y la dureza del clima hacen que se extravíe. Condenado a vagar por una tierra salvaje, Vladimir conoce a Dersu Uzala, un cazador nómada que conoce el territ"
+      "poster": "https://image.tmdb.org/t/p/w500/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
+      "description": "Un músico judío polaco lucha por sobrevivir a la destrucción del gueto de Varsovia de la Segunda Guerra Mundial."
     },
     {
-      "id": "tt0120382",
+      "id": "tt0372784",
       "type": "movie",
-      "title": "The Truman Show",
-      "year": 1998,
-      "tmdb_id": 37165,
+      "title": "Batman Begins",
+      "year": 2005,
+      "tmdb_id": 272,
       "alt_titles": [
-        "Truman Show: Historia de una Vida",
-        "El show de Truman (Una vida en directo)"
+        "Batman inicia",
+        "Batman (El caballero oscuro) - 1. Batman Begins",
+        "Batman 1 - Batman Begins"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/az3nrwaVQ2fmDh4sstY1vejuo4M.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
-      "description": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo."
+      "poster": "https://image.tmdb.org/t/p/w500/zBVNawbcB9z3cQw3uOvQ6dTLBS2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+      "description": "Después de entrenar con su mentor, Batman comienza su lucha para liberar a Ciudad Gótica de la corrupción."
     },
     {
-      "id": "tt10872600",
+      "id": "tt0097165",
       "type": "movie",
-      "title": "Spider-Man: No Way Home",
-      "year": 2021,
-      "tmdb_id": 634649,
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "tmdb_id": 207,
       "alt_titles": [
-        "Spider-Man: Sin camino a casa",
-        "El Hombre-Araña: Sin camino a casa",
-        "Spider-Man. No Way Home",
-        "Spider Man No Way Home"
+        "La Sociedad de los Poetas Muertos",
+        "El Club Dels Poetes Morts"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/9OGkKMnYgSc0TzSIErcOOiKllrK.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-      "description": "Peter Parker es desenmascarado y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda al Doctor Strange para recuperar su secreto, el hechizo crea un agujero en su mundo, liberando a los villanos más poderosos que han luchado con cualquier Spider-Man, en cualquier universo. A"
+      "poster": "https://image.tmdb.org/t/p/w500/1ZxpicszG54X05A1BccRo51Wgg4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+      "description": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrirá la poesía, el significado del \"carpe diem\" -aprovechar el día- y la importancia vital de luchar por alcanzar los sueños, gracias al Sr. Keating, un excéntrico profesor que despierta sus mentes por medio de métodos poco convenc"
     },
     {
-      "id": "tt0119488",
+      "id": "tt0110357",
       "type": "movie",
-      "title": "L.A. Confidential",
-      "year": 1997,
-      "tmdb_id": 2118,
+      "title": "The Lion King",
+      "year": 1994,
+      "tmdb_id": 8587,
       "alt_titles": [
-        "Los Ángeles al desnudo"
+        "El rey león"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/9C4h6igzE26CVT5vhZbcnxUoGwV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
-      "description": "Años 50. Tres policías de Los Ángeles se ven envueltos en una intriga criminal que destapa los trapos sucios del Departamento. Para recuperar el prestigio perdido, tres agentes muy diferentes entre sí, el impetuoso Bud White, el formal Ed Exely y el ambicioso Jack Vincennes se hacen cargo de la investigación del caso"
+      "poster": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "description": "El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono."
     },
     {
-      "id": "tt0381681",
+      "id": "tt0064116",
       "type": "movie",
-      "title": "Before Sunset",
-      "year": 2004,
-      "tmdb_id": 80,
-      "alt_titles": [
-        "Antes del atardecer"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/dDEFh2y2ZjViOR2Hrx0fxtQgq5v.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
-      "description": "Un novelista y una activista ecologista, quienes se habían conocido hace nueve años, se reúnen en París."
-    },
-    {
-      "id": "tt4016934",
-      "type": "movie",
-      "title": "The Handmaiden",
-      "year": 2016,
-      "tmdb_id": 290098,
-      "alt_titles": [
-        "La doncella",
-        "아가씨"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/1CJWo3mJwNEi0RsSZyxbgVFOj8B.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2b3RNXF7ca9bgX8FrjRBYfLnNQC.jpg",
-      "description": "Corea, década de 1930, durante la colonización japonesa. Una joven, Sookee, es contratada como criada de una rica mujer japonesa, Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano. Sookee guarda un secreto, y con la ayuda de un estafador que se hace pasar por un conde japonés, planea algo pa"
-    },
-    {
-      "id": "tt0090605",
-      "type": "movie",
-      "title": "Aliens",
-      "year": 1986,
-      "tmdb_id": 679,
-      "alt_titles": [
-        "Aliens: El Regreso",
-        "Alien 2",
-        "Aliens: Special Edition"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
-      "description": "La teniente Ripley regresa al planeta alienígena LV-426 con un equipo de marines para investigar la desaparición de una colonia. Pronto descubren que están en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra estas criaturas y la corrupta Corporación Weyla"
-    },
-    {
-      "id": "tt0082096",
-      "type": "movie",
-      "title": "Das Boot",
-      "year": 1981,
-      "tmdb_id": 387,
-      "alt_titles": [
-        "El Submarino"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/qXeULeu5uHHXYHRsbITzuLN51EB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
-      "description": "Un submarino alemán de la Segunda Guerra Mundial es el escenario en el que un grupo de jóvenes soldados, dispuesto a defender su patria, tendrá que someterse a una dura convivencia, tras descubrir que han sido enviados a realizar una misión probablemente suicida."
-    },
-    {
-      "id": "tt0209144",
-      "type": "movie",
-      "title": "Memento",
-      "year": 2000,
-      "tmdb_id": 77,
-      "alt_titles": [
-        "Amnesia"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/4fyZ1u4amzo5a5dIxUApACIvsl1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "description": "Un hombre con pérdida de memoria a corto plazo intenta localizar al asesino de su esposa."
-    },
-    {
-      "id": "tt0057012",
-      "type": "movie",
-      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "year": 1964,
-      "tmdb_id": 935,
-      "alt_titles": [
-        "Dr. Insólito o: Cómo aprendí a dejar de preocuparme y amar la bomba",
-        "Dr. Insólito",
-        "Telefono rojo volamos hacia moscu?",
-        "Dr. Insólito o: Como aprendí a dejar de preocuparme y amar la bomba"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/jxJJaYFKOx4BalndHa2HdePG5aC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7i0L2ee4Iy0aXV6vR5u1ZmblOrx.jpg",
-      "description": "Convencido de que los comunistas están contaminando los Estados Unidos, un general ordena, en un acceso de locura, un ataque aéreo nuclear sorpresa contra la Unión Soviética. Su ayudante, el capitán Mandrake, trata de encontrar la fórmula para impedir el bombardeo. Por su parte, el Presidente de los EE.UU. se pone en c"
-    },
-    {
-      "id": "tt0068646",
-      "type": "movie",
-      "title": "The Godfather",
-      "year": 1972,
-      "tmdb_id": 238,
-      "alt_titles": [
-        "El Padrino",
-        "The Godfather The Coppola Restoration"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
-      "description": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: una chica, Connie, y tres varones: el impulsivo Sonny, el pusilánime Freddie y Michael, que no quiere saber nada de los negocios de su padre. Cuando Corleone, siempre aconsejado por su consejero T"
-    },
-    {
-      "id": "tt0036775",
-      "type": "movie",
-      "title": "Double Indemnity",
-      "year": 1944,
-      "tmdb_id": 996,
-      "alt_titles": [
-        "Pacto de sangre"
-      ]
-    },
-    {
-      "id": "tt0086879",
-      "type": "movie",
-      "title": "Amadeus",
-      "year": 1984,
-      "tmdb_id": 279,
-      "alt_titles": [
-        "Peter Shaffer's Amadeus"
-      ]
-    },
-    {
-      "id": "tt0040522",
-      "type": "movie",
-      "title": "Bicycle Thieves",
-      "year": 1948,
-      "tmdb_id": 5156,
-      "alt_titles": [
-        "Ladrón de bicicletas",
-        "Ladri di biciclette",
-        "Ladrones de bicicletas",
-        "Bicycle Thief"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/hjo6BPzCuhUkpSzxElOQ68mydrx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
-      "description": "En la Roma de la posguerra, Antonio, un obrero en paro, consigue un sencillo trabajo pegando carteles a condición de que posea una bicicleta. De ese modo, a duras penas consigue comprarse una, pero en su primer día de trabajo se la roban. Es así como comienza toda la aventura de Antonio junto con su hijo Bruno por recu"
-    },
-    {
-      "id": "tt0035446",
-      "type": "movie",
-      "title": "To Be or Not to Be",
-      "year": 1942,
-      "tmdb_id": 198,
-      "alt_titles": [
-        "Ser o no ser"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/p0bk9raiEpR2Qm0nE9kk3F3YO7v.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/28vvMlh490bxipmhkbYTQissiof.jpg",
-      "description": "Actores Polacos se disfrazan de jefes nazis para ayudar a un piloto inglés."
-    },
-    {
-      "id": "tt8267604",
-      "type": "movie",
-      "title": "Capernaum",
-      "year": 2018,
-      "tmdb_id": 517814,
-      "alt_titles": [
-        "Cafarnaúm: La ciudad olvidada",
-        "کفرناحوم",
-        "Cafarnaúm",
-        "Capharnaüm"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/9eTR8jfNbdMhEQhtuTVVC8oY2fp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/sEW8q9al73rtow257dXAusD9yS7.jpg",
-      "description": "Después de lograr huir de sus padres, Zain, un niño libanés de 12 años, intenta sobrevivir los peligros de las calles de la ciudad con su inteligencia y valentía, mientras busca valer sus derechos para demandar a sus padres por negligencia."
-    },
-    {
-      "id": "tt4154756",
-      "type": "movie",
-      "title": "Avengers: Infinity War",
-      "year": 2018,
-      "tmdb_id": 299536,
-      "alt_titles": [
-        "Vengadores: Infinity War",
-        "Avengers 3"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/G7GOAKUjxIjMUVKBhXOviohEB0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-      "description": "Los Vengadores y sus aliados deben estar dispuestos a sacrificarlo todo para intentar derrotar al poderoso Thanos antes de que su ataque de devastación y ruina ponga fin al universo."
-    },
-    {
-      "id": "tt0042876",
-      "type": "movie",
-      "title": "Rashomon",
-      "year": 1950,
-      "tmdb_id": 548,
-      "alt_titles": [
-        "El bosque ensangrentado"
-      ]
-    },
-    {
-      "id": "tt0072684",
-      "type": "movie",
-      "title": "Barry Lyndon",
-      "year": 1975,
-      "tmdb_id": 3175,
-      "poster": "https://image.tmdb.org/t/p/w500/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
-      "description": "Adaptación de una novela del escritor inglés William Tackeray. Barry Lyndon, un joven irlandés ambicioso y sin escrúpulos, se ve obligado a emigrar a causa de un duelo. Lleva a partir de entonces una vida errante y llena de aventuras. Sin embargo, su sueño es alcanzar una elevada posición social. Y lo hace realidad al "
-    },
-    {
-      "id": "tt6966692",
-      "type": "movie",
-      "title": "Green Book",
-      "year": 2018,
-      "tmdb_id": 490132,
-      "alt_titles": [
-        "Green Book: Una Amistad sin Fronteras"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
-      "description": "Tony Lip, un rudo guardaespaldas italoamericano, es contratado como chofer del pianista negro Don Shirley durante un tour por el Sur Profundo, emprendiendo un viaje que los adentra en un territorio en el que predomina el racismo y la segregación."
-    },
-    {
-      "id": "tt0062622",
-      "type": "movie",
-      "title": "2001: A Space Odyssey",
+      "title": "Once Upon a Time in the West",
       "year": 1968,
-      "tmdb_id": 62,
+      "tmdb_id": 335,
       "alt_titles": [
-        "2001: Odisea del Espacio",
-        "2001: A Space Odyssey - Extended Edition"
+        "Érase una vez en el Oeste",
+        "C'era una volta il West",
+        "Había una vez en el Oeste",
+        "Fins que li va arribar l'hora"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/1Ji0zQElBXrpIzKeGhwtzDY0Vv8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-      "description": "La historia de la humanidad, en diversos estadios del pasado y del futuro, es narrada en la película de ciencia-ficción de culto por excelencia de la historia del cine. Hace millones de años, en los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia sup"
+      "poster": "https://image.tmdb.org/t/p/w500/mjpBEYcB0SjBmysIEIO44YnEG87.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u5IhDThM1SClL4pkCUp8hOmsDQJ.jpg",
+      "description": "Mientras los constructores del ferrocarril avanzan imparables por el desierto de Arizona en su camino hacia el mar, Jill llega al pequeño pueblo de Flagstone con la intención de empezar una nueva vida."
     },
     {
-      "id": "tt0758758",
+      "id": "tt0120735",
       "type": "movie",
-      "title": "Into the Wild",
-      "year": 2007,
-      "tmdb_id": 5915,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998,
+      "tmdb_id": 100,
       "alt_titles": [
-        "Camino salvaje"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/aKquHNPpE6oJZBRYS63P1vcrO9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/87tmTU1NSR5EUGTKsF5rhLwZtZc.jpg",
-      "description": "A principios de los años noventa, el joven e idealista Christopher McCandless, adopta el nombre de Alexander Supertramp, deja sus posesiones y sus ahorros a la beneficencia y abandona el mundo civilizado con rumbo a la salvaje Alaska para entrar en contacto con la Naturaleza y descubrir el verdadero sentido de la vida."
+        "Juegos, trampas y dos armas humeantes",
+        "Lock Stock and Two Smoking Barrels"
+      ]
     },
     {
-      "id": "tt1291584",
+      "id": "tt2096673",
       "type": "movie",
-      "title": "Warrior",
-      "year": 2011,
-      "tmdb_id": 59440,
-      "alt_titles": [
-        "La Última Pelea"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/1Gf0SXdXYiqXiJO8SjVAEZd51kJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zb7b40ieuRGiIc9ebIEapneaCsl.jpg",
-      "description": "Un veterano de guerra regresa a casa para ser entrenado por su padre, un boxeador retirado, para un torneo de artes marciales mixtas, lo que le lleva a redescubrir el vínculo con su padre mientras entra en conflicto con su hermano mayor."
-    },
-    {
-      "id": "tt0032976",
-      "type": "movie",
-      "title": "Rebecca",
-      "year": 1940,
-      "tmdb_id": 223,
-      "alt_titles": [
-        "Rebeca",
-        "Rebeca, una mujer inolvidable"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/mJV2zrflpTaAcFgfgQc2VJboZ0Y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/46p36NyMO6f25YtSqSYiwz4mKbW.jpg",
-      "description": "Al poco tiempo de perder a su esposa Rebeca, el aristócrata inglés Maxim De Winter conoce en Montecarlo a una joven humilde, dama de compañía de una señora americana. De Winter y la joven se casan y se van a vivir a Inglaterra, a la mansión de Manderley, residencia habitual de Maxim. La nueva señora De Winter se da cue"
-    },
-    {
-      "id": "tt3170832",
-      "type": "movie",
-      "title": "Room",
+      "title": "Inside Out",
       "year": 2015,
-      "tmdb_id": 264644,
+      "tmdb_id": 150540,
       "alt_titles": [
-        "La Habitación."
+        "Intensa-Mente",
+        "Del revés",
+        "Inside Out 3D"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/57aCjpdhzg9RnVMI1410jlpRTWr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cGV6R2vzT4TYIabf3JgmrOISQ0y.jpg",
-      "description": "Para Jack, un niño de cinco años, la habitación es el mundo entero, el lugar donde nació, donde come, juega y aprende con su madre. Por la noche, mamá lo pone a dormir en el armario, por si viene el viejo Nick. La habitación es el hogar de Jack, mientras que para su madre es el cubículo donde lleva siete años encerrada"
+      "poster": "https://image.tmdb.org/t/p/w500/ewEX6VcVohyrQ52usZb1XovN1Bj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
+      "description": "Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza"
     },
     {
-      "id": "tt0047478",
+      "id": "tt0032553",
       "type": "movie",
-      "title": "Seven Samurai",
-      "year": 1954,
-      "tmdb_id": 346,
-      "alt_titles": [
-        "Los Siete Samuráis",
-        "七人の侍",
-        "Los siete samurais"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
-      "description": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida."
+      "title": "The Great Dictator",
+      "year": 1940,
+      "tmdb_id": 914
     },
     {
-      "id": "tt0119217",
+      "id": "tt1745960",
       "type": "movie",
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "tmdb_id": 489,
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "tmdb_id": 361743,
       "alt_titles": [
-        "Mente indomable",
-        "En busca del destino"
+        "TopGun Maverick"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/bTmmTMyCi7Cd85sS4rz9tlM0iU3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
-      "description": "Will Hunting, un conserje del M.I.T., tiene un don para las matemáticas, pero necesita la ayuda de un psicólogo para encontrar el rumbo de su vida."
+      "poster": "https://image.tmdb.org/t/p/w500/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "description": "Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando se encuentra entrenando a un destacamento "
+    },
+    {
+      "id": "tt0137523",
+      "type": "movie",
+      "title": "Fight Club",
+      "year": 1999,
+      "tmdb_id": 550,
+      "alt_titles": [
+        "El club de la pelea"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…"
+    },
+    {
+      "id": "tt0457430",
+      "type": "movie",
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "tmdb_id": 1417,
+      "alt_titles": [
+        "El laberinto del fauno",
+        "Guillermo del Toro's Pan's Labyrinth 20th Anniversary"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cxVlgYbn1GAdVhuBjM2jFiavfRp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+      "description": "Un cuento oscuro y mágico ambientado en la posguerra española. La joven Ofelia se adentra en un mundo de fantasía lleno de criaturas extrañas mientras lucha contra la brutalidad del mundo real. Con una mezcla de horror y maravilla, la película explora la lucha por la inocencia y la esperanza en tiempos de oscuridad."
+    },
+    {
+      "id": "tt2119532",
+      "type": "movie",
+      "title": "Hacksaw Ridge",
+      "year": 2016,
+      "tmdb_id": 324786,
+      "alt_titles": [
+        "Hasta el Último Hombre",
+        "The Conscientious Objector"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dFMXilx9gYUtZ6GkbuxKErc6Iv3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+      "description": "La historia de Desmond T. Doss, quien, debido a que se lo prohibía su fe, combatió en la Segunda Guerra Mundial sin portar un arma. No disparó ni una bala, pero salvó a 75 personas de la muerte en la batalla de la isla de Okinawa."
+    },
+    {
+      "id": "tt0017925",
+      "type": "movie",
+      "title": "The General",
+      "year": 1926,
+      "tmdb_id": 961,
+      "poster": "https://image.tmdb.org/t/p/w500/9jcJ6loloQiifZssTtUDkK7j7dG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mzox4HbcV9W42MH2dB1QsdDVGo3.jpg"
+    },
+    {
+      "id": "tt0038650",
+      "type": "movie",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "tmdb_id": 1585,
+      "alt_titles": [
+        "Qué bello es vivir",
+        "Its.A.Wonderful.Life.Colorized.Version"
+      ]
+    },
+    {
+      "id": "tt4633694",
+      "type": "movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "tmdb_id": 324857,
+      "alt_titles": [
+        "Spider-Man: Un nuevo universo",
+        "Animated Spider-Man"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/e47p9fHR6jMrrLeoa7l5hU05vhR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+      "description": "En un universo paralelo donde Peter Parker ha muerto, un jóven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor "
+    },
+    {
+      "id": "tt0051201",
+      "type": "movie",
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "tmdb_id": 37257
+    },
+    {
+      "id": "tt0129167",
+      "type": "movie",
+      "title": "The Iron Giant",
+      "year": 1999,
+      "tmdb_id": 10386,
+      "alt_titles": [
+        "El gigante de hierro",
+        "El gigante de acero"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+      "description": "Un joven se hace amigo de un robot gigante del espacio exterior que un paranoico agente del gobierno quiere destruir."
+    },
+    {
+      "id": "tt0070047",
+      "type": "movie",
+      "title": "The Exorcist",
+      "year": 1973,
+      "tmdb_id": 9552,
+      "alt_titles": [
+        "El Exorcista",
+        "L'exorcista",
+        "William Peter Blatty's The Exorcist"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hzuJXNUqL8v5ushjoDEcmUXJ2DT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "description": "Regan, una niña de doce años, es víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste, convencido de que el ma"
+    },
+    {
+      "id": "tt0032551",
+      "type": "movie",
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "tmdb_id": 596,
+      "alt_titles": [
+        "Las viñas de la ira",
+        "Viñas de ira",
+        "El raïm de la ira"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cD7kMDHXkdHOhTQW9eXlLT654Vc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r7AcmVk6kGhdFdesViGaI3dEHWd.jpg",
+      "description": "Tom Joad regresa a su hogar tras cumplir condena en prisión, pero la ilusión de volver a ver a los suyos se transforma en frustración al ver cómo los expulsan de sus tierras. Para escapar al hambre y a la pobreza, la familia no tiene más remedio que emprender un larguísimo viaje lleno de penalidades con la esperanza de"
+    },
+    {
+      "id": "tt0053604",
+      "type": "movie",
+      "title": "The Apartment",
+      "year": 1960,
+      "tmdb_id": 284,
+      "alt_titles": [
+        "Piso de soltero"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/e3Vqo35YMrO3XPWw8rtcedrVN13.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+      "description": "C.C. Baxter es un modesto pero ambicioso empleado de una compañía de seguros de Manhattan. Está soltero y vive solo en un discreto apartamento que presta ocasionalmente a sus superiores para sus citas amorosas. Tiene la esperanza de que estos favores le sirvan para mejorar su posición en la empresa. Pero la situación c"
+    },
+    {
+      "id": "tt0113247",
+      "type": "movie",
+      "title": "La Haine",
+      "year": 1995,
+      "tmdb_id": 406,
+      "alt_titles": [
+        "El odio",
+        "Hatred"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dqzgniXA0RbAdAyXvOCxEHoNYmT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "description": "Tras una noche de disturbios en un barrio marginal de las afueras de París, tres amigos adolescentes, Vinz, Saïd y Hubert (un judío, un árabe inmigrante y un boxeador amateur negro, respectivamente), son testigos de un hecho, en el que su amigo Abdel resulta herido por la policía. El deambular por la ciudad, la violenc"
+    },
+    {
+      "id": "tt0476735",
+      "type": "movie",
+      "title": "My Father and My Son",
+      "year": 2005,
+      "tmdb_id": 13393,
+      "alt_titles": [
+        "Mi padre y mi hijo",
+        "Babam ve Oğlum"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hPRCaz9PEjUZOknzCdyWGaGUN3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+      "description": "Sadik es un periodista de izquierdas que vive en el Estambul de los años 70, pese a que su padre hubiese querido que estudiara ingeniería agrícola para poder trabajar las tierras que tienen en su pequeño pueblo en la costa del Mar Egeo. Los problemas políticos (un golpe de Estado el 12 de Septiembre de 1980), le obliga"
+    },
+    {
+      "id": "tt0120689",
+      "type": "movie",
+      "title": "The Green Mile",
+      "year": 1999,
+      "tmdb_id": 497,
+      "alt_titles": [
+        "Milagros Inesperados",
+        "La milla verde",
+        "Stephen King's The Green Mile"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7ezlnHDn6clFku58TmFmpKUQUqf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+      "description": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don."
+    },
+    {
+      "id": "tt1853728",
+      "type": "movie",
+      "title": "Django Unchained",
+      "year": 2012,
+      "tmdb_id": 68718,
+      "alt_titles": [
+        "Django sin cadenas",
+        "Django desencadenat"
+      ]
+    },
+    {
+      "id": "tt0050986",
+      "type": "movie",
+      "title": "Wild Strawberries",
+      "year": 1957,
+      "tmdb_id": 614,
+      "alt_titles": [
+        "Fresas salvajes",
+        "Smultronstället"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/k4f0IpHOJqAK9Cvy3FLH9w90qWX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+      "description": "El profesor Borg, un eminente médico, debe ir a la ciudad de Lund para recibir un homenaje de su universidad. Sobrecogido, tras un sueño en el que contempla su propio cadáver, decide emprender el viaje en coche con su nuera, que acaba de abandonar su casa, tras una discusión con su marido, que se niega a tener hijos. D"
+    },
+    {
+      "id": "tt0407887",
+      "type": "movie",
+      "title": "The Departed",
+      "year": 2006,
+      "tmdb_id": 1422
+    },
+    {
+      "id": "tt0107207",
+      "type": "movie",
+      "title": "In the Name of the Father",
+      "year": 1993,
+      "tmdb_id": 7984,
+      "alt_titles": [
+        "En el nombre del padre"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8UHQLF2ZXcLOfmxPKxYj9vy9Lhg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gUIVD0rFWVB8Okk8wU8dQxjOYnZ.jpg",
+      "description": "La confesión forzada de un hombre sobre un atentado del I.R.A. que no cometió también resulta en el encarcelamiento de su padre. Un abogado inglés lucha para liberarlos."
+    },
+    {
+      "id": "tt1832382",
+      "type": "movie",
+      "title": "A Separation",
+      "year": 2011,
+      "tmdb_id": 60243,
+      "alt_titles": [
+        "Nader i Simin, una separació"
+      ]
     }
   ]
 }
