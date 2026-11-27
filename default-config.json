@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "tabs": {
+    "home": [
+      {
+        "file": "default/rows/snoak-latest-movies-digital-release__default.json",
+        "limit": 40,
+        "list": "snoak/latest-movies-digital-release",
+        "sort": "default",
+        "title": "Últimas Películas en Streaming",
+        "titleEn": "Latest Movies"
+      },
+      {
+        "file": "default/rows/snoak-latest-tv-shows__default.json",
+        "limit": 40,
+        "list": "snoak/latest-tv-shows",
+        "sort": "default",
+        "title": "Últimas Series",
+        "titleEn": "Latest TV Shows"
+      },
+      {
+        "file": "default/rows/snoak-trending-movies__default.json",
+        "limit": 41,
+        "list": "snoak/trending-movies",
+        "sort": "default",
+        "title": "Películas en Tendencia",
+        "titleEn": "Trending Movies"
+      },
+      {
+        "file": "default/rows/snoak-trakt-s-trending-shows__default.json",
+        "limit": 40,
+        "list": "snoak/trakt-s-trending-shows",
+        "sort": "default",
+        "title": "Series en Tendencia",
+        "titleEn": "Trending Shows"
+      },
+      {
+        "file": "default/rows/snoak-trending-anime-movies__default.json",
+        "limit": 40,
+        "list": "snoak/trending-anime-movies",
+        "sort": "default",
+        "title": "Películas Anime en Tendencia",
+        "titleEn": "Trending Anime Movies"
+      },
+      {
+        "file": "default/rows/snoak-trending-anime-shows__default.json",
+        "limit": 40,
+        "list": "snoak/trending-anime-shows",
+        "sort": "default",
+        "title": "Series Anime en Tendencia",
+        "titleEn": "Trending Anime Shows"
+      }
+    ],
+    "movies": [
+      {
+        "file": "default/rows/dhun-nuniden-marvel-cinematic-universe-mcu__default.json",
+        "limit": 42,
+        "list": "dhun_nuniden/marvel-cinematic-universe-mcu",
+        "sort": "default",
+        "title": "Prepárate para Avengers: Doomsday",
+        "titleEn": "MCU"
+      },
+      {
+        "file": "default/rows/rizreflects-funny__default.json",
+        "limit": 42,
+        "list": "rizreflects/funny",
+        "sort": "default",
+        "title": "Necesitas una buena risa?",
+        "titleEn": "Need a Good Laugh?"
+      },
+      {
+        "file": "default/rows/trakt-users-kayaaron13-lists-date-night-movies__default.json",
+        "limit": 40,
+        "list": "trakt:users/kayaaron13/lists/date-night-movies",
+        "sort": "default",
+        "title": "Para una cita",
+        "titleEn": "Date Night"
+      },
+      {
+        "file": "default/rows/trakt-users-kayaaron13-lists-christmas-movies__default.json",
+        "limit": 40,
+        "list": "trakt:users/kayaaron13/lists/christmas-movies",
+        "sort": "default",
+        "title": "La Navidad se acerca",
+        "titleEn": "Christmas Movies"
+      },
+      {
+        "file": "default/rows/trakt-users-kayaaron13-lists-imdb-top-rated-movies-copy-18f7086e-8941-43ca-a440-fe2ca5b2b03c__default__shuf.json",
+        "limit": 40,
+        "list": "trakt:users/kayaaron13/lists/imdb-top-rated-movies-copy-18f7086e-8941-43ca-a440-fe2ca5b2b03c",
+        "shuffle": true,
+        "sort": "default",
+        "title": "Películas mejores valoradas",
+        "titleEn": "Top Rated Movies"
+      }
+    ],
+    "series": []
+  },
+  "categories": [
+    {
+      "id": "accion",
+      "title": "Acción",
+      "titleEn": "Action",
+      "rows": [
+        {
+          "file": "default/rows/trakt-users-dprice34-lists-one-person-army-action__default.json",
+          "limit": 40,
+          "list": "trakt:users/dprice34/lists/one-person-army-action",
+          "sort": "default",
+          "title": "Acción al estilo ejército de un solo hombre",
+          "titleEn": "One-Person Army Action"
+        }
+      ]
+    },
+    {
+      "id": "comedia",
+      "title": "Comedia",
+      "titleEn": "Comedy",
+      "rows": [
+        {
+          "limit": 40,
+          "list": "trakt:users/amohr/lists/teen-sex-comedy-movies",
+          "sort": "default",
+          "title": "Comedia Adolescente",
+          "titleEn": "Teen Comedy",
+          "file": "default/rows/trakt-users-amohr-lists-teen-sex-comedy-movies__default.json"
+        }
+      ]
+    }
+  ]
+}

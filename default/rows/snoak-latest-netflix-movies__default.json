@@ -1,0 +1,510 @@
+{
+  "items": [
+    {
+      "id": "tt14413964",
+      "type": "movie",
+      "title": "Steps",
+      "year": 2026,
+      "tmdb_id": 1595124,
+      "alt_titles": [
+        "Hermanastras"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "description": "Culpada de hacer travesuras mágicas en el Royal Ball, la hermanastra Lilith convierte a su hermana en una rana. Debe trabajar con Cenicienta y un troll para salvar el reino y demostrar que los villanos también merecen un final feliz."
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "title": "Guarding Stars",
+      "year": 2026,
+      "tmdb_id": 1551025,
+      "alt_titles": [
+        "Como proteger a una estrella"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wQUXEPumBrVJR3Fe9h0xnwcnyFp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "description": "En esta comedia romántica llena de acción, una guardaespaldas (Leighton Meester) se enamora del famoso actor (Jared Padalecki) al que debe proteger durante Navidad."
+    },
+    {
+      "id": "tt48434154",
+      "type": "movie",
+      "title": "Primetime Preacher$",
+      "year": 2026,
+      "tmdb_id": 1791730,
+      "alt_titles": [
+        "Primetime Preachers"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg"
+    },
+    {
+      "id": "tt38213251",
+      "type": "movie",
+      "title": "Heartland",
+      "year": 2026,
+      "tmdb_id": 1543469,
+      "alt_titles": [
+        "HTLD"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella,"
+    },
+    {
+      "id": "tt50969289",
+      "type": "movie",
+      "title": "Russell Brand: Open Secret",
+      "year": 2026,
+      "tmdb_id": 1823907,
+      "alt_titles": [
+        "Russell Brand: Un Secreto a Voces"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+      "description": "Traza el ascenso de Russell Brand al estrellato y la posterior caída tras las acusaciones de conducta sexual inapropiada."
+    },
+    {
+      "id": "tt37675123",
+      "type": "movie",
+      "title": "Allen",
+      "year": 2026,
+      "tmdb_id": 1518204,
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "description": "Veinte años después de su increíble encuentro con un alienígena, Petey sigue estancado en el pasado. Hasta que, por alguna extraña razón, su viejo amigo vuelve..."
+    },
+    {
+      "id": "tt39313557",
+      "type": "movie",
+      "title": "The Christmas Switch",
+      "year": 2026,
+      "tmdb_id": 1757174,
+      "alt_titles": [
+        "El Intercambio Navideño",
+        "Bara till jul"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tNoB9ptCmp8bzdanndxswxrOfG6.jpg",
+      "description": "En Navidad, una joven citadina vuelve a su pueblo a encargarse de la tienda familiar para que su hermana trabaje en Estocolmo…, y a ambas les atrae la idea de empezar de cero."
+    },
+    {
+      "id": "tt50817930",
+      "type": "movie",
+      "title": "The Unthinkable Daughter",
+      "year": 2026,
+      "tmdb_id": 1664682,
+      "alt_titles": [
+        "Suzane von Richthofen: Lo que el tiempo no borra",
+        "Suzane von Richthofen: O Que o Tempo Não Apaga",
+        "Lo que el tiempo no borra"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7H4W20Uc3aDOwpv2kNcNzzxxukU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
+      "description": "Décadas de interrogantes y un crimen que conmocionó a Brasil. Suzane von Richthofen, condenada por el asesinato de sus padres, relata toda la historia con sus propias palabras."
+    },
+    {
+      "id": "tt41593493",
+      "type": "movie",
+      "title": "Avedon",
+      "year": 2026,
+      "tmdb_id": 1666787,
+      "poster": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+      "description": "Desde líderes mundiales e iconos de la cultura popular hasta supermodelos internacionales, Richard Avedon ayudó a sentar las bases del mundo visual en el que vivimos. Sus imágenes no se limitaron a retratar una época: también le dieron forma. ‘Avedon' recorre la vida y el legado de un artista que se sirvió de la fotogr"
+    },
+    {
+      "id": "tt48500521",
+      "type": "movie",
+      "title": "Unprotected: Murder in Galicia",
+      "year": 2026,
+      "tmdb_id": 1794569,
+      "alt_titles": [
+        "Desprotexida: el crimen de Pazos",
+        "Unprotected Murder in Galicia"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg"
+    },
+    {
+      "id": "tt33402927",
+      "type": "movie",
+      "title": "On Behalf of My Son",
+      "year": 2026,
+      "tmdb_id": 1307474,
+      "alt_titles": [
+        "Las disculpas de Vicentina",
+        "Vicentina Pede Desculpas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cu2zfOeIUz6dpx9x6djXe34714t.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "description": "A sus 75 años, Vicentina se enfrenta a la muerte de su hijo, un conductor de autobús que provocó una tragedia al precipitarse desde un viaducto. Dado que la investigación apunta a un posible suicidio, se pone en contacto con las familias de las víctimas para ofrecerles sus disculpas y buscar su perdón."
+    },
+    {
+      "id": "tt38515310",
+      "type": "movie",
+      "title": "A Dog's Perfect Christmas",
+      "year": 2026,
+      "tmdb_id": 1570488,
+      "alt_titles": [
+        "La razón de estar contigo: Una Navidad perfecta"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Cuando una emergencia médica sacude a la familia Goss, su sabio perro Winstead decide hacer todo lo posible para mantener a sus humanos unidos antes de la Nochebuena."
+    },
+    {
+      "id": "tt44825373",
+      "type": "movie",
+      "title": "SCTV: The Greatest Show You've Never Heard Of",
+      "year": 2026,
+      "tmdb_id": 1756307,
+      "alt_titles": [
+        "Second City Television: The Greatest Show You've Never Heard Of"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4EKa1ordKkch7bAYlV4e3fwsVCj.jpg"
+    },
+    {
+      "id": "tt38793125",
+      "type": "movie",
+      "title": "Collision Course",
+      "year": 2026,
+      "tmdb_id": 1571955,
+      "alt_titles": [
+        "Colisión",
+        "Cruzados"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wnoCQo9N5m3ay00KRx20d4axRPJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "description": "En plena crisis económica, un grupo de atracadores asalta un banco de Madrid y desencadena una serie de acontecimientos imprevisibles. Lo que al principio parece un robo más se convierte en un juego de engaños, miedo y supervivencia, donde cada decisión cuenta, cada gesto esconde algo y todos buscan evitar algo más que"
+    },
+    {
+      "id": "tt38999812",
+      "type": "movie",
+      "title": "The Birthday​ Gift​",
+      "year": 2026,
+      "tmdb_id": 1789549,
+      "alt_titles": [
+        "El Regalo De Cumpleaños",
+        "Das Geschenk"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rtifYyLgIgACVwsbVodZ3TZ2Yde.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+      "description": "Marlene Frischmann (Jeanne Goursaud) quiere celebrar por todo lo alto el cumpleaños de su hijo Theo (Levin Wopp) y lo tiene todo preparado en la elegante casa de campo de su hermano: globos, una tarta sin gluten, una piñata e incluso animales salvajes prometen convertir el día en algo inolvidable. Pero la celebración, "
+    },
+    {
+      "id": "tt38504402",
+      "type": "movie",
+      "title": "You, Me, Us",
+      "year": 2026,
+      "tmdb_id": 1541477,
+      "alt_titles": [
+        "Nosotros, Pero Un Poco Mejor",
+        "Noi, un po' meglio"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
+      "description": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida."
+    },
+    {
+      "id": "tt37961714",
+      "type": "movie",
+      "title": "Surviving Hurricane Otis",
+      "year": 2026,
+      "tmdb_id": 1780005,
+      "alt_titles": [
+        "Contra el huracán"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "description": "Dos hermanos distanciados luchan por sobrevivir al huracán Otis en Acapulco, donde su unión y valentía transforman la adversidad en esperanza. Inspirada en una historia real."
+    },
+    {
+      "id": "tt44822485",
+      "type": "movie",
+      "title": "Norm: The Tale of Norm Macdonald",
+      "year": 2026,
+      "tmdb_id": 1620918,
+      "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hE90kqyiFm9apunHLQirvdO7KyR.jpg",
+      "description": "Judd Apatow recurre a imágenes de archivo, fotografías y vídeos caseros para repasar la carrera de la leyenda de SNL Norm MacDonald: desde su etapa como presentador de 'Weekend Update' hasta convertirse en un maestro de la comedia absurda e impasible, cuya influencia perdura."
+    },
+    {
+      "id": "tt37070354",
+      "type": "movie",
+      "title": "The Storm",
+      "year": 2026,
+      "tmdb_id": 1623256,
+      "alt_titles": [
+        "La Tormenta",
+        "Stormen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "description": "Cuando una tormenta atrapa a viejos amigos universitarios en un hotel de lujo, su fiesta de cumpleaños civilizada se convierte en un ciclón de traiciones, rencores y caos sin filtros."
+    },
+    {
+      "id": "tt31049299",
+      "type": "movie",
+      "title": "Animals",
+      "year": 2026,
+      "tmdb_id": 1236045,
+      "alt_titles": [
+        "Animales",
+        "Be Gentlemen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
+      "description": "Cuando secuestran a su hijo, un candidato a alcalde y su esposa buscan desesperadamente reunir dinero para el rescate, pero sus decisiones podrían destruirles la vida."
+    },
+    {
+      "id": "tt34385184",
+      "type": "movie",
+      "title": "Misty Green",
+      "year": 2026,
+      "tmdb_id": 1381221,
+      "alt_titles": [
+        "Verde Brumoso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+      "description": "Misty Green, una talentosa actriz, lucha contra las adicciones que le impiden relanzar su carrera. Jordan, un director, le brinda una oportunidad de oro en forma de papel perfecto que, sin embargo, se ve complicada por su turbulenta historia en común."
+    },
+    {
+      "id": "tt37027309",
+      "type": "movie",
+      "title": "Therapy Done Right",
+      "year": 2026,
+      "tmdb_id": 1487317,
+      "alt_titles": [
+        "Lo dejamos acá"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
+      "description": "Un psicoanalista pragmático pierde la fe en los métodos habituales de la psicología y comienza a sobrepasar los límites con sus pacientes. Todo parece funcionar hasta que un escritor con un bloqueo creativo llega a su consulta."
+    },
+    {
+      "id": "tt9859238",
+      "type": "movie",
+      "title": "Who Is Martin Mull?",
+      "year": 2026,
+      "tmdb_id": 1756138,
+      "poster": "https://image.tmdb.org/t/p/w500/gQjXr8XxVpskubxVACnRLHx5xIS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hWqHYFw8cFkKKHzlMAHk0htDvaE.jpg"
+    },
+    {
+      "id": "tt36429458",
+      "type": "movie",
+      "title": "Doing Life",
+      "year": 2026,
+      "tmdb_id": 1458857,
+      "alt_titles": [
+        "Las cartas de la vida",
+        "Tyler Perry's Doing Life"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+      "description": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado."
+    },
+    {
+      "id": "tt39453404",
+      "type": "movie",
+      "title": "Schumacher ’94 – The Birth of a Legend",
+      "year": 2026,
+      "tmdb_id": 1752355,
+      "alt_titles": [
+        "Schumacher ’94 – Die Geburt einer Legende"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tTup4U76sGi5om7BUiMYwKWHvvl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg"
+    },
+    {
+      "id": "tt43738050",
+      "type": "movie",
+      "title": "Crazy Rich, Incredibly Broke",
+      "year": 2026,
+      "tmdb_id": 1763619,
+      "alt_titles": [
+        "Ricos sin dinero",
+        "المهايطية",
+        "The Braggart"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bATrCc4HVGOkJyPb0GzEnBJrNQ0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hBzD2z87okDvqzjUJRth5rrkX0a.jpg",
+      "description": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir."
+    },
+    {
+      "id": "tt44568097",
+      "type": "movie",
+      "title": "The Widower: 'Til Death Do Us Part",
+      "year": 2026,
+      "tmdb_id": 1758536,
+      "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+      "description": "En este documental, un periodista y un inspector descubren la verdad sobre un asesino que, tras una fachada de encanto, ocultó durante 30 años un historial de matrimonios fallidos y muertes sospechosas."
+    },
+    {
+      "id": "tt23148884",
+      "type": "movie",
+      "title": "Funny Money: The Dane Cook Story",
+      "year": 2026,
+      "tmdb_id": 1757386,
+      "poster": "https://image.tmdb.org/t/p/w500/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uK74mGQvWIWE08jxOvSCb64RAj6.jpg"
+    },
+    {
+      "id": "tt6933238",
+      "type": "movie",
+      "title": "UNABOMBER",
+      "year": 2026,
+      "tmdb_id": 1492640,
+      "alt_titles": [
+        "Unabom"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+      "description": "En este drama inspirado en hechos reales, el FBI le da caza a Ted Kaczynski, prodigio de Harvard y víctima de un experimento, que se ha convertido en el Unabomber."
+    },
+    {
+      "id": "tt37803364",
+      "type": "movie",
+      "title": "Possible Love",
+      "year": 2026,
+      "tmdb_id": 1483525,
+      "alt_titles": [
+        "Un amor posible",
+        "가능한 사랑"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/y6tr4niJo46r8txkdQYCAJBeZEN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+      "description": "Un hombre desempleado y su esposa conocen a una cineasta documentalista y su pareja, y los cuatro se enfrentan a sus deseos escondidos."
+    },
+    {
+      "id": "tt16478058",
+      "type": "movie",
+      "title": "Best of the Best",
+      "year": 2026,
+      "tmdb_id": 1514863,
+      "alt_titles": [
+        "Las Mejores"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jBEkfgru8B8m2vzHgS1l3VgepT2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+      "description": "Comedia estadounidense sobre el despiadado circuito universitario de baile fusión de Bollywood."
+    },
+    {
+      "id": "tt37020296",
+      "type": "movie",
+      "title": "Gentle Monster",
+      "year": 2026,
+      "tmdb_id": 1473148,
+      "alt_titles": [
+        "Un monstruo amable"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rv3PprTMvEf317skaiTeEYAfJcr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/A8ZP4aE0gq9FrHydF9HU4LCmrtF.jpg",
+      "description": "Lucy y Philip son felices: acaban de mudarse con su hijo a una casa de campo cerca de Múnich. Una mañana, su vida da un vuelco cuando la policía se presenta en su domicilio para detener a Philip y confiscar sus ordenadores. Conmocionada, Lucy busca la verdad sobre su marido. ¿Quién es realmente? ¿Debe alejarlo de su hi"
+    },
+    {
+      "id": "tt41007422",
+      "type": "movie",
+      "title": "Thomas & Friends: Really Helpful Engines",
+      "year": 2026,
+      "tmdb_id": 1764166,
+      "alt_titles": [
+        "Thomas & Friends: Railway Stories - Really Helpful Engines"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg"
+    },
+    {
+      "id": "tt38616652",
+      "type": "movie",
+      "title": "Go Team!",
+      "year": 2026,
+      "tmdb_id": 1558568,
+      "alt_titles": [
+        "Gracias, equipo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8qDW83ImLRREI5PruuZvl4crm99.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+      "description": "Tío Mochales es una empresa que, hace años, era la reina indiscutible del queso español, pero hoy intenta mantener las apariencias. Su última gran idea: organizar un retiro rural para fomentar el espíritu de equipo en el pueblo donde se fundó la empresa. Pero lo que pretendía ser una escapada para reencontrarse con los"
+    },
+    {
+      "id": "tt39453578",
+      "type": "movie",
+      "title": "The Good Lawyer",
+      "year": 2026,
+      "tmdb_id": 1616419,
+      "alt_titles": [
+        "Un buen abogado",
+        "Un bon avocat"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tVJITyPQXww6DypTDlpILM0Ppzi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "description": "Luego de terminar en rehabilitación por una sobredosis, un abogado tiene una semana para salvar su carrera y prepararse para su propio juicio con la ayuda de una tenaz pasante."
+    },
+    {
+      "id": "tt40188247",
+      "type": "movie",
+      "title": "El Club del Pie Izquierdo",
+      "year": 2026,
+      "tmdb_id": 1743695,
+      "poster": "https://image.tmdb.org/t/p/w500/dcUSa8KQJvLjpdncudIIvmy6Sx8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
+      "description": "El Club del Pie Izquierdo es una comedia dramática mexicana dirigida por Celso R. García y protagonizada por Adrián Uribe y María León. La historia sigue a un empleado aburrido que busca salir de su rutina diaria inscribiéndose en clases de baile, lo que transforma su vida por completo."
+    },
+    {
+      "id": "tt38061210",
+      "type": "movie",
+      "title": "Why Did I Get Married Again?",
+      "year": 2026,
+      "tmdb_id": 1522689,
+      "alt_titles": [
+        "¿Por qué me casé, entonces?",
+        "Tyler Perry's Why Did I Get Married Again?"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/c76FMlhmdo0pODhbqFtHki6yJQz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+      "description": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela. Cuando surgen dramas antiguos y nuevos, todos se preguntan: «¿Por qué fue que nos casamos?»."
+    },
+    {
+      "id": "tt43700444",
+      "type": "movie",
+      "title": "Untold Mr. T: I Pity the Fool",
+      "year": 2026,
+      "tmdb_id": 1739206,
+      "alt_titles": [
+        "Al descubierto: Mr. T"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/laiVx3X4J7GNUyWWNvwGpSgT7MX.jpg",
+      "description": "Conquistó el mundo como ícono de los ochenta. Este documental revela la historia detrás del peinado, las cadenas y la icónica frase del actor. Contada por el mismísimo Mr. T."
+    },
+    {
+      "id": "tt37458193",
+      "type": "movie",
+      "title": "My Best Friend",
+      "year": 2026,
+      "tmdb_id": 1257147,
+      "alt_titles": [
+        "Mi mejor amiga",
+        "Minha Melhor Amiga"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/g1LPwe6w1jWKiP45XILfzpkr5iZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+      "description": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero."
+    },
+    {
+      "id": "tt44322266",
+      "type": "movie",
+      "title": "Turning Point: Generation 9/11",
+      "year": 2026,
+      "tmdb_id": 1752159,
+      "poster": "https://image.tmdb.org/t/p/w500/peEW3aQtOacOqGOB88LkDT6QGvQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+      "description": "Veinticinco años después del 11-S, este documental analiza cómo aquel fatídico día marcó a toda una nueva generación. Desde los niños que perdieron a sus padres en los atentados a los periodistas que dieron sus primeros pasos profesionales cubriendo la guerra contra el terrorismo, pasando por los jóvenes afganos y mari"
+    }
+  ]
+}

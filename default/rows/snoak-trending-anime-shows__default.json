@@ -1,0 +1,569 @@
+{
+  "items": [
+    {
+      "id": "tt7441658",
+      "type": "series",
+      "title": "Black Clover",
+      "year": 2017,
+      "tmdb_id": 73223,
+      "alt_titles": [
+        "ブラッククローバー"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AsaEmDMgrt9MCCTXxUzY9PtFZko.jpg",
+      "description": "Asta y Yuno son dos huérfanos que fueron criados juntos desde su nacimiento en una iglesia en las afueras del Reino de Clover. En un mundo donde todos tienen poder mágico, Asta nació sin ningún tipo de poder. A diferencia de él, Yuno nació como un prodigio con inmenso poder mágico y gran talento para controlarlo. La hi"
+    },
+    {
+      "id": "tt2560140",
+      "type": "series",
+      "title": "Attack on Titan",
+      "year": 2013,
+      "tmdb_id": 1429,
+      "alt_titles": [
+        "進撃の巨人",
+        "Ataque a los titanes",
+        "AOT"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ysJhGmop3BW87PFLEBaPabmQpHz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "description": "Muchos años atrás, la humanidad estuvo al borde de la extinción con la aparición de unas criaturas gigantes que devoraban a todas las personas. Huyendo, la humanidad consiguió sobrevivir en una ciudad fortificada de altas murallas que se ha convertido en el último reducto de la civilización contra los Titanes que campa"
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "title": "One Piece",
+      "year": 1999,
+      "tmdb_id": 37854,
+      "alt_titles": [
+        "ワンピース"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "description": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece."
+    },
+    {
+      "id": "tt12590266",
+      "type": "series",
+      "title": "Cyberpunk: Edgerunners",
+      "year": 2022,
+      "tmdb_id": 105248,
+      "alt_titles": [
+        "Cyberpunk: Edgerunners 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+      "description": "En una realidad distópica repleta de corrupción e implantes cibernéticos, un joven talentoso e impulsivo intenta convertirse en un mercenario."
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "title": "JUJUTSU KAISEN",
+      "year": 2020,
+      "tmdb_id": 95479,
+      "alt_titles": [
+        "呪術廻戦",
+        "Guerra de magia",
+        "Jujutsu Kaisen: Guerra de hechiceros",
+        "JUJUTSU KAISEN Season 3: The Culling Game Part 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "description": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición."
+    },
+    {
+      "id": "tt5607616",
+      "type": "series",
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "year": 2016,
+      "tmdb_id": 65942,
+      "alt_titles": [
+        "Re:ゼロから始める異世界生活",
+        "Re Zero Empezar de cero en un mundo diferente Temporada 2",
+        "Re Zero Empezar de cero en un mundo diferente",
+        "Re:ZERO -Starting Life in Another World- Director's Cut"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2FvWqbgJDG2IWGgUxhROYQxE98p.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "description": "Natsuki Subaru, un estudiante de secundaria ordinario, está en camino a casa desde la tienda de conveniencia cuando se encuentra transportado a otro mundo. Como está perdido y confundido en un mundo nuevo en el que ni siquiera sabe de izquierda a derecha, la única persona que le alcanzó fue una hermosa niña con cabello"
+    },
+    {
+      "id": "tt2359704",
+      "type": "series",
+      "title": "JoJo's Bizarre Adventure",
+      "year": 2012,
+      "tmdb_id": 45790,
+      "alt_titles": [
+        "ジョジョの奇妙な冒険",
+        "STEEL BALL RUN JoJo's Bizarre Adventure"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+      "description": "En la Gran Bretaña de finales del siglo XIX, el joven Jonathan Joestar conoce a su nuevo hermano adoptivo, Dio Brando, quien únicamente quiere usurparle el puesto de heredero de la familia Joestar a Jonathan. No obstante, su plan fracasa y decide usar una máscara de piedra de origen mesoamericano que lo convierte en un"
+    },
+    {
+      "id": "tt5626028",
+      "type": "series",
+      "title": "My Hero Academia",
+      "year": 2016,
+      "tmdb_id": 65930,
+      "alt_titles": [
+        "僕のヒーローアカデミア",
+        "My Hero Academia: I am a hero too"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rxqI6KDfbIzlg5BRqg7i3nLsn9r.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg",
+      "description": "El 80 % de la población mundial ha desarrollado superpoderes y son entrenados en la Academia de Héroes. Como consecuencia, han surgido tanto superhéroes como supervillanos. Izuku Midoriya es parte de ese 20 % sin ningún poder sobrenatural. Sin embargo, su mayor deseo es poder estudiar en la Academia y convertirse en un"
+    },
+    {
+      "id": "tt10233448",
+      "type": "series",
+      "title": "Vinland Saga",
+      "year": 2019,
+      "tmdb_id": 88803,
+      "alt_titles": [
+        "ヴィンランド・サガ"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
+      "description": "Cuando Thors, un gran guerrero viking muere asesinado en batalla a manos de Askeladd, un mercenario, su hijo, Thorfinn, jura vengarse. Para ello tendrá que demostrar su valía antes de ganarse el derecho a retar a un duelo al asesino de su padre."
+    },
+    {
+      "id": "tt2098220",
+      "type": "series",
+      "title": "Hunter x Hunter",
+      "year": 2011,
+      "tmdb_id": 46298,
+      "alt_titles": [
+        "Hunter × Hunter",
+        "HUNTER×HUNTER",
+        "Hunter x Hunter 2011"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/43wEsSJxuV8SZuipKpolOsuGVRZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg",
+      "description": "Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador, él es quien le dice que su"
+    },
+    {
+      "id": "tt0877057",
+      "type": "series",
+      "title": "Death Note",
+      "year": 2006,
+      "tmdb_id": 13916,
+      "alt_titles": [
+        "Death Note Rewrite 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/z85wVUR32PrvHfope9Xbn0kD68u.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+      "description": "Light Yagami es un joven estudiante que un día encuentra un cuaderno llamado Death Note que tiene una macabra propiedad: si el nombre de una persona aparece escrito en él, morirá. Light decide, entonces, embarcarse en una misión para librar al mundo de todos los criminales. Sin embargo, su plan empieza a torcerse cuand"
+    },
+    {
+      "id": "tt1355642",
+      "type": "series",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "tmdb_id": 31911,
+      "alt_titles": [
+        "鋼の錬金術師 FULLMETAL ALCHEMIST",
+        "Fullmetal Alchemist Brotherhood",
+        "Alchemist of Steel FULLMETAL ALCHEMIST"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+      "description": "La imprudente indiferencia de Edward y Alphonse Elric por las leyes fundamentales de la alquimia le arrancaron la mitad de las extremidades a Ed y dejaron el alma de Al pegada a una fría armadura. Para restaurar lo que se perdió, los hermanos recorren una tierra devastada por la guerra para la Piedra Filosofal, una rel"
+    },
+    {
+      "id": "tt26743760",
+      "type": "series",
+      "title": "The Apothecary Diaries",
+      "year": 2023,
+      "tmdb_id": 220542,
+      "alt_titles": [
+        "Los diarios de la boticaria",
+        "薬屋のひとりごと",
+        "Kusuriya no Hitorigoto"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bxTW8dYEUZKmee3N9GY0h04039g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "description": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un g"
+    },
+    {
+      "id": "tt39394153",
+      "type": "series",
+      "title": "Firefly Wedding",
+      "year": 2026,
+      "tmdb_id": 320909,
+      "alt_titles": [
+        "Boda de Luciérnagas",
+        "ホタルの嫁入り"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+      "description": "Satoko Kirigaya lo tiene todo lo que una noble podría desear, excepto tiempo. Con la vida a punto de expirar, está decidida a casarse bien y enorgullecer a su padre. Pero cuando un despiadado asesino la secuestra, le hace una propuesta desesperada: «Cásate conmigo y lo tendremos todo». Shinpei Goto acepta, solo para ob"
+    },
+    {
+      "id": "tt13196080",
+      "type": "series",
+      "title": "Tokyo Revengers",
+      "year": 2021,
+      "tmdb_id": 105009,
+      "alt_titles": [
+        "東京リベンジャーズ",
+        "Tokyo Revengers: War of the Three Titans Arc"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zYIFOocMfsKAEysBjhZ8akfXFdB.jpg",
+      "description": "Takemichi es un desempleado de 26 años que descubre que la chica con la que salió en secundaria, la que fue su única novia, ha muerto. Tras eso sufre un accidente del cual, al despertar, descubre que se ha transportado a sus años de secundaria. Con ello Takemichi jura que cambiará el futuro y salvará a la chica, y para"
+    },
+    {
+      "id": "tt0988824",
+      "type": "series",
+      "title": "Naruto Shippūden",
+      "year": 2007,
+      "tmdb_id": 31910,
+      "alt_titles": [
+        "Naruto Shippuden",
+        "ナルト 疾風伝",
+        "Naruto: Shippuden"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ews8shcDbRG3tY33dF0jClNvgIK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+      "description": "La acción empieza tras los dos años y medio que el protagonista, Naruto Uzumaki, ha pasado entrenando con su maestro Jiraiya. En ella reaparecen todos los personajes de la anterior serie pero con más experiencia y fuerza. Además, la Organización Akatsuki entra definitivamente en acción, tras su breve aparición en la pa"
+    },
+    {
+      "id": "tt9335498",
+      "type": "series",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "year": 2019,
+      "tmdb_id": 85937,
+      "alt_titles": [
+        "鬼滅の刃",
+        "Guardianes de la noche",
+        "Demon Slayer Kimetsu no Yaiba"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/inXU5hvbDbitrYOgLrq2QjYqiJD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
+      "description": "En la era Taisho de Japón, Tanjiro, un joven vendedor de carbón, descubre que su familia ha sido asesinada por un demonio. Su hermana Nezuko, la única superviviente, se ha convertido en demonio. Tanjiro decide convertirse en cazador de demonios para devolver a su hermana a la normalidad y vengar a su familia"
+    },
+    {
+      "id": "tt0434706",
+      "type": "series",
+      "title": "Monster",
+      "year": 2004,
+      "tmdb_id": 30981,
+      "alt_titles": [
+        "Naoki Urasawa's Monster"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/en7EgMFKYxPKSHpljzveLf6YYfH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+      "description": "\"Monster\" sigue la historia del Dr. Kenzo Tenma, un talentoso cirujano japonés que se ve involucrado en una serie de eventos misteriosos después de salvar la vida de un niño llamado Johan. Con el tiempo, Tenma descubre que Johan es un asesino en serie altamente peligroso y se embarca en una misión para detenerlo, enfre"
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "title": "Solo Leveling",
+      "year": 2024,
+      "tmdb_id": 127532,
+      "alt_titles": [
+        "俺だけレベルアップな件",
+        "Solo Leveling Season 2 -Arise from the Shadow-"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+      "description": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a d"
+    },
+    {
+      "id": "tt22248376",
+      "type": "series",
+      "title": "Frieren: Beyond Journey's End",
+      "year": 2023,
+      "tmdb_id": 209867,
+      "alt_titles": [
+        "Frieren: Más allá del final del viaje",
+        "葬送のフリーレン",
+        "Frieren Beyond Journeys End"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6A8IHWrtMLtadNXnMTjggvVY8cs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+      "description": "Décadas después de que su grupo derrotara al Rey Demonio, el funeral de un viejo amigo lleva a la hechicera elfa Frieren a embarcarse en un viaje de autodescubrimiento."
+    },
+    {
+      "id": "tt0434665",
+      "type": "series",
+      "title": "Bleach",
+      "year": 2004,
+      "tmdb_id": 30984,
+      "alt_titles": [
+        "Bleach: Thousand-Year Blood War - The Calamity"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "description": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una Cegador —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida "
+    },
+    {
+      "id": "tt39395275",
+      "type": "series",
+      "title": "Dragon Ball Super: Beerus",
+      "year": 2026,
+      "tmdb_id": 312359,
+      "alt_titles": [
+        "ドラゴンボール超 ビルス",
+        "Dragon Ball Super: Beerus ENHANCED Edition"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "description": "Edición «mejorada» de Dragon Ball Super que incluye una gran cantidad de escenas nuevas y redibujadas, una narrativa reconstruida y un apartado visual actualizado para ofrecer una representación más fiel e inmersiva del manga original de Akira Toriyama."
+    },
+    {
+      "id": "tt0318871",
+      "type": "series",
+      "title": "Berserk",
+      "year": 1997,
+      "tmdb_id": 35935,
+      "alt_titles": [
+        "剣風伝奇ベルセルク",
+        "Berserk (1997)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "description": "Gatsu es un guerrero cuya vida no ha sido fácil: nació de una madre muerta, y al ser adoptado por el inflexible Gambino fue obligado a trabajar como mercenario para sobrevivir.\n\nSin embargo, tras su ingreso en la Cuadrilla del Halcón, una banda de mercenarios invencibles dirigidos por el misterioso Griffit, Gatsu parec"
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "year": 2021,
+      "tmdb_id": 94664,
+      "alt_titles": [
+        "Mushoku Tensei Jobless Reincarnation",
+        "無職転生 ～異世界行ったら本気だす～",
+        "Reencarnación sin trabajo: lo intentaré seriamente si voy a otro mundo",
+        "Mushoku Tensei: Jobless Reincarnation Season 2 - Guardian Fitz"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pfgndj46RLPVJRWkUSCJBgLJ93w.jpg",
+      "description": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las c"
+    },
+    {
+      "id": "tt0994314",
+      "type": "series",
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "year": 2006,
+      "tmdb_id": 31724,
+      "alt_titles": [
+        "Code Geass: La Rebelión de Lelouch",
+        "コードギアス 反逆のルルーシュ",
+        "Code Geass: Lelouch of the Rebellion R2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7hi9sR0uelo74uJhJmsApeodwxF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5hS2OIuZSKGkR8R5l3bY5zh04Ce.jpg",
+      "description": "El 10 de agosto de 2010 a.t.b, el Sacro Imperio de Britannia sobrepasó a  las fuerzas japonesas y conquistó el país en menos de un mes, haciendo  uso de sus armas robóticas, los Knightmare Frames. Japón perdió su  libertad y derechos, y pasó a ser llamada \"Area 11\". Sus  habitantes, ahora llamados \"Elevens\" fueron obli"
+    },
+    {
+      "id": "tt0409591",
+      "type": "series",
+      "title": "Naruto",
+      "year": 2002,
+      "tmdb_id": 46260,
+      "alt_titles": [
+        "ナルト",
+        "Naruto el Origen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oOkvQ1anSMvdYbUGGf7NAnfwHUt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+      "description": "Narra la historia de un ninja adolescente hiperactivo, impredecible y ruidoso llamado Naruto Uzumaki, quien aspira a convertirse afanosamente en Hokage, el máximo grado ninja en su aldea, con el propósito de ser reconocido como alguien importante dentro de la misma."
+    },
+    {
+      "id": "tt1910272",
+      "type": "series",
+      "title": "Steins;Gate",
+      "year": 2011,
+      "tmdb_id": 42509,
+      "alt_titles": [
+        "Steins Gate"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/36Ech63X2KU8JUXIBAo167kIC2k.jpg",
+      "description": "Okabe Rintarou es un joven que se define  a sí mismo como científico loco. Juntos con sus amigos Mayuri y Daru, forma parte el “Laboratorio de Dispositivos del Futuro” una especie de laboratorio clandestino en un pequeño apartamento. Okabe y Mayuri acuden a una conferencia sobre viajes temporales cuando se topan con lo"
+    },
+    {
+      "id": "tt43691353",
+      "type": "series",
+      "title": "Overgeared",
+      "year": 2026,
+      "tmdb_id": 324502,
+      "alt_titles": [
+        "テムパル～アイテムの力～",
+        "Overgeared ~The Power of Items~"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fmAQ2lOtLAoEU2p6wQ12wXbIgLM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+      "description": "Olvídate de la rutina con SATISFY, el juego de realidad virtual donde ganas fama y dinero reales. A Grid jamás le sonríe la suerte, ni dentro ni fuera del juego, pero todo da un vuelco cuando una ardua misión lo convierte en el heredero de un herrero legendario. Sus estadísticas vuelven a cero, sí, pero ahora sube de n"
+    },
+    {
+      "id": "tt0213338",
+      "type": "series",
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "tmdb_id": 30991,
+      "alt_titles": [
+        "カウボーイビバップ"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+      "description": "Transcurre el año 2071. La tripulación de la nave BEBOP, inicialmente compuesta por Spike Spiegel y Jet Black, viaja por todo el Sistema Solar en busca de recompensas. A lo largo de sus aventuras se incorporan tres nuevos personajes a su tripulación: Faye Valentine, Ed y, la mascota, Ein. Durante sus aventuras se desve"
+    },
+    {
+      "id": "tt0988818",
+      "type": "series",
+      "title": "Gintama",
+      "year": 2006,
+      "tmdb_id": 57041,
+      "alt_titles": [
+        "銀魂",
+        "Gintama'"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3BO0H9fXEuQ2f6fuFjxTPpSrhTN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3gVl0IvJMbhOnAvH9V0Q1Y1HnXE.jpg",
+      "description": "La historia de Gintama se sitúa en un Edo alternativo (actual Tokio), conquistado por alienígenas llamados Amanto, quienes prohíben el uso de espadas y debilitan a los samuráis. El protagonista, Gintoki Sakata, es un samurái excéntrico que termina formando el grupo “Yorozuya” junto a Shinpachi, un joven que lo admira, "
+    },
+    {
+      "id": "tt13616990",
+      "type": "series",
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "tmdb_id": 114410,
+      "alt_titles": [
+        "チェンソーマン",
+        "CSM"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fOUKSCbZzaoQKsO39enivHnWDid.jpg",
+      "description": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Para pagar la deuda que le dejó su padre tras su muerte, ha tenido que ganarse el pan como puede matando demonios y vendiendo sus cadáverse a la mafia, aunque su vida siempre ha sido miserable.\n\nCuando una traición provoca la muerte de Denji, P"
+    },
+    {
+      "id": "tt4508902",
+      "type": "series",
+      "title": "One-Punch Man",
+      "year": 2015,
+      "tmdb_id": 63926,
+      "alt_titles": [
+        "One Punch Man",
+        "ワンパンマン"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
+      "description": "Saitama se hizo héroe por pura afición y, después de tres años de entrenamiento intenso, alcanzó un nivel de fuerza capaz de derrotar a cualquier enemigo de un solo golpe. Ahora, la vida emocionante que esperaba tener se ha convertido en un completo aburrimiento. Pero, ¿habrá alguien que esté a su nivel entre todos los"
+    },
+    {
+      "id": "tt0112159",
+      "type": "series",
+      "title": "Neon Genesis Evangelion",
+      "year": 1995,
+      "tmdb_id": 890,
+      "alt_titles": [
+        "新世紀エヴァンゲリオン",
+        "New Century Evangelion"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2NNKYsWXoO9w8fMctWX7utqyh95.jpg",
+      "description": "La historia da lugar en un mundo futurista en el que una organización paramilitar llamada NERV protege a la humanidad de los ataques de seres de origen y naturaleza desconocidos, los «ángeles», utilizando para ello mechas humanoides llamados «EVA». A medida que avanza la trama, esta se vuelve paulatinamente más confusa"
+    },
+    {
+      "id": "tt5897304",
+      "type": "series",
+      "title": "Mob Psycho 100",
+      "year": 2016,
+      "tmdb_id": 67075,
+      "alt_titles": [
+        "モブサイコ100"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+      "description": "Kageyama Shigeo, apodado \"Mob\", es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible!\n\nRodeado por falsos espers, espí"
+    },
+    {
+      "id": "tt30217403",
+      "type": "series",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "tmdb_id": 240411,
+      "alt_titles": [
+        "ダンダダン",
+        "Dandadan"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "description": "Dos adolescentes deciden probar si los fantasmas o los álienes existen y terminan enfrentando aterradoras amenazas paranormales, recibiendo superpoderes y, tal vez, enamorándose."
+    },
+    {
+      "id": "tt9054364",
+      "type": "series",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "year": 2018,
+      "tmdb_id": 82684,
+      "alt_titles": [
+        "転生したらスライムだった件",
+        "Aquella vez que me convertí en Slime",
+        "That Time I Got Reincarnated as a Slime: Visions of Coleus"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+      "description": "Satoru Mikami es un hombre de 37 años que tiene un trabajo que no le gusta, sin salida y que no es feliz con la vida que lleva, pero cuando muere a manos de un ladrón y piensa que es su fin, se despierta descubriendo que se ha reencarnado en un mundo de magia y espada… ¡pero como un slime! Ahora tendrá que acostumbrars"
+    },
+    {
+      "id": "tt13706018",
+      "type": "series",
+      "title": "SPY x FAMILY",
+      "year": 2022,
+      "tmdb_id": 120089,
+      "alt_titles": [
+        "SPY×FAMILY"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+      "description": "Un espía, una asesina y una telépata se juntan, fingen ser una familia, cada cual por sus razones, y esconden sus verdaderas identidades el uno del otro."
+    },
+    {
+      "id": "tt39123061",
+      "type": "series",
+      "title": "The Ramparts of Ice",
+      "year": 2026,
+      "tmdb_id": 283428,
+      "alt_titles": [
+        "Rompiendo el hielo",
+        "氷の城壁",
+        "Ice Castle Wall"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/n2DMlpO3DPqSmW1r8atuhcIgl7A.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+      "description": "A Koyuki le cuesta trabajo conectar con otros. Preferiría pasar sus años escolares sola…, hasta que aparece Minato, que decide derretir los muros de hielo a su alrededor."
+    },
+    {
+      "id": "tt0168366",
+      "type": "series",
+      "title": "Pokémon",
+      "year": 1997,
+      "tmdb_id": 60572,
+      "alt_titles": [
+        "ポケットモンスター",
+        "Viatges Pokémon",
+        "Pokémon: To Be a Pokémon Master: Ultimate Journeys: The Series"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/w57GROjoeTJktLIlINOMYjMJmnZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez años Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un día en un gran Maestro de Pokemon. Para ello deberá recorrer distintas regiones, capturar cuantos más Pokemon pueda, y conseguir las medallas de gimnasio necesarias y así part"
+    },
+    {
+      "id": "tt2250192",
+      "type": "series",
+      "title": "Sword Art Online",
+      "year": 2012,
+      "tmdb_id": 45782,
+      "alt_titles": [
+        "ソードアート・オンライン"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wJi7fRmHw0wRMldUY28sSzXpp4G.jpg",
+      "description": "En el año 2022, miles de jugadores quedan atrapados dentro de Sword Art Online, el primer VRMMORPG de inmersión total. Lo que parecía un sueño se convierte en una pesadilla cuando el creador del juego revela que morir en el mundo virtual significa morir en el mundo real. Kirito, un hábil jugador solitario, decide lucha"
+    }
+  ]
+}

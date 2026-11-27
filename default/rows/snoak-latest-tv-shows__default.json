@@ -1,0 +1,481 @@
+{
+  "items": [
+    {
+      "id": "tt18224594",
+      "type": "series",
+      "title": "Blade Runner 2099",
+      "year": 2026,
+      "tmdb_id": 171802,
+      "poster": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+      "description": "Cora, una fugitiva convertida en Blade Runner, se asocia con Olwen, una replicante moribunda, para cazar a un fugitivo en un Los Ángeles renacido. Juntos descubren una verdad que amenaza con destruir su frágil ciudad."
+    },
+    {
+      "id": "tt36843594",
+      "type": "series",
+      "title": "DIG",
+      "year": 2026,
+      "tmdb_id": 290826,
+      "poster": "https://image.tmdb.org/t/p/w500/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
+      "description": "Sigue a cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo, con el potencial de reescribir la historia, se ven envueltas en una conspiración internacional de gran envergadura."
+    },
+    {
+      "id": "tt33004920",
+      "type": "series",
+      "title": "The Trials of Karen Read",
+      "year": 2026,
+      "tmdb_id": 340615,
+      "poster": "https://image.tmdb.org/t/p/w500/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg"
+    },
+    {
+      "id": "tt38336631",
+      "type": "series",
+      "title": "The Blue Road",
+      "year": 2026,
+      "tmdb_id": 300523,
+      "alt_titles": [
+        "El camino azul",
+        "푸른길",
+        "Road"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "description": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca."
+    },
+    {
+      "id": "tt36786185",
+      "type": "series",
+      "title": "The Altruists",
+      "year": 2026,
+      "tmdb_id": 308007,
+      "alt_titles": [
+        "Los altruistas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iRFLTlydFocAEWN2yIoBWGTXyFe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+      "description": "Jóvenes, idealistas y súbitamente ricos. Intentaron hacer el bien, pero sacaron lo peor del otro. Una historia de amor tóxica inspirada por un fraude real."
+    },
+    {
+      "id": "tt44079238",
+      "type": "series",
+      "title": "The Law of Beasts",
+      "year": 2026,
+      "tmdb_id": 332839,
+      "alt_titles": [
+        "La ley de las bestias",
+        "Prawo bestii"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/u7hQSvHz05x3Z6avbLDDhGuKgE8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+      "description": "La historia comienza tras el brutal asesinato de cuatro niños en Polonia. El caso sitúa a la comandante e investigadora principal Anna Berz y a la psiquiatra Agnieszka Grabska ante la misión de evaluar la salud mental del principal sospechoso, Mariusz Trynkiewicz. Bajo presión, ambas toman una decisión profesional que "
+    },
+    {
+      "id": "tt41559886",
+      "type": "series",
+      "title": "Gordon",
+      "year": 2026,
+      "tmdb_id": 340280,
+      "poster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+      "description": "Inspirada en hechos reales, sigue la transformación de Aníbal Gordon (Rodrigo de la Serna), un delincuente común que, sin dejar de delinquir, se convirtió en un implacable agente paraestatal en el marco de la violencia política de la década de los setenta en Argentina."
+    },
+    {
+      "id": "tt36329495",
+      "type": "series",
+      "title": "Honey",
+      "year": 2026,
+      "tmdb_id": 287296,
+      "poster": "https://image.tmdb.org/t/p/w500/wKrubUacVFYxSjYBkiZYrgiCjXh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aNCRT8I1LTnw8vQSqPoSPWUtLEL.jpg"
+    },
+    {
+      "id": "tt38707741",
+      "type": "series",
+      "title": "Murder in Galicia",
+      "year": 2026,
+      "tmdb_id": 303182,
+      "alt_titles": [
+        "El crimen de Pazos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "description": "En el tranquilo pueblo de Pazos, Aniceto (Miguel Borines) y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo. Mientras Irene lucha por su vida en el hospital, Elías (Tristán Ulloa), un sargento de la Guardia Civil convencido de que Anicet"
+    },
+    {
+      "id": "tt31842126",
+      "type": "series",
+      "title": "The Good Daughter",
+      "year": 2026,
+      "tmdb_id": 249565,
+      "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia."
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "title": "12 12 12",
+      "year": 2026,
+      "tmdb_id": 254630,
+      "alt_titles": [
+        "Twelve Twelve Twelve"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wqiJp937rgCXf2eZRTo5m5dhpp2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "description": "Planificar un gran golpe lleva 12 meses y ejecutarlo 12 horas; si un ladrón no es capturado en un plazo de 12 días, ya no lo atraparán jamás. A través de tres líneas temporales trepidantes, un agente del FBI y un delincuente profesional se enfrentan en un juego mortal del gato y el ratón por toda Europa."
+    },
+    {
+      "id": "tt47021035",
+      "type": "series",
+      "title": "Cunk on Cinema",
+      "year": 2026,
+      "tmdb_id": 335981,
+      "alt_titles": [
+        "El cine según Philomena Cunk"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+      "description": "En esta pícara serie en formato de falso documental, Philomena recorre los grandes éxitos del cine y entrevista a expertos en medio de terribles confusiones."
+    },
+    {
+      "id": "tt8014982",
+      "type": "series",
+      "title": "The Body",
+      "year": 2026,
+      "tmdb_id": 291507,
+      "alt_titles": [
+        "El cuerpo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "description": "En la noche de Halloween, un equipo de baile femenino cae en la culpa católica, deseos impíos y visiones fantasmales luego de que una iniciación se va al diablo."
+    },
+    {
+      "id": "tt37214564",
+      "type": "series",
+      "title": "ChiaroScuro",
+      "year": 2026,
+      "tmdb_id": 336243,
+      "alt_titles": [
+        "El claroscuro"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
+      "description": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado."
+    },
+    {
+      "id": "tt37762350",
+      "type": "series",
+      "title": "Under Siege",
+      "year": 2026,
+      "tmdb_id": 297491,
+      "alt_titles": [
+        "Palacio"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ju6k9yjDo4kmGq2nylFtBCSmfML.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+      "description": "Noviembre de 1985: el M-19 se toma el Palacio de Justicia en Bogotá, desatando una jornada de violencia que cambiará a Colombia para siempre. Entre el fuego cruzado, rehenes desesperados, un ejército implacable y una guerrilla dispuesta a perderlo todo, la nación presencia por primera vez la guerra destrozando el coraz"
+    },
+    {
+      "id": "tt39943756",
+      "type": "series",
+      "title": "Campus Drivers",
+      "year": 2026,
+      "tmdb_id": 303044,
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "description": "Loïs llega a Belrose con Max, el amor de su vida. Lane, el creador de la popular aplicación Campus Drivers, es famoso por su falta de apego. Sus caminos no estaban destinados a entrelazarse, pero hay encuentros que cambian todo y reabren viejas heridas. Cuando el amor llega inesperadamente, las certezas desaparecen."
+    },
+    {
+      "id": "tt36982492",
+      "type": "series",
+      "title": "Sunshine through the Rain",
+      "year": 2026,
+      "tmdb_id": 307853,
+      "alt_titles": [
+        "今天是太阳雨",
+        "Today is a sun shower."
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/orMW4drEq3eLZKSiF7KKUq1qhvH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg"
+    },
+    {
+      "id": "tt38681812",
+      "type": "series",
+      "title": "Anaesthesia",
+      "year": 2026,
+      "tmdb_id": 312006,
+      "alt_titles": [
+        "Anestesia",
+        "Znieczulenie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Dr. Dawid Łazarz (interpretado por Leszek Lichota), un brillante neurocirujano de una clínica privada cuya vida y carrera se hunden tras una arriesgada operación fallida. Para rehacer su vida, acepta trabajar en un hospital comarcal con menos recursos y mayor presión asistencial, enfrentándose al choque entre la medici"
+    },
+    {
+      "id": "tt43681696",
+      "type": "series",
+      "title": "Taken: Natalee Holloway",
+      "year": 2026,
+      "tmdb_id": 338684,
+      "poster": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "title": "The Remarried Empress",
+      "year": 2026,
+      "tmdb_id": 279246,
+      "alt_titles": [
+        "La emperatriz divorciada",
+        "재혼 황후"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "description": "Cuando el emperador Sovieshu se enamora de una esclava fugitiva y le pide el divorcio a su esposa, la querida emperatriz Navier, ella lo sorprende con una audaz petición: solo aceptará si le permiten casarse con Heinrey, el príncipe del Reino del Oeste."
+    },
+    {
+      "id": "tt39957390",
+      "type": "series",
+      "title": "Bass X Machina",
+      "year": 2026,
+      "tmdb_id": 314271,
+      "poster": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
+      "description": "En un viejo Oeste retrofuturista plagado de forajidos, máquinas y fuerzas sobrenaturales, un padre se convierte en juez, juzgado y verdugo para proteger a su familia."
+    },
+    {
+      "id": "tt36458668",
+      "type": "series",
+      "title": "Dead-End Job",
+      "year": 2026,
+      "tmdb_id": 289517,
+      "alt_titles": [
+        "Un trabajo maldito",
+        "꿀알바",
+        "Dead End Job"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "description": "Agobiado por las deudas, un hombre acepta una serie de lucrativos trabajos de medio tiempo, pero sus esfuerzos por ganar dinero desatan una pesadilla."
+    },
+    {
+      "id": "tt36832423",
+      "type": "series",
+      "title": "The Traitor Within",
+      "year": 2026,
+      "tmdb_id": 300755,
+      "alt_titles": [
+        "Rinnan"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6uFaEHVmoP88w0RxIOYAjWq2A7W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/MPr8r8gdkoVDR9rQf57VORhfMQ.jpg"
+    },
+    {
+      "id": "tt42767924",
+      "type": "series",
+      "title": "A Couple of Lies",
+      "year": 2026,
+      "tmdb_id": 336240,
+      "alt_titles": [
+        "El intercambio",
+        "Bytet"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+      "description": "Durante sus vacaciones, dos parejas en crisis descubren verdades inquietantes sobre su intercambio de casas y sus anfitriones. Thriller basado en la novela de Stefan Ahnhem."
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "title": "Nocturne",
+      "year": 2026,
+      "tmdb_id": 292741,
+      "alt_titles": [
+        "Nocturno",
+        "Parallax"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iyZbDfI9fdHXT92H475wM0d6kRm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "description": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino."
+    },
+    {
+      "id": "tt49250618",
+      "type": "series",
+      "title": "The Fall of El Mayo",
+      "year": 2026,
+      "tmdb_id": 338689,
+      "alt_titles": [
+        "La Caída de El Mayo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+      "description": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída."
+    },
+    {
+      "id": "tt45854934",
+      "type": "series",
+      "title": "The Gift of Deceit",
+      "year": 2026,
+      "tmdb_id": 334700,
+      "alt_titles": [
+        "El don de engañar",
+        "Dom de Iludir"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2xP7n3cQ5cvHaoMqmpAKt86feBl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+      "description": "Desesperada por encontrar una cura para la enfermedad desconocida que afecta a su hija, la coleccionista de arte Lúcia Rossetti recurre a una sanadora espiritual. Cuando Lúcia cae víctima de una estafa, se revela una serie de secretos que entrelazan a dos familias marcadas por el amor."
+    },
+    {
+      "id": "tt44941753",
+      "type": "series",
+      "title": "The One About Matthew Perry",
+      "year": 2026,
+      "tmdb_id": 333533,
+      "alt_titles": [
+        "El de Matthew Perry"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "description": "Serie documental que narra el éxito, el activismo público y la trágica muerte de la querida estrella de «Friends» mediante testimonios de sus seres cercanos."
+    },
+    {
+      "id": "tt42220724",
+      "type": "series",
+      "title": "Minimum Wage",
+      "year": 2026,
+      "tmdb_id": 321221,
+      "alt_titles": [
+        "Salario mínimo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/neEKHIaWcyhwuvv0HXF5Ig6RmXH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+      "description": "Un grupo de jóvenes intentan sacar adelante una pizzería mientras lidian con la escuela y la autoridad. Basada en la popular miniserie web."
+    },
+    {
+      "id": "tt36119015",
+      "type": "series",
+      "title": "Adultery",
+      "year": 2026,
+      "tmdb_id": 338641,
+      "poster": "https://image.tmdb.org/t/p/w500/cWo02FdwkVsFhEoZtNUZZa7tahd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5w6OmEcNId5xtwbn8LJ4g25nEry.jpg"
+    },
+    {
+      "id": "tt39469996",
+      "type": "series",
+      "title": "Newlyweds",
+      "year": 2026,
+      "tmdb_id": 322267,
+      "poster": "https://image.tmdb.org/t/p/w500/9ZAPU2IRSdI9xdVb42z2F1momJc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/n0RJ41WxoROYkKOdJP0NU1hEktJ.jpg"
+    },
+    {
+      "id": "tt39980704",
+      "type": "series",
+      "title": "YAGA",
+      "year": 2026,
+      "tmdb_id": 314360,
+      "poster": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg"
+    },
+    {
+      "id": "tt41266040",
+      "type": "series",
+      "title": "The Northumbria Mysteries",
+      "year": 2026,
+      "tmdb_id": 328674,
+      "poster": "https://image.tmdb.org/t/p/w500/eAlM5vJwQs18crVjMyRt3jHmce9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4i43wR5Pabh99fQIs6oYwzjSGRp.jpg"
+    },
+    {
+      "id": "tt39387986",
+      "type": "series",
+      "title": "Fading Grandeur",
+      "year": 2026,
+      "tmdb_id": 335535,
+      "alt_titles": [
+        "Grande de España"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg"
+    },
+    {
+      "id": "tt38337376",
+      "type": "series",
+      "title": "Did Someone Happen to Mention Me?",
+      "year": 2026,
+      "tmdb_id": 300527,
+      "alt_titles": [
+        "¿Por casualidad hablaban de mí?",
+        "俺のこと、なんか言ってた？"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tJUjCIscL08cVW43kCJ3MKQd8u4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+      "description": "En esta comedia, Gen ―quien solía ser el actor más famoso de Japón― de repente cae en el olvido. Impulsado por la necesidad de reconocimiento, lucha por resurgir desde cero."
+    },
+    {
+      "id": "tt35926686",
+      "type": "series",
+      "title": "It Gets Worse",
+      "year": 2026,
+      "tmdb_id": 334470,
+      "poster": "https://image.tmdb.org/t/p/w500/xm3NMFDjgPRjgCmH5uo3LuVZYBX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c5nYh3atmgiUCpvVnS28lYxDopL.jpg"
+    },
+    {
+      "id": "tt48356732",
+      "type": "series",
+      "title": "Swipe Right on the Devil",
+      "year": 2026,
+      "tmdb_id": 337609,
+      "poster": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg"
+    },
+    {
+      "id": "tt21952924",
+      "type": "series",
+      "title": "Phony",
+      "year": 2026,
+      "tmdb_id": 275139,
+      "alt_titles": [
+        "Phony: La otra madre"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xuZFtTtGfDcphMDur84Cr3EKcc6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+      "description": "Tras despertarse de un extraño accidente automovilístico, Sonny descubre que su madre ha sido sustituida por un impostor."
+    },
+    {
+      "id": "tt45246384",
+      "type": "series",
+      "title": "Love in Disguise",
+      "year": 2026,
+      "tmdb_id": 303745,
+      "alt_titles": [
+        "Amor disfrazado",
+        "나의 유죄인간",
+        "My Guilty Man"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/I91Lf9144zcXXpTsKrEuGCq3nt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+      "description": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y "
+    },
+    {
+      "id": "tt37180305",
+      "type": "series",
+      "title": "Friends Sex and Games",
+      "year": 2026,
+      "tmdb_id": 298550,
+      "alt_titles": [
+        "Amigos sexo y juegos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2XVAJEE6FGUPei4yaFYnMR5TU09.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+      "description": "Cuatro parejas. Un juego sexy. El primer amor de Anna volvió. En una reunión, el grupo decide jugar el juego de las llaves: deben elegir una y pasar la noche con el dueño de la llave. Sin compromisos. Sin sentimientos. ¿Es posible? Confianza, celos, deseos ocultos, momentos graciosos y sexo caliente. El juego desata má"
+    }
+  ]
+}

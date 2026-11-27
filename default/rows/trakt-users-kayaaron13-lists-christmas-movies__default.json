@@ -1,0 +1,523 @@
+{
+  "items": [
+    {
+      "id": "tt0097958",
+      "type": "movie",
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989,
+      "tmdb_id": 5825,
+      "alt_titles": [
+        "Vacaciones de navidad"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cvqqcTyYBCADhi4LRAZ5nlIK7mx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+      "description": "Clark Griswold, movido por un generoso y sentimental espíritu navideño, quiere sorprender a toda su familia con una gran fiesta. La suerte no suele acompañarlo y esta vez no va a ser diferente... Una sucesión de disparatados desastres convertirán la esperadísima sorpresa de Clark en un verdadero caos."
+    },
+    {
+      "id": "tt0085334",
+      "type": "movie",
+      "title": "A Christmas Story",
+      "year": 1983,
+      "tmdb_id": 850,
+      "alt_titles": [
+        "Una historia de navidad"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6zQwRUJcDvLiLIrUjdTtt1WZUkJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
+      "description": "En los años cuarenta, un niño quiere como regalo de navidad un rifle de aire comprimido. Claro está, los padres piensan que no es una buena idea. Comedia familiar extraordinariamente popular en Estados Unidos que se basa en las historias del humorista Jean Shepherd. Calificada como divertida y conmovedora a partes igua"
+    },
+    {
+      "id": "tt2281069",
+      "type": "movie",
+      "title": "A Christmas Story 2",
+      "year": 2012,
+      "tmdb_id": 125504,
+      "alt_titles": [
+        "Una historia de navidad 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eBm9Yi8YRxdcIg7mbOiKTdX0G28.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1fiFKpVvwnzQ1FWZvoyJkTp2XQM.jpg",
+      "description": "Ralphie arruina su auto antes de salir del estacionamiento, así que él y sus amigos consiguen trabajos para arreglar el auto antes de que su viejo se de cuenta."
+    },
+    {
+      "id": "tt0772176",
+      "type": "movie",
+      "title": "Christmas Story",
+      "year": 2007,
+      "tmdb_id": 21501,
+      "alt_titles": [
+        "Joulutarina"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5SS6Llf8s9ltO2rxtG5KXVAAlx1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kbPpf2RYMiijrjOfOyYgpFcNE90.jpg"
+    },
+    {
+      "id": "tt1067106",
+      "type": "movie",
+      "title": "A Christmas Carol",
+      "year": 2009,
+      "tmdb_id": 17979
+    },
+    {
+      "id": "tt0038650",
+      "type": "movie",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "tmdb_id": 1585,
+      "alt_titles": [
+        "Qué bello es vivir",
+        "Its.A.Wonderful.Life.Colorized.Version"
+      ]
+    },
+    {
+      "id": "tt0099785",
+      "type": "movie",
+      "title": "Home Alone",
+      "year": 1990,
+      "tmdb_id": 771,
+      "alt_titles": [
+        "Mi pobre angelito"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de dos bribones que se proponen asaltar todas las casas cerradas de "
+    },
+    {
+      "id": "tt0104431",
+      "type": "movie",
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "tmdb_id": 772,
+      "alt_titles": [
+        "Mi pobre angelito 2: Perdido en Nueva York",
+        "Home Alone II: Lost In New York"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/48Wa6L2QzY47nWqtRCgiqYlecc9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+      "description": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido."
+    },
+    {
+      "id": "tt0059026",
+      "type": "movie",
+      "title": "A Charlie Brown Christmas",
+      "year": 1965,
+      "tmdb_id": 13187,
+      "alt_titles": [
+        "La Navidad de Charlie Brown"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9MIBIU9T12Gwc9mfo71tlvB5V7w.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ucWnzjWWWd6CmRal8J3tWz6m1A7.jpg",
+      "description": "Charlie Brown está deprimido porque piensa que la Navidad carece de sentido. Ve a Lucy y Snoopy obsesionados con regalos y decoraciones, Schroeder obsesionado con la obra de navidad, y todos los demás concentrados en las tarjetas y cartas a Santa; todo esto lo hace cuestionarse el verdadero significado de la Navidad."
+    },
+    {
+      "id": "tt0319343",
+      "type": "movie",
+      "title": "Elf",
+      "year": 2003,
+      "tmdb_id": 10719,
+      "alt_titles": [
+        "Elf, el duende",
+        "Enchanted"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nIFkyvrwXk4LIEGaImb0h8HumpC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+      "description": "Cuando Buddy joven cae al saco de regalo de Santa durante la Nochebuena, ha transportado atrás al Polo Norte y ha levantado como un elfo que hace el juguete por los ayudantes de Santa. Pero ya que se convierte en la adultez, no puede sacudir el fastidio sintiendo que no pertenece. Buddy jura de visitar Manhattan y enco"
+    },
+    {
+      "id": "tt2709692",
+      "type": "movie",
+      "title": "The Grinch",
+      "year": 2018,
+      "tmdb_id": 360920,
+      "alt_titles": [
+        "El Grinch",
+        "El Grinx",
+        "How the Grinch Stole Christmas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+      "description": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visual"
+    },
+    {
+      "id": "tt0170016",
+      "type": "movie",
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "tmdb_id": 8871,
+      "alt_titles": [
+        "El Grinch",
+        "The Grinch"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yCZ3xAPM5009ltBUUwPtCeWKQWy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+      "description": "Dentro de un copo de nieve existe la tierra mágica de Villa Quien. En Villa Quien, viven los Quienes, que aman la Navidad, pero justo fuera de su querida villa quien vive el Grinch. El Grinch es una criatura desagradable que odia la Navidad, y trama  robarla de los Quien, a quienes igualmente aborrece. Sin embargo, una"
+    },
+    {
+      "id": "tt0058536",
+      "type": "movie",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "year": 1964,
+      "tmdb_id": 13382,
+      "alt_titles": [
+        "Rudolph, el reno de la nariz roja"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6s0erSUB8FFIB3V9qF1CbNisH4g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zd3p7GKopxH4rIjGoDQ1ugalUtx.jpg",
+      "description": "Considerado uno de los mejores especiales para televisión sobre navidad de la historia, esta película de animación en stop-motion narra la historia de Rudolph, un reno con la nariz roja, creado por Robert May. En 1998, se hizo un remake (en animación tradicional) dirigido por William R. Kowalchuk."
+    },
+    {
+      "id": "tt0111070",
+      "type": "movie",
+      "title": "The Santa Clause",
+      "year": 1994,
+      "tmdb_id": 11395,
+      "alt_titles": [
+        "Santa Cláusula",
+        "La Santa Cláusula"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vNvfbq2quwxVqRCqKMwkDd3Ha4w.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/p89QeYRc2u0rX0eKKU4TLJStwHO.jpg",
+      "description": "Scott Calvin es el padre divorciado de Charlie. La relación entre ellos se ha vuelto insoportable, pero en Nochebuena Santa Claus muere al caer del techo de su casa. Con la ayuda de Charlie, Scott será capaz de reemplazarle temporalmente."
+    },
+    {
+      "id": "tt0096061",
+      "type": "movie",
+      "title": "Scrooged",
+      "year": 1988,
+      "tmdb_id": 9647,
+      "alt_titles": [
+        "Los fantasmas contraatacan"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/imUdf26emrefm78nvVUs6FizUi3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6Cld2xtKYfWnWK3w3gfJRRA82vd.jpg",
+      "description": "En esto moderno toman en Charles Dickens «Un Villancico», Frank Cross (Bill Murray) es un ejecutivo de televisión como un loco afortunado cuya ambición fría y la naturaleza curmudgeonly han ahuyentado el amor de su vida, Claire Phillips (Karen Allen). Pero después de despedir a un empleado, Eliot Loudermilk (Bobcat Gol"
+    },
+    {
+      "id": "tt0095016",
+      "type": "movie",
+      "title": "Die Hard",
+      "year": 1988,
+      "tmdb_id": 562,
+      "alt_titles": [
+        "Duro de matar",
+        "La jungla de cristal"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2sWo0oNkEOnEHgu6xVBWlWkYNUA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "description": "En lo alto de la ciudad de Los Ángeles, un grupo terrorista se ha apoderado de un edificio, tomando a un grupo de personas como rehenes. Sólo un hombre, el policía de Nueva York John McClane, ha conseguido escapar del acoso terrorista. Aunque está solo y fuera de servicio, McClane se enfrentará a los secuestradores. Él"
+    },
+    {
+      "id": "tt0064349",
+      "type": "movie",
+      "title": "Frosty the Snowman",
+      "year": 1969,
+      "tmdb_id": 13675,
+      "alt_titles": [
+        "Rankin-Bass' Frosty the Snowman"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gw7ie4W3iW8nefnZ4kuw8dgYNM2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/69HEmEIgFCo6Te8ShHcFB1ERPeF.jpg"
+    },
+    {
+      "id": "tt0047673",
+      "type": "movie",
+      "title": "White Christmas",
+      "year": 1954,
+      "tmdb_id": 13368,
+      "alt_titles": [
+        "Navidades blancas",
+        "Irving Berlin's White Christmas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3RzpPE6lhiyEF0HdEkx1QOjGWOA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uChOlEWqFwxwJ3eZP9eQj2yqczd.jpg",
+      "description": "Bob y Phil acaban de volver de la Segunda Guerra Mundial (1939-1945). Consumados cantantes y bailarines, deciden ganarse la vida haciendo números musicales. Así conocen a dos hermanas que se dedican a lo mismo. Siguiéndolas, van a parar a un hotel de Vermont, que tiene graves problemas financieros. El administrador del"
+    },
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "tmdb_id": 9479,
+      "alt_titles": [
+        "El extraño mundo de Jack",
+        "The Special Edition of the Nightmare Before Christmas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6idNHT0nOD7a1ldv7vhNJFW6jl9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+      "description": "Cansado de asustar a los humanos cada 31 de octubre con la misma vieja bolsa de trucos, Jack Skellington, el rey de Halloween Town, secuestra a Santa Claus y planea entregar cabezas encogidas y otros regalos macabros a los niños en la mañana de Navidad. Pero a medida que la Navidad se acerca, la novia de Jack, Sally, i"
+    },
+    {
+      "id": "tt0338348",
+      "type": "movie",
+      "title": "The Polar Express",
+      "year": 2004,
+      "tmdb_id": 5255,
+      "alt_titles": [
+        "El expreso polar",
+        "The Polar Express: An IMAX 3D Experience"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jV3VtoGojwLHNvBEZwsqwyIuQgh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+      "description": "En Nochebuena, un niño se embarca en una aventura mágica hacia el Polo Norte en el Expreso Polar, mientras aprende sobre la amistad, la valentía y el espíritu de la Navidad."
+    },
+    {
+      "id": "tt0104940",
+      "type": "movie",
+      "title": "The Muppet Christmas Carol",
+      "year": 1992,
+      "tmdb_id": 10437,
+      "alt_titles": [
+        "Una Navidad con los Muppets",
+        "Los Teleñecos en Cuento de Navidad"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2uhkXuYx2V8epfkoS9CzoPsFNAH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vB72692xGSputU8Dv4pvZNrdUf5.jpg",
+      "description": "El clásico 'Cuento de Navidad' de Charles Dickens brilla con humor y fantasía en las manos de los siempre divertidos Muppets. Michael Caine da vida al avaro Mr. Scrooge, en una excelente interpretación que sin embargo no se caracteriza por su buen humor. La noche de navidad los fantasmas visitan a Scrooge y lo transpor"
+    },
+    {
+      "id": "tt0066327",
+      "type": "movie",
+      "title": "Santa Claus Is Comin' to Town",
+      "year": 1970,
+      "tmdb_id": 13400
+    },
+    {
+      "id": "tt0087363",
+      "type": "movie",
+      "title": "Gremlins",
+      "year": 1984,
+      "tmdb_id": 927,
+      "alt_titles": [
+        "Gremlins I"
+      ]
+    },
+    {
+      "id": "tt0116705",
+      "type": "movie",
+      "title": "Jingle All the Way",
+      "year": 1996,
+      "tmdb_id": 9279,
+      "alt_titles": [
+        "El regalo prometido"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uVJkHkCfEPIuU0kK12qgpiBSisX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rnn6sGMGPpM8VfVmCMFxsjKvz7q.jpg",
+      "description": "Howard Langston es un atareado hombre de negocios que llega tarde a la clase de karate de su hijo Jamie. Para que le perdone le promete que le regalará lo que le pida por navidad: Jamie le pide un muñeco Turboman. El problema es que el juguete es el más popular y está agotado en todas las jugueterías. Con sólo unas poc"
+    },
+    {
+      "id": "tt0085936",
+      "type": "movie",
+      "title": "Mickey's Christmas Carol",
+      "year": 1983,
+      "tmdb_id": 14813,
+      "alt_titles": [
+        "Cuento de Navidad de Mickey",
+        "Una navidad con mickey"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6Waedl5MCYlaOp0uuv4HZrvyXGj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/41ocXijKgjMS17QXydzKdwCaTsU.jpg",
+      "description": "Los clásicos personajes animados de Disney interpretan los papeles en este recuento animado de la obra maestra de Charles Dickens."
+    },
+    {
+      "id": "tt0307987",
+      "type": "movie",
+      "title": "Bad Santa",
+      "year": 2003,
+      "tmdb_id": 10147,
+      "alt_titles": [
+        "Un santa no tan santo",
+        "Bad Santa (Director's Cut)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uHGy4A2z24rSmuBBKGKVrXq2hWU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tbmNzJIc7R1MuEweCOThpTzglyx.jpg",
+      "description": "Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra, y revientan la caja fuerte. En su nuevo d"
+    },
+    {
+      "id": "tt0304669",
+      "type": "movie",
+      "title": "The Santa Clause 2",
+      "year": 2002,
+      "tmdb_id": 9021,
+      "alt_titles": [
+        "Santa Cláusula 2: La Navidad Corre Peligro",
+        "The Mrs. Clause: Santa Clause 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mrq96F52yJ4L6XDLu5O7QUP7KqR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ycQyXPqcTOgBNVDCTBTHBqsAbOk.jpg",
+      "description": "Las vacaciones comienzan el 1º de noviembre... y Santa comienza la búsqueda de la perfecta Sra. Claus. Scott Calvin ha sido Santa Claus durante los últimos ocho años y sus leales duendes lo consideran el mejor Santa de todos los tiempos. Pero Scott tiene problemas: su hijo Charlie ha caído en su lista de \"traviesos\" de"
+    },
+    {
+      "id": "tt0110527",
+      "type": "movie",
+      "title": "Miracle on 34th Street",
+      "year": 1994,
+      "tmdb_id": 10510,
+      "alt_titles": [
+        "Milagro en la Calle 34"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1mR1LcDKJpSeSdhxO8X26yPsJHH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oU0lGpUukjNOgZeuIqueNM3QiBE.jpg",
+      "description": "Durante un desfile navideño organizado por los grandes almacenes Macy, el hombre que encarna a Santa Claus es sustituido por indisposición. Un anciano llamado Kris se ofrece a la señora Walker, responsable del desfile, para encarnar a Santa Claus. Después del desfile es contratado por dar a la perfección el tipo de per"
+    },
+    {
+      "id": "tt0087056",
+      "type": "movie",
+      "title": "A Christmas Carol",
+      "year": 1984,
+      "tmdb_id": 13189,
+      "alt_titles": [
+        "Un cuento de Navidad"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uRTI1i5X7UfTjOu6hW4SWcwVas3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
+      "description": "Ebenezer Scrooge es un hombre mezquino y desalmado. El día de Navidad se presentan en su casa los fantasmas de las Navidades Pasadas, Presentes y Futuras, que lo obligan a contemplar no sólo los errores que ha cometido, sino las consecuencias que su conducta tendrá en el futuro. Esa visión cambia el corazón del viejo S"
+    },
+    {
+      "id": "tt0314331",
+      "type": "movie",
+      "title": "Love Actually",
+      "year": 2003,
+      "tmdb_id": 508,
+      "alt_titles": [
+        "Realmente amor"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8QQg2jQA1zigHSrKfRoFII8aR4D.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xUWf5xX0AnZgAnYXAMk03zTbsef.jpg",
+      "description": "Sigue la vida de ocho parejas muy diferentes en su vida amorosa en varios cuentos vagamente interrelacionados, todos ambientados durante un mes frenético antes de la Navidad en Londres, Inglaterra."
+    },
+    {
+      "id": "tt0034862",
+      "type": "movie",
+      "title": "Holiday Inn",
+      "year": 1942,
+      "tmdb_id": 13485,
+      "alt_titles": [
+        "Quince días de placer"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/q8XTSdpiZYjQoRm8ahVxN2SZGTA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4xM4PBZ7hCeMZAQn1pC1Baxmzaq.jpg",
+      "description": "Crosby canta (entre otras, el clásico \"White Christmas\"), Astaire baila y los dos se disputan los favores de Virginia Dale en esta comedia musical creada por Irving Berlin."
+    },
+    {
+      "id": "tt0156031",
+      "type": "movie",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "year": 1948,
+      "tmdb_id": 81294,
+      "alt_titles": [
+        "Rudolph, el reno de la nariz roja"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sDxEaJoFRHcI7kdDE5c8WSMofPi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/moZVi1Rmo6SutEDkru3mzwzvhSt.jpg",
+      "description": "Papá Noel y su trineo se estrellan contra algunos árboles mientras intentan entregar regalos en una neblinosa Nochebuena. Rudolph se alista para dirigir el trineo y es aclamado como un héroe."
+    },
+    {
+      "id": "tt0063230",
+      "type": "movie",
+      "title": "The Little Drummer Boy",
+      "year": 1968,
+      "tmdb_id": 18846,
+      "alt_titles": [
+        "El Niño del Tambor"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oqnVoHW2aCOIFVHUCSxcm1XWeh9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i2NMcNeFNEbAeozopC6jigBG6Aq.jpg",
+      "description": "Un niño que toca el tambor huérfano que odiaba a la humanidad descubre que su vida cambia para siempre cuando conoce a tres hombres sabios en la ruta a Belén."
+    },
+    {
+      "id": "tt0072424",
+      "type": "movie",
+      "title": "The Year Without a Santa Claus",
+      "year": 1974,
+      "tmdb_id": 13397,
+      "alt_titles": [
+        "Aquel año sin Santa Claus",
+        "Rankin-Bass' The Year Without a Santa Claus"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1eJQrImwfkzwRcsBoa429gWzO8N.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bFC1fipYNfp8s1FIVMRNPcdiesF.jpg",
+      "description": "Santa Claus se encuentra enfermo, y entre su resfriado y la falta de espíritu navideño entre las personas, hacen que que Santa decida no repartir más felicidad el día de navidad"
+    },
+    {
+      "id": "tt0099487",
+      "type": "movie",
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "tmdb_id": 162,
+      "alt_titles": [
+        "El joven manos de tijera"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2U0rM1ZEXsRQjLSMEZvJAYzyXie.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "description": "Un hombre artificial, que fue construido incompletamente y tiene tijeras por manos, lleva una vida solitaria. Un día, una dama de los suburbios lo conoce y lo introduce a su mundo."
+    },
+    {
+      "id": "tt0099423",
+      "type": "movie",
+      "title": "Die Hard 2",
+      "year": 1990,
+      "tmdb_id": 1573,
+      "alt_titles": [
+        "Duro de matar 2",
+        "La jungla de cristal 2: Alerta roja",
+        "Die Hard 2: Die Harder"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1P2RrejT3KIWhO9T3hy4VwEOPtd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+      "description": "Es Navidad. El teniente John McLane, de la policía de Los Ángeles, espera en el aeropuerto de Dulles, Washington, la llegada de su esposa. Mientras tanto, el coronel Stuart, un militar que ha sido expulsado del Congreso, organiza cerca de este aeropuerto con otros mercenarios profesionales una base de operaciones para "
+    },
+    {
+      "id": "tt0141109",
+      "type": "movie",
+      "title": "Jack Frost",
+      "year": 1998,
+      "tmdb_id": 9745,
+      "alt_titles": [
+        "Juanito Escarcha"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/meSJ9pZllk7FK6zrjylqjUCpE0h.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kVM45FdWgirD08xJAwnRRWMC3QL.jpg",
+      "description": "Jack Frost, un cantante que se pasa la mayor parte del tiempo viajando, no puede ocuparse tanto como quisiera de su hijo Charlie. Cuando muere en un accidente de automóvil, Charlie se queda muy triste hasta que Jack regresa reencarnado en un muñeco de nieve."
+    },
+    {
+      "id": "tt0093409",
+      "type": "movie",
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "tmdb_id": 941,
+      "alt_titles": [
+        "Arma Mortal"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oXSF4oiHwCEegf9A3gfNsNhRCCd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg",
+      "description": "Martin Riggs es un policía de Los Ángeles con tendencias suicidas. Su compañero Roger Murtaugh es un veterano y responsable policía y padre de familia. Juntos intentan frustrar una operación de contrabando de droga. Al mismo tiempo, a pesar de sus diferentes caracteres, se harán buenos amigos"
+    },
+    {
+      "id": "tt0762121",
+      "type": "movie",
+      "title": "The Nativity Story",
+      "year": 2006,
+      "tmdb_id": 2447,
+      "alt_titles": [
+        "Jesús, el nacimiento"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/pxxhEksvvEQt19BEiPcNs957865.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/buPWX4RYKQ7L2vHYRQZ52dMMj37.jpg",
+      "description": "Historia de una joven llamada María y del designio divino que cambió para siempre su vida y la historia de la humanidad. Relata su vida en Nazaret, su compromiso con su esposo José, la visita del Ángel Gabriel, un embarazo milagroso y el arduo camino al que ella y José tuvieron que hacer frente desde Nazaret hasta Belé"
+    },
+    {
+      "id": "tt0029992",
+      "type": "movie",
+      "title": "A Christmas Carol",
+      "year": 1938,
+      "tmdb_id": 25842,
+      "alt_titles": [
+        "Cuento de Navidad",
+        "Charles Dickens' A Christmas Carol"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cvr7x3CjBMsHv2GptR0tcFddMSa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1e3nb2OYeLIXQ9yYdLb9NZVQmyv.jpg",
+      "description": "Ebenezer Scrooge, el hombre más avaro de la ciudad, tiene prácticamente esclavizado a su empleado el señor Cratchit. Una noche se le aparece el espíritu de un antiguo socio, al que seguirán los fantasmas de las Navidades pasadas, presentes y futuras. Adaptación del popular cuento \"A Christmas Carol\", del escritor inglé"
+    }
+  ]
+}

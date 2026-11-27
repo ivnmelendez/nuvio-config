@@ -1,0 +1,528 @@
+{
+  "items": [
+    {
+      "id": "tt0071402",
+      "type": "movie",
+      "title": "Death Wish",
+      "year": 1974,
+      "tmdb_id": 13939,
+      "alt_titles": [
+        "El vengador anónimo",
+        "Death Wish I"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2x8tZBC4fhdI6zpHCldJ0WfEcoR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9blNOmgTobqZGpt9A3JbG0mpMi3.jpg",
+      "description": "Tras sufrir una brutal agresión su mujer y su hija, Paul Kersey, un ciudadano normal de Nueva York, decide vengarse acosando a todos los delincuentes de la ciudad que actúan por la noche."
+    },
+    {
+      "id": "tt0105690",
+      "type": "movie",
+      "title": "Under Siege",
+      "year": 1992,
+      "tmdb_id": 8845,
+      "alt_titles": [
+        "Alerta Máxima",
+        "Under Siege 01 Under Siege"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iPTjwvyBiKNW86e0MOk30r64zWQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ihBDaN7OwT7D9DVri8SmxCnuRLB.jpg",
+      "description": "Este thriller lleno de acción tiene lugar en el USS Missouri, que pronto será retirado de servicio. El ex agente de la CIA descontento Strannix, su asistente Krill y su grupo de terroristas se apoderaron del acorazado con el chantaje nuclear en mente. Han planeado para cada contingencia pero ignoran al cocinero del bar"
+    },
+    {
+      "id": "tt0114576",
+      "type": "movie",
+      "title": "Sudden Death",
+      "year": 1995,
+      "tmdb_id": 9091,
+      "alt_titles": [
+        "Muerte súbita"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/m2eFjyjdYdMXKSakjP4iqh3eCRU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3QBW1kwihXnqhuxtVlQRHuPeYvf.jpg",
+      "description": "Un grupo de terroristas sin pasaporte liderados por el exagente de la CIA Joshua Foss (Powers Boothe) toma como rehenes a los ocupantes del palco de honor del partido decisivo por la Stanley Cup de hockey sobre hielo, entre los que se encuentra el vicepresidente de los Estados Unidos. Amenazan con volar el estadio a la"
+    },
+    {
+      "id": "tt1899353",
+      "type": "movie",
+      "title": "The Raid",
+      "year": 2012,
+      "tmdb_id": 94329,
+      "alt_titles": [
+        "La Redada",
+        "Serbuan Maut",
+        "Redada asesina",
+        "The Raid: Redemption"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9pce20GDwIBm3MI5eD7dDyOeI1M.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3wf5wV222vqTmz10y1vbrPgrGDf.jpg",
+      "description": "Todo el mundo en Jakarta sabe que en los barrios bajos de la ciudad hay un edificio que sirve de refugio para los criminales más peligrosos de Indonesia. Algo así como una fortaleza del mal cuya leyenda crece día a día y a la que incluso la policía teme acercarse. Pese a ello, un grupo de fuerzas especiales de élite in"
+    },
+    {
+      "id": "tt2140479",
+      "type": "movie",
+      "title": "The Accountant",
+      "year": 2016,
+      "tmdb_id": 302946,
+      "alt_titles": [
+        "El contador"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vydyhlv2fOqQYbzWmschOkupgOb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dTGECn8He16tZeBHQTLf6rVydE8.jpg",
+      "description": "Christian Wolff es un contador y genio matemático, un hombre extremadamente tranquilo, obsesivo con el orden y con mucha más afinidad con los números que con las personas, que lleva una doble vida como asesino despiadado."
+    },
+    {
+      "id": "tt7456310",
+      "type": "movie",
+      "title": "Anna",
+      "year": 2019,
+      "tmdb_id": 484641,
+      "alt_titles": [
+        "Anna: El peligro tiene nombre",
+        "Anna: Professional Killer"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xavGKawUyXPWAa6JTUkFzaRXMPF.jpg",
+      "description": "Bajo la hipnotizante belleza de Anna Poliatova yace un secreto que le permite desatar una imparable agilidad y fuerza y convertirse en una de las asesinas más temidas por los gobiernos del mundo."
+    },
+    {
+      "id": "tt0437086",
+      "type": "movie",
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "tmdb_id": 399579,
+      "alt_titles": [
+        "Battle Angel: La última guerrera",
+        "Alita: Ángel de combate",
+        "Alita - Battle Angel"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aeoCkr6GwXLNjijUKq5VoKlKxRl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+      "description": "Cuenta la historia de Alita, una joven chica en el cuerpo de un cyborg que es rescatada por un científico tras ser encontrada entre los escombros de un desguace. Alita es reconstruida poco a poco, pero se da cuenta que ha perdido la memoria y no recuerda nada de lo que ha sido de ella antes de aterrizar en el desguace."
+    },
+    {
+      "id": "tt2094766",
+      "type": "movie",
+      "title": "Assassin's Creed",
+      "year": 2016,
+      "tmdb_id": 121856,
+      "alt_titles": [
+        "Assassins Creed"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ngyFRXI2AkADPmitOzvofscpBVM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+      "description": "Gracias a una revolucionaria tecnología que desbloquea los recuerdos genéticos, Callum Lynch vive las aventuras de su ancestro, Aguilar, en la España del siglo XV. Callum descubre que es el descendiente de una misteriosa sociedad secreta, los Asesinos, y que posee increíbles conocimientos y habilidades que le permitirá"
+    },
+    {
+      "id": "tt2406566",
+      "type": "movie",
+      "title": "Atomic Blonde",
+      "year": 2017,
+      "tmdb_id": 341013,
+      "alt_titles": [
+        "Atómica",
+        "The Coldest City"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9DRFozlq1IMD7aMLzdRzWEEH6SH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g3hni0i9iAQ13jDGOFWavJFlojc.jpg",
+      "description": "Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton debe encontrar por todos los medios una lista que el agente estaba intentando hacer llegar a Occidente, y en la que figuran los nombres de todos los agentes encubiertos que trabajan en Berlín orie"
+    },
+    {
+      "id": "tt8784956",
+      "type": "movie",
+      "title": "Ava",
+      "year": 2020,
+      "tmdb_id": 539885,
+      "alt_titles": [
+        "Code Ava: Trained to Kill"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/54yOImQgj8i85u9hxxnaIQBRUuo.jpg",
+      "description": "Ava es una mortífera asesina a sueldo que trabaja para una organización de operaciones encubiertas, que viaja por todo el mundo acabando con aquellos objetivos que nadie más puede derribar. Cuando uno de sus encargos sale mal, Ava tendrá que luchar por una vida."
+    },
+    {
+      "id": "tt3647498",
+      "type": "movie",
+      "title": "Blood Father",
+      "year": 2016,
+      "tmdb_id": 309886,
+      "alt_titles": [
+        "Sangre de mi sangre"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qnD9FClkeJC2e9wFc6sKqJpwR0c.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9OaseUgtF0nFwbJIzSpRYxKRmVf.jpg",
+      "description": "Lydia, una joven de 16 años, es acusada de haber robado una fortuna a un cartel, pero en realidad es una trampa fraguada por su novio traficante. La chica tiene que escapar con el único aliado que tiene en el mundo: su padre, John Link, un eterno fracasado, antiguo motero rebelde y ex presidiario, que se verá en la obl"
+    },
+    {
+      "id": "tt13923084",
+      "type": "movie",
+      "title": "Boy Kills World",
+      "year": 2024,
+      "tmdb_id": 882059,
+      "alt_titles": [
+        "Contra Todos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3Nc4gK8naRXUy9c8u74I89zWqLg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1LOT0yesrW1l98qYzMbzx6vCRbi.jpg",
+      "description": "Boy (Bill Skarsgård) es un joven sordomudo que deberá enfrentarse a la matriarca de la desquiciada familia Van del Koy que tiene a toda la población bajo su yugo. Tras vivir una trágica infancia, un enigmático chamán (Yayan Ruhian) le ha convertido en un instrumento de venganza listo para hacer justicia. Intentando enc"
+    },
+    {
+      "id": "tt1657507",
+      "type": "movie",
+      "title": "Colombiana",
+      "year": 2011,
+      "tmdb_id": 62835,
+      "alt_titles": [
+        "Venganza despiadada",
+        "Colombiana (2011)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zCA0ufLA1ELOONJTEfBFOYJBTvf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aoof4GKwyUBN07tRN2HJXm6mSco.jpg",
+      "description": "Tras presenciar el homicidio de sus padres durante su infancia en Bogotá, Cataleya Restrepo se transforma en una asesina despiadada dispuesta a encontrar a los culpables."
+    },
+    {
+      "id": "tt0804461",
+      "type": "movie",
+      "title": "Death Sentence",
+      "year": 2007,
+      "tmdb_id": 11835,
+      "alt_titles": [
+        "Sentencia de muerte"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nmpCgHM1KZZxrK0YiqIDBz3pn1x.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tlPAcPTRJmHgULtUVIasQWQQiVN.jpg",
+      "description": "Un adolescente es brutalmente asesinado delante de su padre. Éste, que es el único testigo del crimen, intenta vengarse matando a cada uno de los implicados en el homicidio, pero sus actos tendrán consecuencias inesperadas."
+    },
+    {
+      "id": "tt1343727",
+      "type": "movie",
+      "title": "Dredd",
+      "year": 2012,
+      "tmdb_id": 49049,
+      "alt_titles": [
+        "Dredd 3D"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qXBx3n0e86mjBznuIRz6EmRv8Mv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jUqDBi02CDjqrroC3Zl8hroBbSr.jpg",
+      "description": "En un futuro cercano, Norteamérica se ha convertido en un páramo asolado por la radiactividad. Una única y gran megalópolis se extiende a lo largo de la costa este: Mega City 1. Esta inmensa y violenta urbe cuenta con una población de más de 800 millones de personas, cada una de las cuales es un infractor en potencia. "
+    },
+    {
+      "id": "tt8936646",
+      "type": "movie",
+      "title": "Extraction",
+      "year": 2020,
+      "tmdb_id": 545609,
+      "alt_titles": [
+        "Misión de rescate",
+        "Dhaka"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fKaP5Z0cloniKAhUcH7DbsDP6O4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+      "description": "Tyler Rake, un intrépido mercenario que ofrece sus servicios en el mercado negro, emprende una peligrosa misión cuando es contratado para rescatar al hijo secuestrado de un señor del crimen de Bombay."
+    },
+    {
+      "id": "tt12263384",
+      "type": "movie",
+      "title": "Extraction 2",
+      "year": 2023,
+      "tmdb_id": 697843,
+      "alt_titles": [
+        "Misión de rescate 2",
+        "Extraction II"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jT0Eyfw0VXlnk8sMKfyFiKj8UsK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+      "description": "El agente altamente entrenado Tyler Rake regresa del umbral de la muerte con otra peligrosa misión: rescatar a la familia de un mafioso despiadado."
+    },
+    {
+      "id": "tt1433108",
+      "type": "movie",
+      "title": "Faster",
+      "year": 2010,
+      "tmdb_id": 41283,
+      "alt_titles": [
+        "Venganza letal"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uugp71KT5RYA7EkbEdZtZzs0AwW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jItFLAs2urRwwQ5rmc61LTd1les.jpg",
+      "description": "Después de estar encarcelado durante 10 años, Driver sale para iniciar la venganza en contra de los asesinos de su hermano. En unas cuantas horas se deshace de su primer víctima, Driver tiene a dos hombres siguiéndolo: un veterano oficial de policía y un asesino ansioso. Driver intenta mantenerse un paso delante de ell"
+    },
+    {
+      "id": "tt0993842",
+      "type": "movie",
+      "title": "Hanna",
+      "year": 2011,
+      "tmdb_id": 50456,
+      "poster": "https://image.tmdb.org/t/p/w500/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qq39KWLKBBJmOtj54grO58XyoXG.jpg",
+      "description": "Hanna ha sido educada por su padre, un ex-agente de la CIA, en un remoto lugar de Finlandia. Es una chica que reúne todas las cualidades de un buen soldado. Su padre la envía a cumplir una misión clandestina, que la lleva a Europa y al Norte de África. Durante el viaje tendrá que zafarse de agentes y matones que obedec"
+    },
+    {
+      "id": "tt1506999",
+      "type": "movie",
+      "title": "Haywire",
+      "year": 2011,
+      "tmdb_id": 70435,
+      "alt_titles": [
+        "Agentes secretos (Haywire)",
+        "Indomable",
+        "La traición",
+        "Knockout"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8KgKC7yNHJMTydQXNoQXr23YfVU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r5bLJXXwUMp2MO5hkn4KYXIR4eO.jpg",
+      "description": "Mallory Kane es una obrera muy entrenada que trabaja para un contratista del bono estatal en las esquinas más sucias, más peligrosas del mundo. Después con éxito liberar a una periodista china sostuvo a la rehén, dos veces se cruza e ida muerta por alguien cerca de ella en su propia agencia. De repente el objetivo de a"
+    },
+    {
+      "id": "tt3393786",
+      "type": "movie",
+      "title": "Jack Reacher: Never Go Back",
+      "year": 2016,
+      "tmdb_id": 343611,
+      "alt_titles": [
+        "Jack Reacher 2: Sin Regreso",
+        "Jack Reacher Nunca vuelvas atrás",
+        "Jack Reacher 2: Never Go Back"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cZ2xOKYOMzFJBDIquJIE1RMNNvo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+      "description": "Jack Reacher debe descubrir la verdad detrás de una importante conspiración del gobierno para limpiar su nombre. Huyendo como un fugitivo de la ley, Reacher descubre un secreto potencial de su pasado que podría cambiar su vida para siempre."
+    },
+    {
+      "id": "tt7737528",
+      "type": "movie",
+      "title": "Kate",
+      "year": 2021,
+      "tmdb_id": 597891,
+      "poster": "https://image.tmdb.org/t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/byflnwPMumyvrCW9SfO5Miq3647.jpg",
+      "description": "En Tokio, una asesina despiadada ha sido envenenada antes de su última misión. Ahora tiene menos de 24 horas para descubrir quién lo hizo y cobrar venganza."
+    },
+    {
+      "id": "tt0266697",
+      "type": "movie",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "tmdb_id": 24,
+      "poster": "https://image.tmdb.org/t/p/w500/gz8NfoPtbUsrUZ8uMr8vxWp55SL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+      "description": "Uma Thurman es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill (David Carradine). Logra sobrevivir al ataque, aunque queda en coma. Cinco años después despierta con un trozo de metal en la cabeza y un gran deseo de venganza en su corazón."
+    },
+    {
+      "id": "tt0378194",
+      "type": "movie",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "tmdb_id": 393,
+      "alt_titles": [
+        "Kill Bill. Volume 2",
+        "Kill Bill, la venganza: Volumen II",
+        "Kill Bill 2 (2004)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oEbYyyl3w2dptDZCfXr8NHEHFkl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+      "description": "Tras eliminar a algunos miembros de la banda que intentaron asesinarla el día de su boda, «Mamba Negra» (Uma Thurman) intenta acabar con los demás, especialmente con Bill, su antiguo jefe (David Carradine), que la había dado por muerta."
+    },
+    {
+      "id": "tt2872732",
+      "type": "movie",
+      "title": "Lucy",
+      "year": 2014,
+      "tmdb_id": 240832,
+      "poster": "https://image.tmdb.org/t/p/w500/rLBQd083e6VFyPMpGLjlA0JUYuv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+      "description": "Thriller de acción que sigue los pasos de una mujer envuelta involuntariamente en un asunto muy oscuro del que sabrá salir utilizando a sus captores, y que acabará transformándose en una guerrera despiadada cuya evolución supera la lógica humana."
+    },
+    {
+      "id": "tt1186367",
+      "type": "movie",
+      "title": "Ninja Assassin",
+      "year": 2009,
+      "tmdb_id": 22832,
+      "alt_titles": [
+        "Ninja Asesino",
+        "Asesino Ninja"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1zpqdYXTQVN7P0obbGQ15jI7yhf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/44Yi72Ut3NchXewQzx814ViE2dy.jpg",
+      "description": "Ninja Asesino narra la historia de Raizo, uno de los mejores asesinos del mundo. Raizo es un niño de la calle transformado en una máquina entrenada por el Clan Ozunu, una sociedad secreta la cual se cree que es un mito. El asesinato de uno de los amigos de Raizo por el mismo Clan hace que él huya y desaparezca. Ahora e"
+    },
+    {
+      "id": "tt7888964",
+      "type": "movie",
+      "title": "Nobody",
+      "year": 2021,
+      "tmdb_id": 615457,
+      "alt_titles": [
+        "Nadie",
+        "Nadie (Nobody)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
+      "description": "La tranquila vida de Hutch Mansell, un padre de familia, se ve interrumpido cuando dos ladrones irrumpen su casa durante la noche. Impulsado por su furia latente, toma un camino brutal qué desvelará oscuros secretos que luchó por dejar atrás."
+    },
+    {
+      "id": "tt28996126",
+      "type": "movie",
+      "title": "Nobody 2",
+      "year": 2025,
+      "tmdb_id": 1007734,
+      "alt_titles": [
+        "Nadie 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/21agmmYf9mJo8QuphtkZA3R4gsG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/82C04rTiXYZ7c8XZv91Nu53w82Y.jpg",
+      "description": "El ex asesino Hutch Mansell lleva a su familia a unas nostálgicas vacaciones a un parque temático de una pequeña ciudad, solo para volver a verse arrastrado a la violencia cuando se enfrentan a un operador corrupto, un sheriff corrupto y un despiadado jefe criminal."
+    },
+    {
+      "id": "tt29603959",
+      "type": "movie",
+      "title": "Novocaine",
+      "year": 2025,
+      "tmdb_id": 1195506,
+      "alt_titles": [
+        "Novocaine sin dolor"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6YbTJhN5GJQOlZ1IyRiCyhKSiJE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lyBH2mFFU6qrHwD5QKotL2JnEb6.jpg",
+      "description": "Cuando la chica de sus sueños es secuestrada, un hombre común Nate convierte su incapacidad de no sentir dolor en una fortaleza inesperada en su lucha por recuperarla."
+    },
+    {
+      "id": "tt6850820",
+      "type": "movie",
+      "title": "Peppermint",
+      "year": 2018,
+      "tmdb_id": 458594,
+      "alt_titles": [
+        "Matar o Morir"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vq3E4dNnDIoCMjPim2XfWwEuRlX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/14HPHJnNUVAdbYKnG46WnBh4OD6.jpg",
+      "description": "Riley North (Jennifer Garner) despierta de un coma y se entera de que su marido y su hija han sido brutalmente asesinados. Cuando años después el sistema que debe juzgar a los asesinos demuestra su fracaso, Riley decide tomarse la justicia por su mano."
+    },
+    {
+      "id": "tt34471850",
+      "type": "movie",
+      "title": "Protector",
+      "year": 2026,
+      "tmdb_id": 1383731,
+      "alt_titles": [
+        "Instinto implacable"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9upArxjNadtS4pCmooHGDI35ZNQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+      "description": "La vida pacífica de Nikki, ex heroína de guerra, se ve destrozada cuando su hija es secuestrada por una red siniestra de tráfico sexual. Inmersa en el submundo criminal, mientras es perseguida por la policía y el ejército, ella debe luchar por cualquier medio posible para rescatar a su hija."
+    },
+    {
+      "id": "tt0944835",
+      "type": "movie",
+      "title": "Salt",
+      "year": 2010,
+      "tmdb_id": 27576,
+      "alt_titles": [
+        "Agente Salt"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ttPF7duHyOpakOUg8iALzvockdd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xbQv34DdSkWJCLa3SGuLJPw1HYI.jpg",
+      "description": "Como oficial de la CIA, Evelyn Salt juró un juramento al deber, honor y país. Su lealtad será probada cuando un desertor la acusa de ser un espía ruso. La sal sale corriendo, usando todas sus habilidades y años de experiencia como agente secreto para eludir la captura. Los esfuerzos de Salt por probar su inocencia sólo"
+    },
+    {
+      "id": "tt0822854",
+      "type": "movie",
+      "title": "Shooter",
+      "year": 2007,
+      "tmdb_id": 7485,
+      "alt_titles": [
+        "Tirador",
+        "El tirador"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/regcyuwMtiDV2ZrfF9OWmS6h3aO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+      "description": "Bob Lee Swagger es un ex-tirador de élite del ejército de los Estados Unidos que abandona las fuerzas armadas después del fracaso de una misión extraoficial. Cuando le piden que se reincorpore, regresa al servicio a regañadientes, pero vuelven a engañarlo. A pesar de llevar dos balas en el cuerpo y de ser el objetivo d"
+    },
+    {
+      "id": "tt2012616",
+      "type": "movie",
+      "title": "Motor City",
+      "year": 2026,
+      "tmdb_id": 87513,
+      "poster": "https://image.tmdb.org/t/p/w500/mZJ0K8RGWA4YMCErwN9jJSIP4Ve.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+      "description": "En el Detroit de los años 70, el romántico de clase trabajadora John Miller es incriminado por un despiadado gángster tras enamorarse de su novia. Tras pasar años en prisión, regresa con una única misión: vengarse."
+    },
+    {
+      "id": "tt35856037",
+      "type": "movie",
+      "title": "Your Mother Your Mother Your Mother",
+      "year": 2026,
+      "tmdb_id": 1437396,
+      "poster": "https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/45Mbs6dmn2W0hvuyxXPDkKREHpP.jpg",
+      "description": "Latif, un sicario profundamente religioso, lucha por equilibrar su trabajo, su fe y su faceta como padre. Tras la muerte de su esposa, emprende un viaje desesperado a través de Houston para proteger a sus hijos, enfrentándose tanto a las fuerzas que lo acorralan como a las creencias que, en su interior, amenazan con de"
+    },
+    {
+      "id": "tt14107334",
+      "type": "movie",
+      "title": "The Running Man",
+      "year": 2025,
+      "tmdb_id": 798645,
+      "alt_titles": [
+        "El sobreviviente"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qlDwhPwaCGXAPCtT2gDgON7AZBr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+      "description": "Un hombre se une a un programa de juegos en el que los concursantes, a los que se les permite ir a cualquier parte del mundo, son perseguidos por cazadores empleados para matarlos."
+    },
+    {
+      "id": "tt31728330",
+      "type": "movie",
+      "title": "They Will Kill You",
+      "year": 2026,
+      "tmdb_id": 1292695,
+      "alt_titles": [
+        "Te Van A Matar"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jOYxV166K7b7HWnswjoZKxi3sux.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
+      "description": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio."
+    },
+    {
+      "id": "tt0118571",
+      "type": "movie",
+      "title": "Air Force One",
+      "year": 1997,
+      "tmdb_id": 9772,
+      "alt_titles": [
+        "Avión Presidencial"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wjt1Onul8zde5TF0gjlqgUOzy2g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8IFCWQ0fQEukqNY7LAljl7DuFZf.jpg",
+      "description": "El Presidente de los EE.UU., James Marshall, regresa de un viaje oficial a Rusia a bordo del Boing 747 Presidencial, el famoso Air Force One. Un grupo terrorista ruso se apodera del avión y toma como rehenes a la familia y a los miembros del equipo presidencial."
+    },
+    {
+      "id": "tt14123284",
+      "type": "movie",
+      "title": "Havoc",
+      "year": 2025,
+      "tmdb_id": 668489,
+      "alt_titles": [
+        "Estragos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tbsDLmo2Ej8YFM0HKcOGfNMTlyJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg",
+      "description": "Cuando un negocio de drogas sale mal, un hastiado policía se abre paso en el submundo criminal de una ciudad corrupta para salvar al hijo de un político."
+    },
+    {
+      "id": "tt1649418",
+      "type": "movie",
+      "title": "The Gray Man",
+      "year": 2022,
+      "tmdb_id": 725201,
+      "alt_titles": [
+        "El Hombre Gris"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fIRbl1stU9HkwBZRAJaYgUW8RWK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
+      "description": "Cuando un agente de la CIA descubre comprometedores secretos de la agencia, se enfrenta a un sociópata que lo busca por todo el mundo y que le puso precio a su cabeza."
+    }
+  ]
+}

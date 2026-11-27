@@ -1,0 +1,619 @@
+{
+  "items": [
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "description": "Culpada de hacer travesuras mágicas en el Royal Ball, la hermanastra Lilith convierte a su hermana en una rana. Debe trabajar con Cenicienta y un troll para salvar el reino y demostrar que los villanos también merecen un final feliz.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "id": "tt14413964",
+      "poster": "https://image.tmdb.org/t/p/w500/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+      "rating": 6.716,
+      "runtime": "107 min",
+      "title": "Steps",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "description": "Inspirada en la vida del aclamado ícono, Madden presenta la trayectoria de John Madden, de ganar el Super Bowl con Al Davis y los Raiders a ser una voz reconocida en el fútbol americano y crear el videojuego Madden NFL. Celebra a una mente brillante, cuyo espíritu y personalidad únicos, junto con el ímpetu de su esposa y su contagioso amor por la gente, trascendieron el mundo del deporte.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Comedia"
+      ],
+      "id": "tt24818230",
+      "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "rating": 6.841,
+      "runtime": "112 min",
+      "title": "Madden",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "description": "En esta comedia romántica llena de acción, una guardaespaldas (Leighton Meester) se enamora del famoso actor (Jared Padalecki) al que debe proteger durante Navidad.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "id": "tt6611324",
+      "poster": "https://image.tmdb.org/t/p/w500/wQUXEPumBrVJR3Fe9h0xnwcnyFp.jpg",
+      "rating": 7.0,
+      "runtime": "109 min",
+      "title": "Guarding Stars",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "id": "tt33764258",
+      "poster": "https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",
+      "rating": 8.023,
+      "runtime": "173 min",
+      "title": "The Odyssey",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "id": "tt38213251",
+      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 6.201,
+      "runtime": "114 min",
+      "title": "Heartland",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "description": "Veinte años después de su increíble encuentro con un alienígena, Petey sigue estancado en el pasado. Hasta que, por alguna extraña razón, su viejo amigo vuelve...",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Comedia"
+      ],
+      "id": "tt37675123",
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "rating": 6.449,
+      "runtime": "107 min",
+      "title": "Allen",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/tNoB9ptCmp8bzdanndxswxrOfG6.jpg",
+      "description": "En Navidad, una joven citadina vuelve a su pueblo a encargarse de la tienda familiar para que su hermana trabaje en Estocolmo…, y a ambas les atrae la idea de empezar de cero.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "id": "tt39313557",
+      "poster": "https://image.tmdb.org/t/p/w500/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "rating": 6.479,
+      "runtime": "103 min",
+      "title": "The Christmas Switch",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+      "description": "",
+      "genres": [
+        "Música",
+        "Familia",
+        "Drama"
+      ],
+      "id": "tt38420997",
+      "poster": "https://image.tmdb.org/t/p/w500/kzTJg0zhWJRDHJPYEpSqxkFigTv.jpg",
+      "rating": 6.62,
+      "runtime": "103 min",
+      "title": "The Gospel of Christmas",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "description": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia contra los elementos.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ],
+      "id": "tt7526136",
+      "poster": "https://image.tmdb.org/t/p/w500/kVDHPDggier9ciMc8Xglinq1jWv.jpg",
+      "rating": 7.843,
+      "runtime": "101 min",
+      "title": "Heart of the Beast",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "description": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia.",
+      "genres": [
+        "Terror"
+      ],
+      "id": "tt36586020",
+      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
+      "rating": 6.487,
+      "runtime": "93 min",
+      "title": "Other Mommy",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "description": "Luego de terminar en rehabilitación por una sobredosis, un abogado tiene una semana para salvar su carrera y prepararse para su propio juicio con la ayuda de una tenaz pasante.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "id": "tt39453578",
+      "poster": "https://image.tmdb.org/t/p/w500/tVJITyPQXww6DypTDlpILM0Ppzi.jpg",
+      "rating": 6.551,
+      "runtime": "121 min",
+      "title": "The Good Lawyer",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+      "description": "Misty Green, una talentosa actriz, lucha contra las adicciones que le impiden relanzar su carrera. Jordan, un director, le brinda una oportunidad de oro en forma de papel perfecto que, sin embargo, se ve complicada por su turbulenta historia en común.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "id": "tt34385184",
+      "poster": "https://image.tmdb.org/t/p/w500/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
+      "rating": 6.864,
+      "runtime": "103 min",
+      "title": "Misty Green",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedia"
+      ],
+      "id": "tt39400541",
+      "poster": "https://image.tmdb.org/t/p/w500/4mdyjojUihFbw76GBl6ZO8E8bCh.jpg",
+      "rating": 7.1,
+      "runtime": "109 min",
+      "title": "One Year to Live, Buy a Man",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "id": "tt13611778",
+      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "rating": 6.502,
+      "runtime": "99 min",
+      "title": "The Mongoose",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Cuando una emergencia médica sacude a la familia Goss, su sabio perro Winstead decide hacer todo lo posible para mantener a sus humanos unidos antes de la Nochebuena.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "id": "tt38515310",
+      "poster": "https://image.tmdb.org/t/p/w500/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
+      "rating": 7.1,
+      "runtime": "102 min",
+      "title": "A Dog's Perfect Christmas",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+      "description": "Maria, una maestra de primaria que se esfuerza por motivar a una clase de niños de diez años, se ve obstaculizada por un alumno rebelde y caótico. Con su carrera en juego y el comportamiento del niño volviéndose incontrolable, toma una serie de malas decisiones que la llevan a llevarse accidentalmente a esta \"manzana podrida\" a su casa y encerrarlo allí. Maria intenta desesperadamente rectificar, pero cuando la clase empieza a prosperar y tanto el personal docente como los padres se muestran encantados con la mejoría, se encuentra en una situación sumamente complicada.",
+      "genres": [
+        "Comedia",
+        "Suspense"
+      ],
+      "id": "tt29714073",
+      "poster": "https://image.tmdb.org/t/p/w500/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+      "rating": 6.952,
+      "runtime": "100 min",
+      "title": "Bad Apples",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "id": "tt34206385",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "rating": 6.8,
+      "runtime": "110 min",
+      "title": "Primetime",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "description": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "id": "tt35538033",
+      "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "rating": 7.519,
+      "runtime": "94 min",
+      "title": "Resident Evil",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+      "description": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero.",
+      "genres": [
+        "Comedia"
+      ],
+      "id": "tt37458193",
+      "poster": "https://image.tmdb.org/t/p/w500/g1LPwe6w1jWKiP45XILfzpkr5iZ.jpg",
+      "rating": 6.975,
+      "runtime": "125 min",
+      "title": "My Best Friend",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "description": "Secuela de 'Apocalipsis Z: El principio del fin'. La historia nos traslada a unas Islas Canarias que se han convertido en el último refugio de Europa tras el brote del virus TSJ. Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto (Carlos Alcaide) se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas. Entonces surge la eterna pregunta: ¿salvarse uno mismo o arriesgarlo todo para salvar lo poco que queda de humanidad?",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Terror"
+      ],
+      "id": "tt37522541",
+      "poster": "https://image.tmdb.org/t/p/w500/pS2R3DEiucuizVkKP80qzdO97TE.jpg",
+      "rating": 6.186,
+      "runtime": "96 min",
+      "title": "Apocalypse Z: New World",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "description": "En plena crisis económica, un grupo de atracadores asalta un banco de Madrid y desencadena una serie de acontecimientos imprevisibles. Lo que al principio parece un robo más se convierte en un juego de engaños, miedo y supervivencia, donde cada decisión cuenta, cada gesto esconde algo y todos buscan evitar algo más que ir la cárcel.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "id": "tt38793125",
+      "poster": "https://image.tmdb.org/t/p/w500/wnoCQo9N5m3ay00KRx20d4axRPJ.jpg",
+      "rating": 6.329,
+      "runtime": "122 min",
+      "title": "Collision Course",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+      "description": "Marlene Frischmann (Jeanne Goursaud) quiere celebrar por todo lo alto el cumpleaños de su hijo Theo (Levin Wopp) y lo tiene todo preparado en la elegante casa de campo de su hermano: globos, una tarta sin gluten, una piñata e incluso animales salvajes prometen convertir el día en algo inolvidable. Pero la celebración, preparada con todo el cariño, no tarda en convertirse en una pesadilla desternillante, con acaloradas discusiones sobre la crianza, los modelos de masculinidad y los principios educativos. Tampoco ayudan precisamente a poner orden su alborotador hermano banquero Timo (Edin Hasanović), su excéntrico y desorientado padre Hans (Heiner Lauterbach), su compañera Jenny (Amal Keller), una idealista empeñada en salvar el mundo, y un regalo muy especial. Entre una familia de lo más disfuncional, madres helicóptero obsesionadas con controlarlo todo y la anarquía infantil, la fiesta acaba sumida en el caos.",
+      "genres": [
+        "Comedia"
+      ],
+      "id": "tt38999812",
+      "poster": "https://image.tmdb.org/t/p/w500/rtifYyLgIgACVwsbVodZ3TZ2Yde.jpg",
+      "rating": 6.1,
+      "runtime": "86 min",
+      "title": "The Birthday​ Gift​",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
+      "description": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "id": "tt38504402",
+      "poster": "https://image.tmdb.org/t/p/w500/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "rating": 6.051,
+      "runtime": "107 min",
+      "title": "You, Me, Us",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/h7gas4rrcaSitLgF2ODry3Wz9KZ.jpg",
+      "description": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "genres": [
+        "Comedia"
+      ],
+      "id": "tt43655467",
+      "poster": "https://image.tmdb.org/t/p/w500/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+      "rating": 5.584,
+      "runtime": "89 min",
+      "title": "Ali G: Who Iz I?",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "id": "tt32261958",
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "rating": 6.98,
+      "runtime": "117 min",
+      "title": "Verity",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "description": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el origen del sonido.",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "id": "tt21285562",
+      "poster": "https://image.tmdb.org/t/p/w500/flipeYd0sa4y4kpIc7Pn59JeBIj.jpg",
+      "rating": 7.16,
+      "runtime": "119 min",
+      "title": "The Dog Stars",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+      "description": "Jo y Raissa se encuentran varadas en el fantástico mundo de la isla olvidada de Nakali. Descubren que su única forma de volver a casa podría ser a costa de toda una vida de recuerdos y emociones.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ],
+      "id": "tt36583977",
+      "poster": "https://image.tmdb.org/t/p/w500/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg",
+      "rating": 8.054,
+      "runtime": "109 min",
+      "title": "Forgotten Island",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "description": "Una joven mecánica de autos de carreras finge estar comprometida con la estrella más polémica del automovilismo. Oficialmente, es para salvar su reputación, pero en secreto es la oportunidad de ella de volver al volante. Pronto, la mentira amenaza con destruir todo, incluso lo que ya se ha convertido en mucho más que un simple trato…",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "id": "tt37180686",
+      "poster": "https://image.tmdb.org/t/p/w500/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+      "rating": 7.566,
+      "runtime": "103 min",
+      "title": "Drive - The Pretenders",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "description": "Una nueva visión de la icónica novela de Jane Austen con una historia encantadora, ingeniosa y profundamente conmovedora sobre el amor y la hermandad.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "id": "tt13609648",
+      "poster": "https://image.tmdb.org/t/p/w500/xmfC7mUIZWyc0Mez55qwoHTQUNJ.jpg",
+      "rating": 7.198,
+      "runtime": "132 min",
+      "title": "Sense and Sensibility",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "description": "La oveja Shaun se convierte en un científico loco para arreglar el huerto de calabazas que el granjero destruyó por accidente en la granja Mossy Bottom víspera de Halloween. El plan sale mal, el granjero desaparece y una misteriosa bestia salvaje empieza a merodear por los bosques cercanos.",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Comedia"
+      ],
+      "id": "tt36841161",
+      "poster": "https://image.tmdb.org/t/p/w500/s0glYKWUTBFJ55o1ahOmixmaGnc.jpg",
+      "rating": 7.306,
+      "runtime": "81 min",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+      "description": "Una tensa sociedad entre un endurecido sicario de la mafia y un joven agente negro del FBI se ve forzada a una difícil alianza para rastrear a los responsables del asesinato de varios líderes de los derechos civiles; en el proceso, descubrirán una conspiración que pondrá a prueba los límites de la justicia, la lealtad y la supervivencia.",
+      "genres": [
+        "Suspense",
+        "Historia",
+        "Crimen"
+      ],
+      "id": "tt34379051",
+      "poster": "https://image.tmdb.org/t/p/w500/cXkTZ1Lr24ur2KGpzLUQCKZb1kF.jpg",
+      "rating": 6.714,
+      "runtime": "107 min",
+      "title": "By Any Means",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+      "description": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "id": "tt10794054",
+      "poster": "https://image.tmdb.org/t/p/w500/hTT42eBEiYcpgRormrS8re82Nt9.jpg",
+      "rating": 6.881,
+      "runtime": "112 min",
+      "title": "The Weight",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
+      "description": "Un psicoanalista pragmático pierde la fe en los métodos habituales de la psicología y comienza a sobrepasar los límites con sus pacientes. Todo parece funcionar hasta que un escritor con un bloqueo creativo llega a su consulta.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "id": "tt37027309",
+      "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+      "rating": 7.494,
+      "runtime": "97 min",
+      "title": "Therapy Done Right",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+      "description": "Cuando un ladrón legendario decide robarse la Mona Lisa, recluta a dos jóvenes desconocidos para que lo ayuden: Chiara, una experta cibercriminal italiana y Jay, un especialista en explosivos francés. Y luego les revela que es padre de ambos. Envueltos en una caótica reunión familiar, deben aprender a trabajar juntos sin matarse entre sí para lograr el robo del siglo.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "id": "tt38672588",
+      "poster": "https://image.tmdb.org/t/p/w500/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "rating": 6.713,
+      "runtime": "110 min",
+      "title": "Masterplan",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+      "description": "Un hombre determinado realiza una hazaña desafiando probabilidades casi imposibles para cumplir su sueño de ser el primero en llegar a la cima del Monte Everest.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Aventura"
+      ],
+      "id": "tt6262770",
+      "poster": "https://image.tmdb.org/t/p/w500/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg",
+      "rating": 8.128,
+      "runtime": "126 min",
+      "title": "Tenzing",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "description": "Hank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Suspense"
+      ],
+      "id": "tt31349844",
+      "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+      "rating": 8.155,
+      "runtime": "97 min",
+      "title": "Runner",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "id": "tt22084616",
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "rating": 8.457,
+      "runtime": "145 min",
+      "title": "Spider-Man: Brand New Day",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/w9AiymbmQGt3jdtsm78HdfKkChy.jpg",
+      "description": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "id": "tt27165187",
+      "poster": "https://image.tmdb.org/t/p/w500/gaW5bvDp1B8gQraGFNSJNSemKwo.jpg",
+      "rating": 6.997,
+      "runtime": "100 min",
+      "title": "The End of Oak Street",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "description": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "id": "tt32338669",
+      "poster": "https://image.tmdb.org/t/p/w500/iHPYm59D7kF8yQr03hewusoyNET.jpg",
+      "rating": 7.6,
+      "runtime": "96 min",
+      "title": "Mutiny",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "description": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "id": "tt29355505",
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "rating": 8.239,
+      "runtime": "102 min",
+      "title": "Toy Story 5",
+      "type": "movie",
+      "year": 2026
+    }
+  ]
+}

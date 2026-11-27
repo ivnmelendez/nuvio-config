@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "tt0046642",
+      "type": "series",
+      "title": "Sherlock Holmes",
+      "year": 1954,
+      "tmdb_id": 6560,
+      "poster": "https://image.tmdb.org/t/p/w500/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AhlihKYnLZmNZiIItB4RBZoJHP8.jpg"
+    },
+    {
+      "id": "tt0043194",
+      "type": "series",
+      "title": "Dragnet",
+      "year": 1951,
+      "tmdb_id": 3716,
+      "alt_titles": [
+        "Badge 714"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oxoWxE4Rh5qJny5H32EJN4ZblyC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rUFm6z6YIJShFg4d23PPh6D2mut.jpg",
+      "description": "Un show clásico sobre el departamento de policía en Los Angeles, basado en casos de la vida real."
+    },
+    {
+      "id": "tt0052442",
+      "type": "series",
+      "title": "One Step Beyond",
+      "year": 1959,
+      "tmdb_id": 10377,
+      "alt_titles": [
+        "Alcoa Presents: One Step Beyond"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/c0IHtUsTGy2XbAEPuPScwqDdcEB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rYWPWFUF3N8zIEzyH2git8hbXWy.jpg"
+    },
+    {
+      "id": "tt0052451",
+      "type": "series",
+      "title": "Bonanza",
+      "year": 1959,
+      "tmdb_id": 1018,
+      "poster": "https://image.tmdb.org/t/p/w500/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/61OxoiBHvGFOB4gufYfypHyCbI4.jpg",
+      "description": "Viejo Oeste americano (1860-1870). Todos los caminos pasan por La Ponderosa, el rancho de los Cartwight, que se encuentra en los alrededores de Virginia City, junto al Lago Tahoe (Nevada). Ben Cartwright es un viudo que cuida de sus tres hijos Adam, Hoss y Joe, cada uno de una esposa fallecida. Por allí pasan vaqueros "
+    }
+  ]
+}

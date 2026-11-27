@@ -1,0 +1,518 @@
+{
+  "items": [
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "title": "The Lord of the Rings: The Rings of Power",
+      "year": 2022,
+      "tmdb_id": 84773,
+      "alt_titles": [
+        "El Señor de los Anillos: Los Anillos de Poder",
+        "El señor de los anillos",
+        "El Senyor dels Anells: Els Anells de Poder",
+        "The Lord of the Rings - The Rings of Power"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "description": "Comenzando en un tiempo relativamente pacífico, acompañamos a un grupo de personajes mientras enfrentan el resurgimiento del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta el majestuoso bosque de Lindon, la imponente isla de Númenor y los rincones más lejanos del mapa, estos "
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "title": "MobLand",
+      "year": 2025,
+      "tmdb_id": 247718,
+      "alt_titles": [
+        "Tierra de Mafia",
+        "Guy Ritchie's The Associate"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/s7ye2BFq4HjGMi0dGkzGu5c2fyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "description": "El poder está en juego cuando dos familias criminales rivales se enfrentan y arriesgan sus imperios y sus vidas. En el fuego cruzado está Harry Da Souza, un astuto \"solucionador\" que sabe dónde están las lealtades cuando las fuerzas opuestas chocan."
+    },
+    {
+      "id": "tt31710249",
+      "type": "series",
+      "title": "Stick",
+      "year": 2025,
+      "tmdb_id": 248830,
+      "alt_titles": [
+        "Stick: El swing perfecto",
+        "Rambler & the Birdie Machine"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wcXTqtk5xB7ppnAeCTaXOt0YBem.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+      "description": "Pryce Cahill estaba destinado al éxito cuando un colapso desvió su carrera. Ahora esforzándose por sobrevivir, apuesta todo para entrenar a Santi, un joven talentoso con un inmenso potencial, y así poder enderezar su vida."
+    },
+    {
+      "id": "tt18224594",
+      "type": "series",
+      "title": "Blade Runner 2099",
+      "year": 2026,
+      "tmdb_id": 171802,
+      "poster": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+      "description": "Cora, una fugitiva convertida en Blade Runner, se asocia con Olwen, una replicante moribunda, para cazar a un fugitivo en un Los Ángeles renacido. Juntos descubren una verdad que amenaza con destruir su frágil ciudad."
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "title": "Nocturne",
+      "year": 2026,
+      "tmdb_id": 292741,
+      "alt_titles": [
+        "Nocturno",
+        "Parallax"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iyZbDfI9fdHXT92H475wM0d6kRm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "description": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino."
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "title": "Dexter: Resurrection",
+      "year": 2025,
+      "tmdb_id": 259909,
+      "alt_titles": [
+        "Dexter: Resurrección"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "description": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar."
+    },
+    {
+      "id": "tt0121955",
+      "type": "series",
+      "title": "South Park",
+      "year": 1997,
+      "tmdb_id": 2190,
+      "alt_titles": [
+        "South America"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "description": "Cuatro niños (Stan, Kyle, Cartman y Kenny) irreverentes de primaria viven grandes y surrealistas desventuras en la tranquila y disfuncional pueblo South Park, Colorado."
+    },
+    {
+      "id": "tt8014982",
+      "type": "series",
+      "title": "The Body",
+      "year": 2026,
+      "tmdb_id": 291507,
+      "alt_titles": [
+        "El cuerpo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "description": "En la noche de Halloween, un equipo de baile femenino cae en la culpa católica, deseos impíos y visiones fantasmales luego de que una iniciación se va al diablo."
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "title": "Tulsa King",
+      "year": 2022,
+      "tmdb_id": 153312,
+      "alt_titles": [
+        "The Tulsa King"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yzRnj5GMZEjiW9xTGkz8cVNyzH9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "description": "Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Entonces, Dwight construye lentamente un nuevo imperio criminal en Tulsa."
+    },
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "title": "VisionQuest",
+      "year": 2026,
+      "tmdb_id": 213375,
+      "alt_titles": [
+        "Marvel's VisionQuest"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "description": "Una versión reiniciada de Visión se ha estado escondiendo de aquellos que pretenden usarlo como un arma. Mientras permanece oculto, consulta a las personalidades de IA integradas en su programación —incluyendo al infame Ultrón— para comprender su verdadero propósito."
+    },
+    {
+      "id": "tt13875494",
+      "type": "series",
+      "title": "Tracker",
+      "year": 2024,
+      "tmdb_id": 211288,
+      "alt_titles": [
+        "Tracker: Buscador de recompensas",
+        "The Never Game"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5PXqBrCQ0FdDDtFCVhUyLDSwZYF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
+      "description": "Colter Shaw es un lobo solitario dedicado a la supervivencia que recorre el país en busca de recompensas, usando sus expertas habilidades de rastreo para ayudar a ciudadanos particulares y a las fuerzas del orden a resolver todo tipo de misterios, al tiempo que lidia con su propia familia dividida."
+    },
+    {
+      "id": "tt32375763",
+      "type": "series",
+      "title": "12 12 12",
+      "year": 2026,
+      "tmdb_id": 254630,
+      "alt_titles": [
+        "Twelve Twelve Twelve"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wqiJp937rgCXf2eZRTo5m5dhpp2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "description": "Planificar un gran golpe lleva 12 meses y ejecutarlo 12 horas; si un ladrón no es capturado en un plazo de 12 días, ya no lo atraparán jamás. A través de tres líneas temporales trepidantes, un agente del FBI y un delincuente profesional se enfrentan en un juego mortal del gato y el ratón por toda Europa."
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "title": "Marshals",
+      "year": 2026,
+      "tmdb_id": 290856,
+      "alt_titles": [
+        "Marshals: Una historia de Yellowstone",
+        "Y: Marshals"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dlQIl9xzWcSb3d0Sn56x1bFbOJw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "description": "Tras abandonar el rancho Yellowstone, Kayce Dutton se une a los Marshals Federales. Usa su habilidad como vaquero y agente SEAL para llevar justicia a Montana. Los Marshals son la última línea de defensa en la guerra contra la violencia regional."
+    },
+    {
+      "id": "tt21906238",
+      "type": "series",
+      "title": "Rivals",
+      "year": 2024,
+      "tmdb_id": 208921,
+      "alt_titles": [
+        "Rivales"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vPw5Gpg0YEEk1VsE8QlmyTxIJuU.jpg",
+      "description": "Es 1986 y Gran Bretaña está en pleno auge. \"Rivales\" se adentra en el despiadado mundo de la televisión, donde los peinados son grandes y las ambiciones son aún más grandes. Los acuerdos se negocian en las salas de juntas y en los dormitorios. Nadie puede estar seguro de quién saldrá vencedor. Con todos preocupados sól"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "title": "The Remarried Empress",
+      "year": 2026,
+      "tmdb_id": 279246,
+      "alt_titles": [
+        "La emperatriz divorciada",
+        "재혼 황후"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "description": "Cuando el emperador Sovieshu se enamora de una esclava fugitiva y le pide el divorcio a su esposa, la querida emperatriz Navier, ella lo sorprende con una audaz petición: solo aceptará si le permiten casarse con Heinrey, el príncipe del Reino del Oeste."
+    },
+    {
+      "id": "tt36843594",
+      "type": "series",
+      "title": "DIG",
+      "year": 2026,
+      "tmdb_id": 290826,
+      "poster": "https://image.tmdb.org/t/p/w500/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
+      "description": "Sigue a cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo, con el potencial de reescribir la historia, se ven envueltas en una conspiración internacional de gran envergadura."
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "title": "The Simpsons",
+      "year": 1989,
+      "tmdb_id": 456,
+      "alt_titles": [
+        "Los Simpson"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mpizUstxJmMbgMwc8MDEXQ6kXTP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "description": "La familia Simpson (Homero, Marge, Bart, Lisa y Maggie), y un reparto virtual de miles, viven aventuras cotidianas en Springfield, una ciudad estadounidense promedio."
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "title": "The Mentalist",
+      "year": 2008,
+      "tmdb_id": 5920,
+      "alt_titles": [
+        "El mentalista",
+        "Mentalist"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zZEndCRk5mWKw7LB9kAAO4LcgRh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "description": "Patrick Jane es un hombre que trabaja como médium televisivo hasta que sufre un duro golpe cuando su mujer e hija son asesinadas. A partir de entonces, decide usar sus habilidades para ayudar a resolver casos de asesinato, trabajando como detective en el Departamento de Investigación de Crímenes de California. El agent"
+    },
+    {
+      "id": "tt12324366",
+      "type": "series",
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "tmdb_id": 103540,
+      "alt_titles": [
+        "Percy Jackson y los dioses del Olimpo",
+        "Percy Jackson y los Olímpicos",
+        "PJO"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/skUMU2JH19gZCgM4384sgzMK4Vt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+      "description": "Percy Jackson está en una peligrosa misión. Evadiendo monstruos y superando dioses, debe cruzar el país para devolver el rayo maestro de Zeus y evitar una guerra. Con la ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo llevará a responderse cómo encajar en un mundo en el que se siente fuera de"
+    },
+    {
+      "id": "tt27995113",
+      "type": "series",
+      "title": "Black Doves",
+      "year": 2024,
+      "tmdb_id": 225385,
+      "alt_titles": [
+        "Palomas negras"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3f9jMEug9je89YMT1Pkx7twcgwV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+      "description": "Cuando una espía con una doble vida se entera del asesinato de su amante, se une a un viejo amigo sicario para encontrar la verdad... y cobrar venganza."
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "title": "Slow Horses",
+      "year": 2022,
+      "tmdb_id": 95480,
+      "alt_titles": [
+        "Caballos lentos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jnbQWjyWxcCf6DaGQXC5AACHCYv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "description": "Esta ingeniosa serie de espionaje sigue a un equipo disfuncional de agentes del MI5, y a su insoportable jefe, el famoso Jackson Lamb, mientras exploran el engañoso mundo del espionaje para defender a Inglaterra de perversos enemigos."
+    },
+    {
+      "id": "tt0413573",
+      "type": "series",
+      "title": "Grey's Anatomy",
+      "year": 2005,
+      "tmdb_id": 1416,
+      "alt_titles": [
+        "Anatomía según Grey",
+        "Greys Anatomy"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zOHJKejyjmfu32PdMlXGZKyy3fq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+      "description": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar"
+    },
+    {
+      "id": "tt4406178",
+      "type": "series",
+      "title": "The Gilded Age",
+      "year": 2022,
+      "tmdb_id": 81723,
+      "alt_titles": [
+        "La edad dorada"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/x8nCPbHK5Rk8iVJReal4pi82qpV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+      "description": "1882. Al morir su padre, la joven Marian Brook se muda a Nueva York, una ciudad al borde de la modernidad, donde lo viejo y lo nuevo chocan."
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "title": "Ted Lasso",
+      "year": 2020,
+      "tmdb_id": 97546,
+      "alt_titles": [
+        "Ted Lasso: The Richmond Way"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+      "description": "Ted Lasso, un ingenuo entrenador de fútbol americano que decide probar suerte en un club de fútbol inglés aunque no tiene idea de ese deporte. Su inexperiencia despierta recelo y desdén entre jugadores y aficionados. Con un equipo y una ciudad que lo mira con sospecha, ¿Logrará tener éxito?"
+    },
+    {
+      "id": "tt39365612",
+      "type": "series",
+      "title": "Line of Fire",
+      "year": 2026,
+      "tmdb_id": 321958,
+      "alt_titles": [
+        "Protection"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cXG4WDOPNog1kt6pkDqEDQCkJyz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wywNNHCRHJ129yTGTYBujnP4vRq.jpg"
+    },
+    {
+      "id": "tt0108778",
+      "type": "series",
+      "title": "Friends",
+      "year": 1994,
+      "tmdb_id": 1668,
+      "poster": "https://image.tmdb.org/t/p/w500/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "description": "\"Friends\" narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel (Jennifer Aniston), Monica (Courteney Cox), Phoebe (Lisa Kudrow), Ross (David Schwimmer), Chandler (Matthew Perry) y Joey (Matt LeBlanc) forman una unida pandilla de amigos que viven en Manhattan y que suelen reunirse en sus apartamentos "
+    },
+    {
+      "id": "tt0898266",
+      "type": "series",
+      "title": "The Big Bang Theory",
+      "year": 2007,
+      "tmdb_id": 1418,
+      "alt_titles": [
+        "La Teoría del Big Bang"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+      "description": "Leonard y Sheldon son dos físicos que comparten trabajo y apartamento. La serie comienza con la mudanza de Penny, su nueva y atractiva vecina, y hace hincapié en la dificultad de los físicos para relacionarse con personas fuera de su entorno para dar lugar a situaciones cómicas."
+    },
+    {
+      "id": "tt1442437",
+      "type": "series",
+      "title": "Modern Family",
+      "year": 2009,
+      "tmdb_id": 1421,
+      "alt_titles": [
+        "Una Familia Moderna",
+        "A Modern Farewell"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gabjqvbqXsg4KL5JaBoPKPipiys.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+      "description": "Narra el día a día de una gran familias compuesta por Jay Pritchett y su joven mujer Gloria Delgado, madre de Manny, y al mismo tiempo muestra la vida de las dos familias compuestas por sus hijos ya adultos: el abogado gay Mitchell, casado con Cameron Tucker y padres adoptivos de la pequeña Lily, y su hija Claire, casa"
+    },
+    {
+      "id": "tt7441658",
+      "type": "series",
+      "title": "Black Clover",
+      "year": 2017,
+      "tmdb_id": 73223,
+      "alt_titles": [
+        "ブラッククローバー"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AsaEmDMgrt9MCCTXxUzY9PtFZko.jpg",
+      "description": "Asta y Yuno son dos huérfanos que fueron criados juntos desde su nacimiento en una iglesia en las afueras del Reino de Clover. En un mundo donde todos tienen poder mágico, Asta nació sin ningún tipo de poder. A diferencia de él, Yuno nació como un prodigio con inmenso poder mágico y gran talento para controlarlo. La hi"
+    },
+    {
+      "id": "tt21433690",
+      "type": "series",
+      "title": "St. Denis Medical",
+      "year": 2024,
+      "tmdb_id": 251941,
+      "poster": "https://image.tmdb.org/t/p/w500/5n6eS9OJzxozkIi7r87Pudte3hD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u698B6dIpdoPz1CXmESuELHS9wr.jpg",
+      "description": "Un grupo heterogéneo de médicos y enfermeras, con escasos recursos pero muy dedicados, se las arregla para atender a los pacientes —y a sus compañeros— mientras intentan mantener el orden en un hospital de Oregón."
+    },
+    {
+      "id": "tt30291387",
+      "type": "series",
+      "title": "All's Fair",
+      "year": 2025,
+      "tmdb_id": 258742,
+      "alt_titles": [
+        "Todo vale"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ryXszdo34k4B4VdC81u9ZcdF0qU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
+      "description": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con separaciones de alto perfil, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde"
+    },
+    {
+      "id": "tt21952924",
+      "type": "series",
+      "title": "Phony",
+      "year": 2026,
+      "tmdb_id": 275139,
+      "alt_titles": [
+        "Phony: La otra madre"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xuZFtTtGfDcphMDur84Cr3EKcc6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+      "description": "Tras despertarse de un extraño accidente automovilístico, Sonny descubre que su madre ha sido sustituida por un impostor."
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "title": "Silo",
+      "year": 2023,
+      "tmdb_id": 125988,
+      "alt_titles": [
+        "Wool"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+      "description": "En un futuro arruinado y tóxico, existe una comunidad en un enorme silo subterráneo cientos de pisos bajo tierra. Ahí, hombres y mujeres viven en una sociedad llena de reglas que creen que están hechas para protegerlos."
+    },
+    {
+      "id": "tt11041332",
+      "type": "series",
+      "title": "Yellowjackets",
+      "year": 2021,
+      "tmdb_id": 117488,
+      "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+      "description": "Tras un accidente aéreo, un equipo de fútbol femenino se convierten en las (des)afortunadas supervivientes de una remota zona salvaje del norte, intentando vencer a la muerte. Pero años después, las sobrevivientes lidian el peso de sus terribles desiciones."
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "title": "FROM",
+      "year": 2022,
+      "tmdb_id": 124364,
+      "alt_titles": [
+        "Origen"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7H1rEGj8dAhYJKSCpud17m86Ca6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+      "description": "Desvela el misterio de un pueblo de pesadilla en el centro de América que atrapa a todos los que entran. Mientras los residentes involuntarios luchan por mantener una sensación de normalidad y buscan una salida, también deben sobrevivir a las amenazas del bosque circundante, incluidas las aterradoras criaturas que sale"
+    },
+    {
+      "id": "tt0239195",
+      "type": "series",
+      "title": "Survivor",
+      "year": 2000,
+      "tmdb_id": 14658,
+      "poster": "https://image.tmdb.org/t/p/w500/Ap0qf8VxF9DW4NXLYvMmpg3WkdF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1oaj0RL4cM0WuUQJUuarpVWrhb0.jpg",
+      "description": "Un concurso de reality show donde dieciséis o más náufragos divididos entre dos o más \"Tribus\" son llevados a un lugar remoto aislado y se ven obligados a vivir de la tierra con escasos suministros durante aproximadamente 39 días. Los desafíos físicos frecuentes se utilizan para enfrentar a las tribus entre sí para obt"
+    },
+    {
+      "id": "tt11743610",
+      "type": "series",
+      "title": "The Terminal List",
+      "year": 2022,
+      "tmdb_id": 120911,
+      "alt_titles": [
+        "La lista terminal",
+        "The Terminal List: True Believer"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/90mQFRWXolU8wS2kCqYvO3LIbHX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
+      "description": "El Teniente Comandante James Reece recurre a la venganza mientras investiga las misteriosas fuerzas detrás del asesinato de todo su pelotón. Libre de la estructura de mando militar, Reece aplica las lecciones aprendidas durante casi dos décadas de guerra para dar caza a los responsables."
+    },
+    {
+      "id": "tt0386676",
+      "type": "series",
+      "title": "The Office",
+      "year": 2005,
+      "tmdb_id": 2316,
+      "alt_titles": [
+        "La Oficina",
+        "The Office Superfan Episodes"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mZMmfkTDiXgdKADBykhEFDp940V.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+      "description": "La vida diaria de los empleados de una oficina de una compañía papelera localizada en Scranton, Pensilvania. Corrosivo retrato de los miembros de una empresa. Versión americana de una popular serie británica de la BBC del mismo título."
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "title": "Lupin",
+      "year": 2021,
+      "tmdb_id": 96677,
+      "poster": "https://image.tmdb.org/t/p/w500/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+      "description": "Inspirado en las aventuras de Arsène Lupin, el caballeroso ladrón Assane Diop se propone vengar a su padre de las injusticias sufridas a manos de una familia adinerada."
+    },
+    {
+      "id": "tt0463398",
+      "type": "series",
+      "title": "Dancing with the Stars",
+      "year": 2005,
+      "tmdb_id": 1508,
+      "alt_titles": [
+        "Dancing with the Stars (US)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r4ceAy8m4w9gheLWEgEgQnbYK85.jpg",
+      "description": "En la competencia, las celebridades realizan rutinas de baile coreografiadas que son juzgadas por un panel de reconocidos expertos de salón de baile y votados por los espectadores. Disfruta de salsas, sambas mientras compiten por el codiciado Trofeo Mirrorball."
+    }
+  ]
+}

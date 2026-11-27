@@ -1,0 +1,548 @@
+{
+  "items": [
+    {
+      "id": "tt0111161",
+      "type": "movie",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "tmdb_id": 278,
+      "alt_titles": [
+        "Sueño de fuga",
+        "Sueños de Libertad",
+        "Cadena Perpetua"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/l6V3TEoJlGh3ztAFxK2hemHfDJ2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+      "description": "Andy Dufresne es un banquero injustamente encarcelado en la prisión de Shawshank por el asesinato de su esposa y su amante. Dentro de prisión, Andy entabla una amistad con Red, un prisionero con habilidades para conseguir cosas. Estos dos hombres encarcelados se unirán durante años, encontrando consuelo y eventual rede"
+    },
+    {
+      "id": "tt0068646",
+      "type": "movie",
+      "title": "The Godfather",
+      "year": 1972,
+      "tmdb_id": 238,
+      "alt_titles": [
+        "El Padrino",
+        "The Godfather The Coppola Restoration"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+      "description": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: una chica, Connie, y tres varones: el impulsivo Sonny, el pusilánime Freddie y Michael, que no quiere saber nada de los negocios de su padre. Cuando Corleone, siempre aconsejado por su consejero T"
+    },
+    {
+      "id": "tt0468569",
+      "type": "movie",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "tmdb_id": 155,
+      "alt_titles": [
+        "Batman: El caballero de la noche",
+        "Batman (El caballero oscuro) - 2. El caballero oscuro",
+        "Batman 2 - The Dark Knight"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vLFCrzI3V4kbze877tP1H7TqppL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+      "description": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Ciudad Gótica, Batman debe aceptar una de las mayores pruebas psicológicas y físicas de su capacidad para luchar contra la injusticia."
+    },
+    {
+      "id": "tt0071562",
+      "type": "movie",
+      "title": "The Godfather: Part II",
+      "year": 1974,
+      "tmdb_id": 240,
+      "alt_titles": [
+        "El Padrino II",
+        "The Godfather Part II",
+        "El Padrino, Parte 2",
+        "El padrí: 2a part"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nitJxV5GfaOB44VVOpVx2fOxnuT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+      "description": "Continuación de la historia de los Corleone por medio de dos historias paralelas: la elección de Michael como jefe de los negocios familiares y los orígenes del patriarca, Don Vito Corleone, primero en su Sicilia natal y posteriormente en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de"
+    },
+    {
+      "id": "tt0050083",
+      "type": "movie",
+      "title": "12 Angry Men",
+      "year": 1957,
+      "tmdb_id": 389,
+      "alt_titles": [
+        "12 Hombres en Pugna",
+        "Doce hombres sin piedad",
+        "Doce hombres en pugna",
+        "Twelve Angry Men"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/andXPjcmwHstD4zFccFlOKMgoBh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "description": "Doce miembros de un jurado deliberan sobre el veredicto de un caso de homicidio. A medida que discuten, los prejuicios personales y las opiniones en conflicto emergen, desafiando la justicia y revelando la complejidad del sistema legal."
+    },
+    {
+      "id": "tt0108052",
+      "type": "movie",
+      "title": "Schindler's List",
+      "year": 1993,
+      "tmdb_id": 424,
+      "alt_titles": [
+        "La Lista de Schindler",
+        "Schindlers List"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "description": "La emotiva y desgarradora historia real de Oskar Schindler, un empresario alemán que, durante el Holocausto, emplea a judíos en su fábrica para salvarlos del exterminio nazi, mostrando cómo un acto de compasión puede desafiar el horror y la barbarie."
+    },
+    {
+      "id": "tt0167260",
+      "type": "movie",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "tmdb_id": 122,
+      "alt_titles": [
+        "El señor de los anillos: El retorno del rey",
+        "LOTR3 - The Return of the King"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vvxufoFLVxdA8JoCqjUGjHlTs5V.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+      "description": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual A"
+    },
+    {
+      "id": "tt0110912",
+      "type": "movie",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "tmdb_id": 680,
+      "alt_titles": [
+        "Tiempos Violentos",
+        "Black Mask"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sjb1KYPp57GhG96Sc6WJDddP3f7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "description": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse "
+    },
+    {
+      "id": "tt0120737",
+      "type": "movie",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "tmdb_id": 120,
+      "alt_titles": [
+        "El señor de los anillos: La comunidad del anillo",
+        "The Lord of the Rings I"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+      "description": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a"
+    },
+    {
+      "id": "tt0060196",
+      "type": "movie",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "tmdb_id": 429,
+      "alt_titles": [
+        "El Bueno, El Malo y El Feo",
+        "Il buono, il brutto, il cattivo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+      "description": "Durante la rabia de la Guerra civil americana entre la Unión y la Confederación, tres hombres, “una persona solitaria tranquila, un asesino a sueldo despiadado y un bandido mexicano, peinan el territorio americano hacia el Sudoeste en busca de una caja fuerte que contiene $200,000 en el oro robado."
+    },
+    {
+      "id": "tt0109830",
+      "type": "movie",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "tmdb_id": 13,
+      "poster": "https://image.tmdb.org/t/p/w500/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+      "description": "Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright"
+    },
+    {
+      "id": "tt0137523",
+      "type": "movie",
+      "title": "Fight Club",
+      "year": 1999,
+      "tmdb_id": 550,
+      "alt_titles": [
+        "El club de la pelea"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "description": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…"
+    },
+    {
+      "id": "tt1375666",
+      "type": "movie",
+      "title": "Inception",
+      "year": 2010,
+      "tmdb_id": 27205,
+      "alt_titles": [
+        "El Origen",
+        "Orixe"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+      "description": "Dom Cobb es un ladrón de secretos que se sumerge en los sueños de otros para extraer información. Para redimirse, debe implantar una idea en lugar de extraerla. En un viaje de sueños dentro de sueños, lucha por la redención mientras se enfrenta a sus propios demonios."
+    },
+    {
+      "id": "tt0167261",
+      "type": "movie",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "tmdb_id": 121,
+      "alt_titles": [
+        "El señor de los anillos: Las dos torres",
+        "LOTR2 - The Two Towers"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+      "description": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los"
+    },
+    {
+      "id": "tt0080684",
+      "type": "movie",
+      "title": "The Empire Strikes Back",
+      "year": 1980,
+      "tmdb_id": 1891,
+      "alt_titles": [
+        "El Imperio contraataca"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zsZwahm4ktZPKX0B494CxqhbBhu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a la"
+    },
+    {
+      "id": "tt0133093",
+      "type": "movie",
+      "title": "The Matrix",
+      "year": 1999,
+      "tmdb_id": 603,
+      "alt_titles": [
+        "Matrix",
+        "The Matrix 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iTeyYMmNqukMzJJyEz0LkD85dQU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+      "description": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores."
+    },
+    {
+      "id": "tt0099685",
+      "type": "movie",
+      "title": "GoodFellas",
+      "year": 1990,
+      "tmdb_id": 769,
+      "alt_titles": [
+        "Buenos Muchachos",
+        "Uno de los nuestros",
+        "Wise Guys"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nocvbyxKR5b1vxagy46SfEiMK3P.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6qgSKYgkHLL0vAVbsqRfo8KmZgL.jpg",
+      "description": "Henry Hill, hijo de padre irlandés y madre siciliana, vive en Brooklyn y se siente fascinado por la vida que llevan los gángsters de su barrio, donde la mayoría de los vecinos son inmigrantes. Paul Cicero, el patriarca de la familia Pauline, es el protector del barrio. A los trece años, Henry decide abandonar la escuel"
+    },
+    {
+      "id": "tt0073486",
+      "type": "movie",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "tmdb_id": 510,
+      "alt_titles": [
+        "Atrapado sin Salida",
+        "Alguien Voló Sobre El Nido Del Cuco"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aFb4y84cmDGotn2BwVEtqr4q8m5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5hll0hYssHbJiKxFcsQQLL7BhSP.jpg",
+      "description": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa "
+    },
+    {
+      "id": "tt0114369",
+      "type": "movie",
+      "title": "Se7en",
+      "year": 1995,
+      "tmdb_id": 807,
+      "alt_titles": [
+        "Se7en: Los Siete Pecados Capitales"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4dSivge4jxozWgbD6GW2NkOYGaD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jwBs4djVIe9Kz3Vu9rsI9aEEKWU.jpg",
+      "description": "Somerset es un solitario y veterano detective a punto de retirarse que se encuentra con Mills, un joven impulsivo. Ambos investigan un particular asesinato. Es este el primero de una serie de crímenes que aluden los siete pecados capitales."
+    },
+    {
+      "id": "tt0047478",
+      "type": "movie",
+      "title": "Seven Samurai",
+      "year": 1954,
+      "tmdb_id": 346,
+      "alt_titles": [
+        "Los Siete Samuráis",
+        "七人の侍",
+        "Los siete samurais"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+      "description": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida."
+    },
+    {
+      "id": "tt0038650",
+      "type": "movie",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "tmdb_id": 1585,
+      "alt_titles": [
+        "Qué bello es vivir",
+        "Its.A.Wonderful.Life.Colorized.Version"
+      ]
+    },
+    {
+      "id": "tt0102926",
+      "type": "movie",
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "tmdb_id": 274,
+      "alt_titles": [
+        "El Silencio de los Inocentes"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
+      "description": "Clarice Starling, del FBI, se aventura a una prisión de máxima seguridad para analizar el cerebro enfermo de Hannibal Lecter, un psiquiatra convertido en caníbal."
+    },
+    {
+      "id": "tt0317248",
+      "type": "movie",
+      "title": "City of God",
+      "year": 2002,
+      "tmdb_id": 598,
+      "alt_titles": [
+        "Ciudad de Dios",
+        "Cidade de Deus",
+        "Cuidad de Dios"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zYjngc6yGUO1IEuAwk0yAhg8CKh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+      "description": "Buscapé, de 11 años, vive en la famosa favela \"Ciudad de Dios\" y sueña con ser fotógrafo. Mientras Dadinho, de su edad, quiere ser un criminal. Sus vidas se cruzan entre los años 60 y a los 80, cuando el narcotráfico y la violencia dictaban las leyes."
+    },
+    {
+      "id": "tt0120815",
+      "type": "movie",
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "tmdb_id": 857
+    },
+    {
+      "id": "tt0118799",
+      "type": "movie",
+      "title": "Life Is Beautiful",
+      "year": 1997,
+      "tmdb_id": 637,
+      "alt_titles": [
+        "La Vida es Bella",
+        "La vita è bella"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "description": "Una obra maestra cinematográfica inspiradora. La vida es bella fue nominada para siete premios de la Academia® en 1998, ganando 3 Óscares®, incluyendo el de Mejor actor, para Roberto Benigni. En esta historia extraordinaria, Guido (Benigni), un encantador, pero incompetente camarero, dotado de una vívida imaginación y "
+    },
+    {
+      "id": "tt0120689",
+      "type": "movie",
+      "title": "The Green Mile",
+      "year": 1999,
+      "tmdb_id": 497,
+      "alt_titles": [
+        "Milagros Inesperados",
+        "La milla verde",
+        "Stephen King's The Green Mile"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7ezlnHDn6clFku58TmFmpKUQUqf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+      "description": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don."
+    },
+    {
+      "id": "tt0816692",
+      "type": "movie",
+      "title": "Interstellar",
+      "year": 2014,
+      "tmdb_id": 157336,
+      "alt_titles": [
+        "Interestelar"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oBvINgU5r10WHvG6VSopCOlWtJP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "description": "Cooper y un grupo de exploradores utilizan un agujero de gusano recién descubierto para superar las limitaciones de los viajes espaciales humanos y conquistar las vastas distancias que implica un viaje interestelar."
+    },
+    {
+      "id": "tt0076759",
+      "type": "movie",
+      "title": "Star Wars",
+      "year": 1977,
+      "tmdb_id": 11,
+      "alt_titles": [
+        "La guerra de las galaxias",
+        "Star Wars Episodio IV: Una nueva esperanza",
+        "Star Wars. Episodi IV: Una nova esperança",
+        "The Adventures of Luke Starkiller, as taken from the Journal of the Whills, Saga I: The Star Wars"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+      "description": "La princesa Leia es capturada y retenida como rehén por las malvadas fuerzas imperiales en su afán por apoderarse del Imperio Galáctico. El audaz Luke Skywalker y el audaz capitán Han Solo se unen al encantador dúo de robots R2-D2 y C-3PO para rescatar a la bella princesa y restaurar la paz y la justicia en el Imperio."
+    },
+    {
+      "id": "tt0103064",
+      "type": "movie",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "tmdb_id": 280,
+      "alt_titles": [
+        "Terminator 2: El juicio final",
+        "El exterminador 2",
+        "Terminator 2։ Judgment Day"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bfdPTjdP2JGRAajIoi25Gh2Elmz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "description": "Sarah Connor, la madre soltera del rebelde John Connor, está ingresada en un psiquiátrico. Algunos años antes, un viajero del tiempo le había revelado que su hijo sería el salvador de la humanidad en un futuro dominado por las máquinas. Se convirtió entonces en una especie de guerrera y educó a su hijo John en tácticas"
+    },
+    {
+      "id": "tt0088763",
+      "type": "movie",
+      "title": "Back to the Future",
+      "year": 1985,
+      "tmdb_id": 105,
+      "alt_titles": [
+        "Volver al Futuro",
+        "Regreso al futuro",
+        "Space Man From Pluto"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/acNRGwBz22E2m5OEWOhS8RiqiXM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "description": "El adolescente de los ochenta Marty McFly es enviado accidentalmente al pasado, a 1955, interrumpiendo sin darse cuenta el primer encuentro de sus padres y atrayendo el interés romántico de su madre. Marty debe reparar el daño a la historia reavivando el romance de sus padres y, con la ayuda de su excéntrico amigo inve"
+    },
+    {
+      "id": "tt0245429",
+      "type": "movie",
+      "title": "Spirited Away",
+      "year": 2001,
+      "tmdb_id": 129,
+      "alt_titles": [
+        "El viaje de Chihiro",
+        "千と千尋の神隠し",
+        "Miyazaki's Spirited Away"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4TfZdXABpM0j0FIyRSUQDUXxVwV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "description": "Durante la mudanza de su familia a los suburbios, una huraña niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias."
+    },
+    {
+      "id": "tt0054215",
+      "type": "movie",
+      "title": "Psycho",
+      "year": 1960,
+      "tmdb_id": 539,
+      "alt_titles": [
+        "Psicosis",
+        "Psicosi",
+        "Psicosis de Alfred Hitchcock",
+        "Wimpy"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+      "description": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en "
+    },
+    {
+      "id": "tt0253474",
+      "type": "movie",
+      "title": "The Pianist",
+      "year": 2002,
+      "tmdb_id": 423,
+      "alt_titles": [
+        "El Pianista"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg",
+      "description": "Un músico judío polaco lucha por sobrevivir a la destrucción del gueto de Varsovia de la Segunda Guerra Mundial."
+    },
+    {
+      "id": "tt0110413",
+      "type": "movie",
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "tmdb_id": 101,
+      "alt_titles": [
+        "El Perfecto Asesino",
+        "Léon"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fQms76FyesT2PrLLOxy8iExL6e8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+      "description": "Stan es un corrupto agente de la DEA cuya codicia le lleva a cometer asesinatos en las calles de Nueva York. El mortal juego del gato y el ratón empieza cuando se cruza en su camino un solitario hombre, llamado León. León es asesino a sueldo, un personaje indestructible e indocumentado, que sólo bebe leche y se ocupa d"
+    },
+    {
+      "id": "tt6751668",
+      "type": "movie",
+      "title": "Parasite",
+      "year": 2019,
+      "tmdb_id": 496243,
+      "alt_titles": [
+        "Parásitos",
+        "기생충"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/j4AOjNlhvudYDijiT0lxeHAsPkk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "description": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a recibir clases particulares en casa de Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados impresivibles."
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "title": "The Lion King",
+      "year": 1994,
+      "tmdb_id": 8587,
+      "alt_titles": [
+        "El rey león"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "description": "El príncipe león Simba y su padre son el blanco de su amargado tío, que quiere ascender al trono."
+    },
+    {
+      "id": "tt0172495",
+      "type": "movie",
+      "title": "Gladiator",
+      "year": 2000,
+      "tmdb_id": 98,
+      "alt_titles": [
+        "Gladiador",
+        "Gladiator (El gladiador)",
+        "Gladiator - Extended Edition"
+      ]
+    },
+    {
+      "id": "tt0120586",
+      "type": "movie",
+      "title": "American History X",
+      "year": 1998,
+      "tmdb_id": 73,
+      "alt_titles": [
+        "Historia Americana X",
+        "América X"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/m6QFnFxQZvUsCW1pQpF4Q7c5m3Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+      "description": "Derek, un joven «skin head» californiano de ideología neonazi, es encarcelado por asesinar a un negro que pretendía robarle su furgoneta. Cuando sale de prisión y regresa a su barrio dispuesto a alejarse del mundo de la violencia, se encuentra con que su hermano pequeño, para quien Derek es el modelo a seguir, sigue el"
+    },
+    {
+      "id": "tt0407887",
+      "type": "movie",
+      "title": "The Departed",
+      "year": 2006,
+      "tmdb_id": 1422
+    },
+    {
+      "id": "tt0114814",
+      "type": "movie",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "tmdb_id": 629,
+      "alt_titles": [
+        "Sospechosos comunes",
+        "Sospechosos habituales"
+      ]
+    }
+  ]
+}

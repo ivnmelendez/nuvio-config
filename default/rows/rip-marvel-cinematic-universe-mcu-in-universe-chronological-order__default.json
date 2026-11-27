@@ -1,0 +1,966 @@
+{
+  "items": [
+    {
+      "id": "tt0458339",
+      "type": "movie",
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "tmdb_id": 1771,
+      "alt_titles": [
+        "Capitán América: El Primer Vengador",
+        "Captain America"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/82ucHZ4ioVGiweT1XMl1mUZaodq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+      "description": "Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista."
+    },
+    {
+      "id": "tt3067038",
+      "type": "movie",
+      "title": "Marvel One-Shot: Agent Carter",
+      "year": 2013,
+      "tmdb_id": 211387,
+      "alt_titles": [
+        "Marvel One-Shot: Agente Carter",
+        "Corto Marvel: Agente Carter",
+        "Agent Carter"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9gVjhtYNFe1Qcjca84aq2Y2GtWh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
+      "description": "La agente británica Peggy Carter se une a la naciente organización S.H.I.E.L.D. Mientras busca la clave \"Zodiaco\", Carter también lucha contra su jefe misógino y burocrático, el agente Flynn."
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "tmdb_id": 617126,
+      "alt_titles": [
+        "Los 4 Fantásticos: Primeros pasos",
+        "Los cuatro Fantásticos de Marvel Studios",
+        "Blue Moon"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lESwYExnRVCDscOmdvklWxZgWUp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "description": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enig"
+    },
+    {
+      "id": "tt4154664",
+      "type": "movie",
+      "title": "Captain Marvel",
+      "year": 2019,
+      "tmdb_id": 299537,
+      "alt_titles": [
+        "Capitana Marvel",
+        "Marvel Studios' Captain Marvel"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+      "description": "Capitana Marvel es, en sus orígenes, Carol Susan Jane Danvers, la hermana mayor de tres hermanos criados en una familia tradicional de Boston. Durante años tuvo que soportar el machismo de su padre hasta cumplir los 18, donde se alistó en la Fuerza Aérea de Estados Unidos, para convertirse en piloto."
+    },
+    {
+      "id": "tt0371746",
+      "type": "movie",
+      "title": "Iron Man",
+      "year": 2008,
+      "tmdb_id": 1726,
+      "alt_titles": [
+        "Iron man - El hombre de hierro",
+        "Hombre De Hierro",
+        "Iron Man 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bFj7XRg5avQDvuvWaag3IttjEAw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+      "description": "El multimillonario fabricante de armas Tony Stark (Robert Downey Jr.) debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en “El hombre de hierro”, un héroe que se dedica a combatir el mal en todo el mundo"
+    },
+    {
+      "id": "tt1228705",
+      "type": "movie",
+      "title": "Iron Man 2",
+      "year": 2010,
+      "tmdb_id": 10138,
+      "alt_titles": [
+        "Hombre De Hierro 2",
+        "Marvel Studios' Iron Man 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+      "description": "El mundo ya sabe que el multimillonario Tony Stark (Robert Downey Jr.) es Iron Man, el superhéroe enmascarado. A pesar de las presiones del gobierno, la prensa y la opinión pública para que comparta su tecnología con el ejército, Tony es reacio a desvelar los secretos de la armadura de Iron Man, porque teme que esa inf"
+    },
+    {
+      "id": "tt0800080",
+      "type": "movie",
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "tmdb_id": 1724,
+      "alt_titles": [
+        "Hulk: El hombre increíble",
+        "El Incréible Hulk",
+        "Hulk 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
+      "description": "El científico Bruce Banner (Edward Norton) recorre el mundo en busca de un antídoto que le permita librarse de su Alter Ego. Perseguido por el ejército y dominado por su propia rabia, es incapaz de sacarse de la cabeza a Betty Ross (Liv Tyler), por lo que decide volver a la civilización. Mientras se enfrenta a una extr"
+    },
+    {
+      "id": "tt2011109",
+      "type": "movie",
+      "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+      "year": 2011,
+      "tmdb_id": 76535,
+      "alt_titles": [
+        "Marvel One-Shot: Algo gracioso sucedió en la búsqueda del Martillo de Thor",
+        "Marvel Studios One-Shot: A Funny Thing Happened on the Way to Thors Hammer"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/JFsVkxLIahGefW8qN4qLzxBVtl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yuIsNfHZTn3nkSsatzM0298wA67.jpg",
+      "description": "De camino a Nuevo México antes de los eventos de Thor, el agente Coulson se detiene en una estación de servicio… y se topa con un crimen en progreso."
+    },
+    {
+      "id": "tt0800369",
+      "type": "movie",
+      "title": "Thor",
+      "year": 2011,
+      "tmdb_id": 10195,
+      "alt_titles": [
+        "Marvel Studios' Thor"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+      "description": "El poderoso Thor es desterrado del fantástico reino de Asgard por su padre Odin debido a su arrogancia y es enviado a Midgard, la Tierra, para que viva entre los humanos. Ahí conocerá a Jane y sus amigos, y en donde aprenderá para convertirse en un gran defensor de este reino."
+    },
+    {
+      "id": "tt2011118",
+      "type": "movie",
+      "title": "Marvel One-Shot: The Consultant",
+      "year": 2011,
+      "tmdb_id": 76122,
+      "alt_titles": [
+        "Marvel One-Shot: El Consultor",
+        "Marvel Studios One-Shot: The Consultant"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nkEnGdA6duNjvnbOHba69aTP6vq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r1Q3jyOpfbF3VDU52w8RzkTPbfe.jpg",
+      "description": "Los agentes Coulson y Sitwell conspiran para evitar que el general Ross se entrometa en asuntos de S.H.I.E.L.D…. y conocen a la persona ideal para ayudarles."
+    },
+    {
+      "id": "tt0848228",
+      "type": "movie",
+      "title": "The Avengers",
+      "year": 2012,
+      "tmdb_id": 24428,
+      "alt_titles": [
+        "Avengers: Los Vengadores",
+        "The Avengers: los vengadores de Marvel",
+        "Marvel: Los Vengadores",
+        "Avengers"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "description": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y"
+    },
+    {
+      "id": "tt2247732",
+      "type": "movie",
+      "title": "Marvel One-Shot: Item 47",
+      "year": 2012,
+      "tmdb_id": 119569,
+      "alt_titles": [
+        "Marvel One-Shot: El Objeto 47",
+        "Marvel One-Shot: Artículo 47",
+        "Marvel Studios One-Shot: Item 47"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gaBttAB2dJWJJCtUdIC6CNof6O3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mli3yXV5umu0Hsy5Fww6whIJYyg.jpg",
+      "description": "Continuando con la culminación épica de Los vengadores, S.H.I.E.L.D. recupera todas las piezas de tecnología alienígena, excepto una que queda en la ciudad de Nueva York. Un arma Chitauri, también conocida como \"ITEM 47\". Después de que una pareja joven tropieza con el arma esquiva, se embarca en una ola de asaltos a b"
+    },
+    {
+      "id": "tt1981115",
+      "type": "movie",
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "tmdb_id": 76338,
+      "alt_titles": [
+        "Thor: un mundo oscuro",
+        "Thor 2: The Dark World"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cs5YLwGBCJBold74avD3NecO5Zc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+      "description": "Cuando los Elfos Oscuros intentan hundir el universo en la oscuridad, Thor debe embarcarse en un peligroso y personal viaje que lo reunirá con la doctora Jane Foster."
+    },
+    {
+      "id": "tt1300854",
+      "type": "movie",
+      "title": "Iron Man 3",
+      "year": 2013,
+      "tmdb_id": 68721,
+      "alt_titles": [
+        "Iron Man 3 de Marvel",
+        "Marvel Studios' Iron Man 3"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ky38H2S7bWVl46OtAH5kJv6pYAw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+      "description": "El descarado y brillante empresario Tony Stark/Iron Man se enfrentará a un enemigo cuyo poder no conoce límites. Cuando Stark comprende que su enemigo ha destruido su universo personal, se embarca en una angustiosa búsqueda para encontrar a los responsables. Este viaje pondrá a prueba su entereza una y otra vez. Acorra"
+    },
+    {
+      "id": "tt3438640",
+      "type": "movie",
+      "title": "Marvel One-Shot: All Hail the King",
+      "year": 2014,
+      "tmdb_id": 253980,
+      "alt_titles": [
+        "Marvel One-Shot: Que viva el rey",
+        "Marvel Studios One-Shot: All Hail the King"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yhk3J72U09Ok8CY8AvTrjdYEiGl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bqlB2qn10NgjMFloZrOdQBEqjga.jpg",
+      "description": "Después de los eventos de Iron Man 3, Trevor Slattery se ha vuelto un infame. Por suerte, el actor ha accedido a grabar un perfil con un cineasta de documentales."
+    },
+    {
+      "id": "tt1843866",
+      "type": "movie",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "tmdb_id": 100402,
+      "alt_titles": [
+        "Capitán América y el Soldado del Invierno",
+        "Capitan America El soldado de invierno",
+        "Freezer Burn"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3Zv12uAqBxj4xAdeHeVySEQzY1o.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aZBZtLCM90QHDCuZFR6oc4NXCWu.jpg",
+      "description": "Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno."
+    },
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "tmdb_id": 118340,
+      "alt_titles": [
+        "Guardianes de la galaxia",
+        "Guardianes de la galaxia - Volumen 1",
+        "Guardians of the Galaxy Vol. 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "description": "Peter Quill, debe mantener una incomoda alianza con Gamora, Drax, Rocket y Groot para asegurar un artefacto que pone en peligro a toda la galaxia no caiga en las manos del temible Ronan el Acusador."
+    },
+    {
+      "id": "tt3896198",
+      "type": "movie",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "tmdb_id": 283995,
+      "alt_titles": [
+        "Guardianes de la Galaxia Vol. 2",
+        "Guardianes de la galaxia 2",
+        "GOTG 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "description": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clási"
+    },
+    {
+      "id": "tt2395427",
+      "type": "movie",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "tmdb_id": 99861,
+      "alt_titles": [
+        "Avengers 2: Era de Ultrón",
+        "Vengadores 2 La era de Ultron",
+        "Marvel Studios' Avengers: Age of Ultron"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ggyEm4OkePLo8zEdDm5Pac2fOgz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+      "description": "Cuando Tony Stark y Bruce Banner intentan poner en marcha un inactivo programa de mantenimiento de la paz llamado Ultrón, las cosas van terriblemente mal y depende de los héroes más poderosos de la Tierra evitar que el villano Ultrón lleve a cabo su terrible plan."
+    },
+    {
+      "id": "tt0478970",
+      "type": "movie",
+      "title": "Ant-Man",
+      "year": 2015,
+      "tmdb_id": 102899,
+      "alt_titles": [
+        "Ant-Man: El hombre Hormiga",
+        "Marvel's Ant-Man"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tMJ0FBFrYZjo6BNHiYbgqiy8Tf5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+      "description": "Armado con un supertraje con la asombrosa habilidad de reducir a escala su tamaño  pero aumentar su fuerza, el ladrón Scott Lang debe abrazar a su héroe interior y ayudar a su mentor, el Dr. Hank Pym, el cual planea y lleva a cabo un atraco necesario que salvará al mundo."
+    },
+    {
+      "id": "tt3498820",
+      "type": "movie",
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "tmdb_id": 271110,
+      "alt_titles": [
+        "Capitán América: Civil War",
+        "Capitán América 3 Guerra Civil",
+        "Captain America III: Civil War"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+      "description": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengado"
+    },
+    {
+      "id": "tt3480822",
+      "type": "movie",
+      "title": "Black Widow",
+      "year": 2021,
+      "tmdb_id": 497698,
+      "alt_titles": [
+        "Viuda Negra"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+      "description": "Natasha Romanoff, también conocida como Black Widow, se enfrenta a lo más oscuro de sus cuentas pendientes cuando surge una peligrosa conspiración que tiene lazos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, debe lidiar con su historia como espía y con las relaciones rotas que "
+    },
+    {
+      "id": "tt1825683",
+      "type": "movie",
+      "title": "Black Panther",
+      "year": 2018,
+      "tmdb_id": 284054,
+      "alt_titles": [
+        "Pantera Negra",
+        "Pantera Negra: 1",
+        "Marvel Studios' Black Panther"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7xqinV63L80sdeRELSkchFthEsp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+      "description": "T’Challa regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuerza e inteligencia, agilidad, estrategia o m"
+    },
+    {
+      "id": "tt2250912",
+      "type": "movie",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "tmdb_id": 315635,
+      "alt_titles": [
+        "Spider-Man: De regreso a casa",
+        "El Hombre-Araña: De Regreso a Casa"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/h1Iq6WfE4RWc9klGvN8sdi5aR6V.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "description": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man (El Hombre Araña). Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier jov"
+    },
+    {
+      "id": "tt1211837",
+      "type": "movie",
+      "title": "Doctor Strange",
+      "year": 2016,
+      "tmdb_id": 284052,
+      "alt_titles": [
+        "Doctor Strange: Hechicero supremo",
+        "Dr. Strange (Doctor Extraño)",
+        "Marvel Studios' Doctor Strange"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+      "description": "La historia del famoso neurocirujano Dr. Stephen Strange cuya vida cambia para siempre luego de un accidente automovilístico que lo deja sin poder mover sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar una cura y esperanzas en un lugar impensado: una comunidad aislada y misteriosa llamada Kamar-"
+    },
+    {
+      "id": "tt3501632",
+      "type": "movie",
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "tmdb_id": 284053,
+      "alt_titles": [
+        "Marvel Studios' Thor: Ragnarok"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rGaayCxGkHZLUyDDB3QQnDg2MHQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+      "description": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela."
+    },
+    {
+      "id": "tt5095030",
+      "type": "movie",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018,
+      "tmdb_id": 363088,
+      "alt_titles": [
+        "Ant-Man 2: La Avispa",
+        "El hombre hormiga y la avispa",
+        "Ant-Man: 2 - y la Avispa",
+        "Ant Man 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+      "description": "Mientras Scott Lang equilibra el ser un superhéroe y un padre, Hope van Dyne y el Dr. Hank Pym presentan una nueva misión urgente que unen al Hombre hormiga junto a La Avispa para luchar juntos y descubrir los secretos de su pasado."
+    },
+    {
+      "id": "tt4154756",
+      "type": "movie",
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "tmdb_id": 299536,
+      "alt_titles": [
+        "Vengadores: Infinity War",
+        "Avengers 3"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/G7GOAKUjxIjMUVKBhXOviohEB0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "description": "Los Vengadores y sus aliados deben estar dispuestos a sacrificarlo todo para intentar derrotar al poderoso Thanos antes de que su ataque de devastación y ruina ponga fin al universo."
+    },
+    {
+      "id": "tt4154796",
+      "type": "movie",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "tmdb_id": 299534,
+      "alt_titles": [
+        "Avengers Endgame: Bonus",
+        "Vengadores Endgame: Encore",
+        "Marvel Studios' Avengers Endgame: Encore"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uIPTS25whXkAAfRqptuPX4y4XiS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "description": "Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo."
+    },
+    {
+      "id": "tt6263850",
+      "type": "movie",
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "tmdb_id": 533535,
+      "alt_titles": [
+        "Deadpool y Wolverine",
+        "Deadpool y Lobezno de Marvel Studios",
+        "Deadpools & Wolverine"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "description": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine."
+    },
+    {
+      "id": "tt9376612",
+      "type": "movie",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "tmdb_id": 566525,
+      "alt_titles": [
+        "Shang-Chi y la leyenda de los Diez Anillos",
+        "Shang Chi y la leyenda de los diez anillos",
+        "Shang-Chi"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9VqajJXm29uprSaxOcEh7O0d6E9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
+      "description": "Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos."
+    },
+    {
+      "id": "tt6320628",
+      "type": "movie",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019,
+      "tmdb_id": 429617,
+      "alt_titles": [
+        "Spider-Man: Lejos de casa",
+        "El Hombre-Araña: Lejos de Casa",
+        "Spider Man Far from Home"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/x4Ldcddhk8jzn3nqeODA8lHNw9M.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+      "description": "Peter Parker decide irse junto a MJ, Ned y el resto de sus amigos a pasar unas vacaciones a Europa. Sin embargo, el plan de Parker por dejar de lado sus superpoderes durante unas semanas se ven truncados cuando Nick Fury contacta con él para solicitarle ayuda para frenar el ataque de unas criaturas elementales que está"
+    },
+    {
+      "id": "tt9032400",
+      "type": "movie",
+      "title": "Eternals",
+      "year": 2021,
+      "tmdb_id": 524434,
+      "alt_titles": [
+        "The Eternals"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wPZ5n5LlzFFdO5lFJbi2qmaE6w7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+      "description": "Los Eternos son una raza inmortal de héroes de elite que han vivido en secreto en la Tierra durante años para proteger y formar a las civilizaciones. Una tragedia inesperada los obliga a salir de las sombras para reunirse y enfrentarse al enemigo más antiguo del hombre: los Desviantes."
+    },
+    {
+      "id": "tt10872600",
+      "type": "movie",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "tmdb_id": 634649,
+      "alt_titles": [
+        "Spider-Man: Sin camino a casa",
+        "El Hombre-Araña: Sin camino a casa",
+        "Spider-Man. No Way Home",
+        "Spider Man No Way Home"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9OGkKMnYgSc0TzSIErcOOiKllrK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "description": "Peter Parker es desenmascarado y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda al Doctor Strange para recuperar su secreto, el hechizo crea un agujero en su mundo, liberando a los villanos más poderosos que han luchado con cualquier Spider-Man, en cualquier universo. A"
+    },
+    {
+      "id": "tt9419884",
+      "type": "movie",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "tmdb_id": 453395,
+      "alt_titles": [
+        "Doctor Strange en el multiverso de la locura",
+        "Dr strange 2",
+        "Doctor Strange en el Multiverso de la Locura de Marvel Studios",
+        "Doctor Strange 2: Doctor Strange in the Multiverse of Madness"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/PnF6nvTRGLWOiLpUYnJSYGOZHx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+      "description": "Doctor Strange, además de recibir ayuda de aliados místicos nuevos y otros ya conocidos, atraviesa las alucinantes y peligrosas realidades alternativas del Multiverso para enfrentarse a un nuevo y misterioso adversario."
+    },
+    {
+      "id": "tt9114286",
+      "type": "movie",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022,
+      "tmdb_id": 505642,
+      "alt_titles": [
+        "Pantera Negra: Wakanda por siempre",
+        "Pantera Negra: 2 -  Wakanda para siempre",
+        "Black Panther 2: Wakanda Forever"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iQ4ydo7nSxIlFyq8sZcu0rCK6AN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
+      "description": "La reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje luchan por proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa. Mientras los habitantes de Wakanda se esfuerzan por embarcarse en un nuevo capítulo, los héroes deben unirse con la ayuda de Nakia y Everett Ross y forjar "
+    },
+    {
+      "id": "tt10648342",
+      "type": "movie",
+      "title": "Thor: Love and Thunder",
+      "year": 2022,
+      "tmdb_id": 616037,
+      "alt_titles": [
+        "Thor: Amor y Trueno",
+        "Thor: Love and Thunder de Marvel Studios",
+        "Thor 4: Love and Thunder"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4gHWDa9hngo4RJy4BImChkMHooi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "description": "Mucho tiempo después de los eventos sucedidos en Avengers: Endgame, los Guardianes de la Galaxia deben convencer a Thor para que regrese al campo de batalla y se enfrente a un villano empeñado en matar a todas las criaturas divinas en todo el cosmos. Para luchar contra esta amenaza, Thor debe reclutar a sus amigos Valk"
+    },
+    {
+      "id": "tt13623136",
+      "type": "movie",
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "year": 2022,
+      "tmdb_id": 774752,
+      "alt_titles": [
+        "Guardianes de la Galaxia: Especial de las fiestas",
+        "Guardianes de la Galaxia: Especial Felices Fiestas",
+        "A Marvel Studios Special Presentation: The Guardians of the Galaxy Holiday Special"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9D6hFa4TGdqCVE7x9Zec9VdaF2X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rfnmMYuZ6EKOBvQLp2wqP21v7sI.jpg",
+      "description": "Con la misión de darle a Quill una Navidad inolvidable, los Guardianes viajan a la Tierra en busca del regalo perfecto."
+    },
+    {
+      "id": "tt10954600",
+      "type": "movie",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "tmdb_id": 640146,
+      "alt_titles": [
+        "Ant-Man y la Avispa: Quantumanía",
+        "Ant-Man y la Avispa: Quantumanía de Marvel Studios",
+        "Ant-Man 3: Ant-Man and the Wasp - Quantumania"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+      "description": "Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en una aventura que los hará ir más allá de l"
+    },
+    {
+      "id": "tt6791350",
+      "type": "movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "tmdb_id": 447365,
+      "alt_titles": [
+        "Guardianes de la Galaxia volumen 3",
+        "Guardianes de la galaxia vol. 3",
+        "Guardianes de la galaxia - Volumen 3",
+        "Guardians of the Galaxy 3"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "description": "Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en torno a él para defender el universo junto con la protección de uno de los suyos. Una misión que, si no se lleva a cabo con éxito, podría suponer el fin de los Guardianes tal y como los conocemos."
+    },
+    {
+      "id": "tt10676048",
+      "type": "movie",
+      "title": "The Marvels",
+      "year": 2023,
+      "tmdb_id": 609681,
+      "alt_titles": [
+        "The Marvels de Marvel Studios",
+        "Las Marvels",
+        "Marvel Studios' The Marvels"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vpuuFM032yiX8tox4L84Wl9MGjG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+      "description": "Cuando sus deberes llevan a Carol Danvers, alias Capitana Marvel, a un agujero de gusano anómalo vinculado a un revolucionario Kree, sus poderes se enredan con los de Ms. Marvel y con los de Monica Rambeau, la distanciada sobrina de Carol y astronauta de S.A.B.E.R. Juntas, deberán trabajar en sincronía para salvar al u"
+    },
+    {
+      "id": "tt14513804",
+      "type": "movie",
+      "title": "Captain America: Brave New World",
+      "year": 2025,
+      "tmdb_id": 822119,
+      "alt_titles": [
+        "Capitán América: Un nuevo mundo",
+        "Capitán América: Brave New World de Marvel Studios",
+        "Brave New World"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/pVMSRyAiye7gZ8NtuCt1qgbspY9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+      "description": "Tras reunirse con el recientemente electo presidente de los Estados Unidos Thaddeus Ross, Sam se encuentra en medio de un conflicto internacional. Debe descubrir la razón de un nefasto complot mundial antes de que el verdadero artífice detrás del mismo haga que el mundo entero entre en caos."
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "title": "Thunderbolts*",
+      "year": 2025,
+      "tmdb_id": 986056,
+      "alt_titles": [
+        "*Los Nuevos Avengers",
+        "T̶h̶u̶n̶d̶e̶r̶b̶o̶l̶t̶s̶* Los Nuevos Vengadores de Marvel Studios",
+        "Marvel's Thunderbolts*"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "description": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión q"
+    },
+    {
+      "id": "tt36042156",
+      "type": "movie",
+      "title": "The Punisher: One Last Kill",
+      "year": 2026,
+      "tmdb_id": 1439930,
+      "alt_titles": [
+        "The Punisher: La última muerte",
+        "Una presentación especial de Marvel Television: The Punisher: La última muerte",
+        "A Marvel Television Special Presentation - The Punisher: One Last Kill"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+      "description": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha."
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "tmdb_id": 969681,
+      "alt_titles": [
+        "Spider-Man: Un nuevo día",
+        "Spider-Man: (Brand New) Brand New Day"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado."
+    },
+    {
+      "id": "tt13968252",
+      "type": "series",
+      "title": "Eyes of Wakanda",
+      "year": 2025,
+      "tmdb_id": 241388,
+      "alt_titles": [
+        "Los ojos de Wakanda",
+        "Marvel Animation's Eyes of Wakanda"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xkMPhwoj0W5Db8EnMnoj1CbmY1W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
+      "description": "A lo largo de la historia de Wakanda, valientes guerreros han recibido la misión de viajar por el mundo para recuperar peligrosos artefactos de vibranium. La serie explorará diferentes épocas en el tiempo y representará la historia de aquellos que hicieron que Wakanda se mantuviera en secreto durante siglos."
+    },
+    {
+      "id": "tt13623148",
+      "type": "series",
+      "title": "I Am Groot",
+      "year": 2022,
+      "tmdb_id": 232125,
+      "alt_titles": [
+        "Yo soy Groot"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AcqVeohiVgGEFTKwjvL57YHsnGU.jpg",
+      "description": "¡No hay forma de proteger la galaxia de este niño travieso! Prepárate mientras Baby Groot ocupa un lugar central en su propia colección de cortos, explorando sus días de gloria mientras crecía y metiéndose en problemas entre las estrellas."
+    },
+    {
+      "id": "tt3322312",
+      "type": "series",
+      "title": "Marvel's Daredevil",
+      "year": 2015,
+      "tmdb_id": 61889,
+      "alt_titles": [
+        "Marvel - Daredevil",
+        "Daredevil"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pPALpad1Fh14g7ejyQjqKzlhrBw.jpg",
+      "description": "La serie está protagonizada por Charlie Cox como Matt Murdock, un abogado del barrio neoyorquino de Hell's Kitchenque quedó ciego en un accidente que incrementó sus cuatro sentidos restantes y que lucha todas las noches contra el crimen bajo el sobrenombre de Daredevil."
+    },
+    {
+      "id": "tt2357547",
+      "type": "series",
+      "title": "Marvel's Jessica Jones",
+      "year": 2015,
+      "tmdb_id": 38472,
+      "alt_titles": [
+        "Marvel - Jessica Jones",
+        "Marvel's A.K.A. Jessica Jones"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aej8tAT0EDijipbNd0ABE874fCq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+      "description": "Cuando una tragedia pone fin a su corta carrera como superhéroe, Jessica se instala en la ciudad de Nueva York y abre su propia agencia de detectives, que parece ser llamada en casos que involucran a personas que tienen habilidades especiales."
+    },
+    {
+      "id": "tt3322314",
+      "type": "series",
+      "title": "Marvel's Luke Cage",
+      "year": 2016,
+      "tmdb_id": 62126,
+      "alt_titles": [
+        "Marvel - Luke Cage",
+        "Luke Cage"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yzM1hMB3PUJqbISX0f421b3xOjB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bJOmop22SGTHPo1tiuVAFf4U7B9.jpg",
+      "description": "Él solo quería una vida tranquila, pero este exconvicto a prueba de balas luchará para limpiar su nombre, salvar a su vecindario y ser el héroe que la gente necesita."
+    },
+    {
+      "id": "tt3322310",
+      "type": "series",
+      "title": "Marvel's Iron Fist",
+      "year": 2017,
+      "tmdb_id": 62127,
+      "alt_titles": [
+        "Marvel - Iron Fist",
+        "Iron Fist"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/pO2PnCmgeLKlazux6uSxI8tAc2Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cuckn6IFp9OKu9H8AgD0iEANxhc.jpg",
+      "description": "El multimillonario Danny Rand regresa a Nueva York, tras haber estado desaparecido durante años tratando de reconectar con su pasado y su legado familiar. Sus conocimientos de kung-fu y su puño de hierro permitirán que Rand vuelva para controlar el crimen de la ciudad."
+    },
+    {
+      "id": "tt4230076",
+      "type": "series",
+      "title": "Marvel's The Defenders",
+      "year": 2017,
+      "tmdb_id": 62285,
+      "alt_titles": [
+        "Marvel - The Defenders",
+        "Marvels The Defenders"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ycAWXhAhyaE7g3JBAaierK4LgNg.jpg",
+      "description": "Una conspiración siniestra amenaza Nueva York, y Daredevil, Jessica Jones, Luke Cage y Iron Fist unen sus fuerzas para enfrentar a sus enemigos en común."
+    },
+    {
+      "id": "tt16027074",
+      "type": "series",
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "year": 2025,
+      "tmdb_id": 138503,
+      "alt_titles": [
+        "Tu amigo y vecino Spider-Man",
+        "YFNSM"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aSe4aB8tiPQMoQt9B4SKFgIymwL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
+      "description": "Peter Parker está en camino a convertirse en héroe, pero su recorrido no será para nada ordinario."
+    },
+    {
+      "id": "tt5675620",
+      "type": "series",
+      "title": "Marvel's The Punisher",
+      "year": 2017,
+      "tmdb_id": 67178,
+      "alt_titles": [
+        "Marvel - The Punisher",
+        "Marvels the Punisher"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jBGjbSDRxOEudW9rmQbWDzJUKq9.jpg",
+      "description": "Un exmarine planea descargar toda su furia contra los criminales que mataron a su familia, pero el rastro del submundo también lleva a una oscura conspiración militar."
+    },
+    {
+      "id": "tt16027014",
+      "type": "series",
+      "title": "Marvel Zombies",
+      "year": 2025,
+      "tmdb_id": 138505,
+      "alt_titles": [
+        "Marvel Animation's Marvel Zombies"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5UbrwzZUR5lcoDds2phuahFHHhi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+      "description": "Después de que los Vengadores fueron vencidos por una plaga de zombis, un desesperado grupo de sobrevivientes descubre la clave para llevar a su fin a los súper poderosos no muertos, corriendo a través de un paisaje distópico y arriesgando su vida y sus miembros para salvar al mundo."
+    },
+    {
+      "id": "tt9140560",
+      "type": "series",
+      "title": "WandaVision",
+      "year": 2021,
+      "tmdb_id": 85271,
+      "alt_titles": [
+        "Marvel Studios' WandaVision"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cYEPx04WxSSbBA2kdUT6XluYgIw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cq62fLH3vwOmiaLKMqkDI86tPtH.jpg",
+      "description": "Wanda Maximoff y Vision, dos seres superpoderosos que viven vidas suburbanas idealizadas, comienzan a sospechar que nada es lo que parece."
+    },
+    {
+      "id": "tt9208876",
+      "type": "series",
+      "title": "The Falcon and the Winter Soldier",
+      "year": 2021,
+      "tmdb_id": 88396,
+      "alt_titles": [
+        "Falcon Y El Soldado Del Invierno",
+        "Marvel Studios' The Falcon and The Winter Soldier"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kW3vNNeeIDkZ2xoRyWmNkeOK6f1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+      "description": "Estelarizada por Anthony Mackie como Sam Wilson, también conocido como Falcon, y Sebastian Stan como Bucky Barnes, también conocido como el soldado del invierno. El dúo, que se unió en los últimos momentos de \"Avengers: Endgame\", hace equipo en una aventura alrededor del mundo que pone a prueba sus habilidades… y su pa"
+    },
+    {
+      "id": "tt10160804",
+      "type": "series",
+      "title": "Hawkeye",
+      "year": 2021,
+      "tmdb_id": 88329,
+      "alt_titles": [
+        "Marvel's Hawkeye"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3ZcJetFxd8fwJ1I5xsLHCMTAKQo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uHESULlKh7VSc0MRcqfyIf9Alk4.jpg",
+      "description": "\"Ojo De Halcón\", de Marvel Studios, es una nueva serie original que transcurre en una Ciudad de Nueva York post-Blip, donde el antes vengador Clint Barton, alias Hawkeye, tiene una misión que parece simple: regresar con su familia para Navidad. Pero cuando surge una amenaza de su pasado, Hawkeye renuentemente hace equi"
+    },
+    {
+      "id": "tt10234724",
+      "type": "series",
+      "title": "Moon Knight",
+      "year": 2022,
+      "tmdb_id": 92749,
+      "alt_titles": [
+        "Marvel Studios' Moon Knight"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5AHnvXfW0mtsm047OP54n4pnV0R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+      "description": "Steven Grant parecía llevar una vida sin sobresaltos hasta que la realidad empezó a desmoronarse a sus pies, rodeado de pesadillas de otra vida: la del mercenario Marc Spector. Además de múltiples personalidades, ahora tiene enemigos brutales que lo persiguen, y un misterio mortal que resolver con los dioses del antigu"
+    },
+    {
+      "id": "tt13966962",
+      "type": "series",
+      "title": "Echo",
+      "year": 2024,
+      "tmdb_id": 122226,
+      "alt_titles": [
+        "Marvel's Echo",
+        "Marvel Spotlight: Echo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg",
+      "description": "Perseguida por el imperio criminal de Fisk, Maya vuelve a casa a confrontar a su familia y legado."
+    },
+    {
+      "id": "tt10857160",
+      "type": "series",
+      "title": "She-Hulk: Attorney at Law",
+      "year": 2022,
+      "tmdb_id": 92783,
+      "alt_titles": [
+        "She-Hulk: Defensora de héroes",
+        "Marvel's She-Hulk: abogada Hulka",
+        "Marvel Studios' She-Hulk: Attorney at Law"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4ie82rXFa1rAJ9qTWoCvlljglLJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+      "description": "Jennifer Walters, una abogada especialista en casos legales relacionados con seres sobrehumanos, debe enfrentarse a la complicada vida de una mujer soltera de treinta y tantos que además es una superpoderosa hulk verde de dos metros."
+    },
+    {
+      "id": "tt10857164",
+      "type": "series",
+      "title": "Ms. Marvel",
+      "year": 2022,
+      "tmdb_id": 92782,
+      "alt_titles": [
+        "Marvel Studios' Ms. Marvel"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3KzoEdclGwXQH2t2oYZZlw46TvW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mfcLUWASJghU8MTNK38eYktfE83.jpg",
+      "description": "Una gran estudiante, ávida jugadora, y escriba voraz fan-fic, Kamala Khan tiene una afinidad especial por los Superhéroes, particularmente por Capitana Marvel. Sin embargo, ella lucha por encajar en casa y en la escuela — es decir, hasta que obtenga superpoderes como los superhéroes que ella siempre ha admirado. La vid"
+    },
+    {
+      "id": "tt13623126",
+      "type": "series",
+      "title": "Ironheart",
+      "year": 2025,
+      "tmdb_id": 114471,
+      "alt_titles": [
+        "Iron Heart"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vno2LrEQr3lTOk3U1G1ihZsy64b.jpg",
+      "description": "La inventora genio Riri vuelve a Chicago donde conoce a Parker Robbins, conocido como The Hood."
+    },
+    {
+      "id": "tt21066182",
+      "type": "series",
+      "title": "Wonder Man",
+      "year": 2026,
+      "tmdb_id": 198178,
+      "alt_titles": [
+        "Marvel Spotlight: Wonder Man"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ldz9THIHaV4orMsUrPT1nlQF51T.jpg",
+      "description": "El aspirante a actor, Simon Williams, lucha por hacer despegar su carrera. Durante un encuentro por casualidad con el actor veterano, Trevor Slattery, Simon se entera de que el legendario director Von Kovak está por hacer la remake de la película de súper héroes “Wonder Man”. Estos actores en los extremos opuestos de s"
+    },
+    {
+      "id": "tt13157618",
+      "type": "series",
+      "title": "Secret Invasion",
+      "year": 2023,
+      "tmdb_id": 114472,
+      "alt_titles": [
+        "Invasión secreta",
+        "Marvel's Invasión secreta",
+        "Marvel Studios' Secret Invasion"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jXLhr96JH5DG6TBM8rx8subMpnE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6mOK9j99OFlxGc3ird2jWUeUha9.jpg",
+      "description": "Nick Fury se entera de una invasión clandestina a la Tierra por parte de una facción de skrulls. Fury y sus aliados, entre ellos Everett Ross, María Hill y el skrull Talos, quien ha forjado una vida en la Tierra, correrán contra el tiempo para impedir la inminente invasión de skrulls y salvar a la humanidad."
+    },
+    {
+      "id": "tt15571732",
+      "type": "series",
+      "title": "Agatha All Along",
+      "year": 2024,
+      "tmdb_id": 138501,
+      "alt_titles": [
+        "Agatha en todas partes",
+        "Agatha En Todas Partes de Marvel Television",
+        "Marvel Television's Agatha All Along"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ZRGpvhhKK59BIiPrxIqME7FmL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+      "description": "Agatha Harkness reúne un aquelarre para poder recorrer el Sendero de las Brujas."
+    },
+    {
+      "id": "tt18923754",
+      "type": "series",
+      "title": "Daredevil: Born Again",
+      "year": 2025,
+      "tmdb_id": 202555,
+      "alt_titles": [
+        "Marvel Television's Daredevil: Born Again"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7oIWjtR9wf6cZnI6OU6MfzUNJEb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+      "description": "Matt Murdock, un abogado ciego con habilidades especiales, lucha por la justicia a través de su ajetreado bufete, mientras que el ex jefe de la mafia Wilson Fisk persigue sus propios objetivos políticos en Nueva York. Cuando sus identidades pasadas empiezan a salir a la luz, ambos hombres se encuentran en una inevitabl"
+    }
+  ]
+}

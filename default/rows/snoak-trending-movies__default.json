@@ -1,0 +1,561 @@
+{
+  "items": [
+    {
+      "id": "tt45368240",
+      "type": "movie",
+      "title": "You Can See Everything",
+      "year": 2026,
+      "tmdb_id": 1765072,
+      "alt_titles": [
+        "Puedes verlo todo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lxv8IU6AU5FcqXimC3izkbRip7D.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+      "description": "Treinta y cuatro días antes de ser enviada a prisión, la infame Elizabeth Holmes, fundadora de Silicon Valley, invita a un escéptico equipo de filmación a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo de una enigmática delincuente se convierte en un viaje alucinante de tres años hacia e"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "title": "The Odyssey",
+      "year": 2026,
+      "tmdb_id": 1368337,
+      "alt_titles": [
+        "La Odisea",
+        "The.Odyssey.La.Odisea.2026"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite."
+    },
+    {
+      "id": "tt32558705",
+      "type": "movie",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": 2026,
+      "tmdb_id": 1300968,
+      "alt_titles": [
+        "Los Juegos del Hambre: Amanecer en la cosecha",
+        "The Hunger Games 6"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "description": "Ambientada décadas antes de los eventos liderados por Katniss y Peeta, la historia sigue a Haymitch Abernathy, el enigmático ganador del 50° Torneo de Los juegos del hambre, en una versión más brutal y decisiva de la competencia. La película también mostrará la primera aparición televisiva de Caesar Flickerman, cuya co"
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "title": "Guarding Stars",
+      "year": 2026,
+      "tmdb_id": 1551025,
+      "alt_titles": [
+        "Como proteger a una estrella"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wQUXEPumBrVJR3Fe9h0xnwcnyFp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "description": "En esta comedia romántica llena de acción, una guardaespaldas (Leighton Meester) se enamora del famoso actor (Jared Padalecki) al que debe proteger durante Navidad."
+    },
+    {
+      "id": "tt29611136",
+      "type": "movie",
+      "title": "Wicker",
+      "year": 2026,
+      "tmdb_id": 1195803,
+      "alt_titles": [
+        "El hombre de mis fantasias"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rdukIaIVFRrjy51jIdd5PTKwhKv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+      "description": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
+    },
+    {
+      "id": "tt37510326",
+      "type": "movie",
+      "title": "The Social Reckoning",
+      "year": 2026,
+      "tmdb_id": 1281331,
+      "alt_titles": [
+        "El poder de la red",
+        "The Social Network Part 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ls1KWflioSJgCcKhDr6ykvYmgbI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "description": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
+    },
+    {
+      "id": "tt7526136",
+      "type": "movie",
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "tmdb_id": 1263337,
+      "alt_titles": [
+        "El corazón de la bestia",
+        "El corazon de la bestia"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kVDHPDggier9ciMc8Xglinq1jWv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "description": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia contra los elementos."
+    },
+    {
+      "id": "tt39316936",
+      "type": "movie",
+      "title": "Clashing Through the Snow",
+      "year": 2026,
+      "tmdb_id": 1611767,
+      "alt_titles": [
+        "Rivales en la nieve",
+        "Bronca Navidad"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1oljTBjhbuIzd6UDRAhVpvbxxnY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "description": "Los editores rivales Ryan Mitchell y Hannah Hendricks quedan atrapados en una tormenta de nieve y deben compartir un auto alquilado para ir a Nueva York, donde los espera un contrato que salvará sus carreras. Se acumulan los percances en el camino y las desviaciones obligadas, mas el espíritu navideño derrite su feroz "
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "title": "Resident Evil",
+      "year": 2026,
+      "tmdb_id": 1423191,
+      "alt_titles": [
+        "Resident Evil: Noche cero"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "description": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir."
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "tmdb_id": 969681,
+      "alt_titles": [
+        "Spider-Man: Un nuevo día",
+        "Spider-Man: (Brand New) Brand New Day"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado."
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "title": "Way of the Warrior Kid",
+      "year": 2026,
+      "tmdb_id": 1280115,
+      "alt_titles": [
+        "El camino del pequeño guerrero"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uh9hCepFpB2xvLUeYSZKrjcjnvk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "description": "Jake es un SEAL herido que se vuelve el mentor de su tímido sobrino, Marc. Jake usa principios militares para enseñarle a Marc a ser un pequeño guerrero al entrar a la secundaria."
+    },
+    {
+      "id": "tt1392170",
+      "type": "movie",
+      "title": "The Hunger Games",
+      "year": 2012,
+      "tmdb_id": 70160,
+      "alt_titles": [
+        "Los juegos del hambre",
+        "The Hunger Games 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iBCSJettKNmAfEa4qlqsj3WHyIW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+      "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un fastuoso Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que part"
+    },
+    {
+      "id": "tt14413964",
+      "type": "movie",
+      "title": "Steps",
+      "year": 2026,
+      "tmdb_id": 1595124,
+      "alt_titles": [
+        "Hermanastras"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "description": "Culpada de hacer travesuras mágicas en el Royal Ball, la hermanastra Lilith convierte a su hermana en una rana. Debe trabajar con Cenicienta y un troll para salvar el reino y demostrar que los villanos también merecen un final feliz."
+    },
+    {
+      "id": "tt9213874",
+      "type": "movie",
+      "title": "Breeder",
+      "year": 2026,
+      "tmdb_id": 1496696,
+      "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg"
+    },
+    {
+      "id": "tt1951264",
+      "type": "movie",
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "tmdb_id": 101299,
+      "alt_titles": [
+        "Los juegos del hambre: En llamas",
+        "The Hunger Games 2 - Catching Fire"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/3FAZBvsZQFuqJHnWZcrUUtKLEJ3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "description": "Cuando Katniss Everdeen regresa sana y salva a casa tras ganar la 74ª edición anual de los Juegos del Hambre, junto a su compañero tributo Peeta Mellark. Ganar significa tener que dejar atrás a su familia y amigos, para emprender una \"Gira de la Victoria\" por los diferentes distritos. Por el camino, Katniss se da cuent"
+    },
+    {
+      "id": "tt10545296",
+      "type": "movie",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "year": 2023,
+      "tmdb_id": 695721,
+      "alt_titles": [
+        "Los juegos del hambre: La balada de pájaros cantores y serpientes",
+        "Los Juegos Del Hambre: Balada de Pájaros Cantores y Serpientes",
+        "The Hunger Games - The Ballad of Songbirds and Snakes"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bk1TitfD4YIGrM6AvljonMCtfnl.jpg",
+      "description": "Años antes de convertirse en el tiránico Presidente de Panem, el Coriolanus Snow de 18 años es la última esperanza de su desvaneciente linaje, la una vez orgullosa familia que había caído en desgracia en un Capitolio post-guerra. Con los décimos Juegos del Hambre aproximándose rápidamente, el joven Snow se sorprende cu"
+    },
+    {
+      "id": "tt36413910",
+      "type": "movie",
+      "title": "The Mosquito Bowl",
+      "year": 2026,
+      "tmdb_id": 1458300,
+      "alt_titles": [
+        "Mosquito Bowl"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg"
+    },
+    {
+      "id": "tt27165187",
+      "type": "movie",
+      "title": "The End of Oak Street",
+      "year": 2026,
+      "tmdb_id": 1101383,
+      "alt_titles": [
+        "El final de la Calle Oak",
+        "Flowervale Street"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gaW5bvDp1B8gQraGFNSJNSemKwo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/w9AiymbmQGt3jdtsm78HdfKkChy.jpg",
+      "description": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible."
+    },
+    {
+      "id": "tt1951265",
+      "type": "movie",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "year": 2014,
+      "tmdb_id": 131631,
+      "alt_titles": [
+        "Los juegos del hambre: Sinsajo - Parte 1",
+        "Los Juegos del Hambre 3 - Sinsajo Parte 1",
+        "Los Juegos del Hambre: Sinsajo Parte 1",
+        "The Hunger Games 3 - Mockingjay - Part 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/c03d7m2AvBrzNRhvBeoqVs9AG01.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+      "description": "Katniss Everdeen (Jennifer Lawrence) en el Distrito 13 tras, literalmente, destrozar los juegos para siempre. Bajo el liderazgo de la Presidenta Coin (Julianne Moore) y contando con las advertencias de los amigos en quien confía, Katniss expande sus alas al tiempo que lucha por salvar a Peeta (Josh Hutcherson) y a una "
+    },
+    {
+      "id": "tt1951266",
+      "type": "movie",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015,
+      "tmdb_id": 131634,
+      "alt_titles": [
+        "Los juegos del hambre: Sinsajo - Parte 2",
+        "Los juegos del hambre: Sinsajo - El final",
+        "Los Juegos del Hambre: Sinsajo Parte 2",
+        "The Hunger Games 3 - Mockingjay - Part 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bxzZnv6zxud4uAwvzABrXHYSWBh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+      "description": "Katniss Everdeen (Jennifer Lawrence) se da cuenta de que ya no sólo está en juego su supervivencia, sino también el futuro. Con Panem sumida en una guerra a gran escala, Katniss tendrá que plantar cara al presidente Snow (Donald Sutherland) en el enfrentamiento final. Katniss, acompañada por un grupo de sus mejores ami"
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "title": "Other Mommy",
+      "year": 2026,
+      "tmdb_id": 1400837,
+      "alt_titles": [
+        "Madre siniestra",
+        "La Otra Madre",
+        "Incidents Around the House"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "description": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia."
+    },
+    {
+      "id": "tt0099785",
+      "type": "movie",
+      "title": "Home Alone",
+      "year": 1990,
+      "tmdb_id": 771,
+      "alt_titles": [
+        "Mi pobre angelito"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de dos bribones que se proponen asaltar todas las casas cerradas de "
+    },
+    {
+      "id": "tt34206385",
+      "type": "movie",
+      "title": "Primetime",
+      "year": 2026,
+      "tmdb_id": 1375441,
+      "alt_titles": [
+        "Bluefin Tuna"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década."
+    },
+    {
+      "id": "tt34966140",
+      "type": "movie",
+      "title": "Focker In-Law",
+      "year": 2026,
+      "tmdb_id": 1400336,
+      "alt_titles": [
+        "La nueva Focker",
+        "Focker-in-Law"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kiagXCuuvdE28GspcvOXlfFI0J3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+      "description": "Henry, el hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
+    },
+    {
+      "id": "tt4154796",
+      "type": "movie",
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "tmdb_id": 299534,
+      "alt_titles": [
+        "Avengers Endgame: Bonus",
+        "Vengadores Endgame: Encore",
+        "Marvel Studios' Avengers Endgame: Encore"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uIPTS25whXkAAfRqptuPX4y4XiS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "description": "Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo."
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "title": "Verity",
+      "year": 2026,
+      "tmdb_id": 1283515,
+      "alt_titles": [
+        "Verity: La sombra de un engaño"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansió"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "tmdb_id": 687163,
+      "alt_titles": [
+        "Proyecto Fin del Mundo",
+        "Projecto Fin del Mundo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+      "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol."
+    },
+    {
+      "id": "tt21285562",
+      "type": "movie",
+      "title": "The Dog Stars",
+      "year": 2026,
+      "tmdb_id": 1384216,
+      "alt_titles": [
+        "La guerra de los últimos",
+        "La Constelación del Perro"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/flipeYd0sa4y4kpIc7Pn59JeBIj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "description": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el "
+    },
+    {
+      "id": "tt14129116",
+      "type": "movie",
+      "title": "A Talent for Murder",
+      "year": 2026,
+      "tmdb_id": 1084409,
+      "alt_titles": [
+        "Maestros Del Crimen",
+        "Talento para matar"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
+      "description": "Un joven viaja de Nueva York a Suiza para intentar convencer a la aclamada autora de novelas de suspense Patricia Highsmith de que escriba una última entrega de su serie sobre Tom Ripley; sus esfuerzos, sin embargo, van tornándose poco a poco más siniestros."
+    },
+    {
+      "id": "tt24818230",
+      "type": "movie",
+      "title": "Madden",
+      "year": 2026,
+      "tmdb_id": 1131943,
+      "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "description": "Inspirada en la vida del aclamado ícono, Madden presenta la trayectoria de John Madden, de ganar el Super Bowl con Al Davis y los Raiders a ser una voz reconocida en el fútbol americano y crear el videojuego Madden NFL. Celebra a una mente brillante, cuyo espíritu y personalidad únicos, junto con el ímpetu de su esposa"
+    },
+    {
+      "id": "tt29256561",
+      "type": "movie",
+      "title": "The Beast",
+      "year": 2026,
+      "tmdb_id": 1185344,
+      "alt_titles": [
+        "La bestia bajo fuego"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/31Xvjl1aYKd7sBwUmV0VJYiIly2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
+      "description": "Cuando una milicia de hostiles no identificados coordina un golpe de Estado contra Estados Unidos, el presidente debe contraatacar empleando las capacidades ofensivas —altamente clasificadas— de su limusina blindada, apodada «La Bestia»."
+    },
+    {
+      "id": "tt0093748",
+      "type": "movie",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987,
+      "tmdb_id": 2609,
+      "alt_titles": [
+        "Nada en Común",
+        "Mejor solo que mal acompañado",
+        "Planes, Trains & Automobiles"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4Gpwo0Jqjvl5PIbvcEjRsmabBoX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+      "description": "Neal Page, un ejecutivo quien viaja a New York por negocios, por aras del destino conoce a Del Griffith, un excéntrico y empático vendedor de cortinas quien le hace perder el viaje a Chicago donde está su hogar, Page se da cuenta que Griffith vive en un mundo gobernado por un tipo de reglas opuestas a su ordenado estil"
+    },
+    {
+      "id": "tt1756855",
+      "type": "movie",
+      "title": "Coyote vs. Acme",
+      "year": 2026,
+      "tmdb_id": 1204680,
+      "alt_titles": [
+        "Coyote vs Acme"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
+      "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation."
+    },
+    {
+      "id": "tt13611778",
+      "type": "movie",
+      "title": "The Mongoose",
+      "year": 2026,
+      "tmdb_id": 1294189,
+      "alt_titles": [
+        "La Mangosta"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
+      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida."
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "tmdb_id": 617126,
+      "alt_titles": [
+        "Los 4 Fantásticos: Primeros pasos",
+        "Los cuatro Fantásticos de Marvel Studios",
+        "Blue Moon"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lESwYExnRVCDscOmdvklWxZgWUp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "description": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enig"
+    },
+    {
+      "id": "tt2709692",
+      "type": "movie",
+      "title": "The Grinch",
+      "year": 2018,
+      "tmdb_id": 360920,
+      "alt_titles": [
+        "El Grinch",
+        "El Grinx",
+        "How the Grinch Stole Christmas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+      "description": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visual"
+    },
+    {
+      "id": "tt0068359",
+      "type": "movie",
+      "title": "A Charlie Brown Thanksgiving",
+      "year": 1973,
+      "tmdb_id": 13479,
+      "alt_titles": [
+        "El Día de Acción de Gracias de Charlie Brown"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/opVOb407K1kPTh1KrCy7VvnURw5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg"
+    },
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "title": "Street Fighter",
+      "year": 2026,
+      "tmdb_id": 1153576,
+      "poster": "https://image.tmdb.org/t/p/w500/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "description": "En 1993, los distanciados luchadores Ryu y Ken Masters se ven obligados a volver a la acción cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros."
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "title": "Obsession",
+      "year": 2026,
+      "tmdb_id": 1339713,
+      "alt_titles": [
+        "Obsesión"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro."
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "tmdb_id": 693134,
+      "alt_titles": [
+        "Duna: Parte dos",
+        "Duna 2",
+        "Duna: Parte 2",
+        "Dune Part Two"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "description": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede "
+    },
+    {
+      "id": "tt1160419",
+      "type": "movie",
+      "title": "Dune",
+      "year": 2021,
+      "tmdb_id": 438631,
+      "alt_titles": [
+        "Duna",
+        "Dune: Parte uno",
+        "Dune: Part One"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1Op57Khovv3ANSWn3TvhMStBboV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xS0g3s4blsiPmtpjjb7chFjI1ip.jpg",
+      "description": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo."
+    }
+  ]
+}

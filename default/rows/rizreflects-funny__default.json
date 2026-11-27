@@ -1,0 +1,588 @@
+{
+  "items": [
+    {
+      "id": "tt0319343",
+      "type": "movie",
+      "title": "Elf",
+      "year": 2003,
+      "tmdb_id": 10719,
+      "alt_titles": [
+        "Elf, el duende",
+        "Enchanted"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nIFkyvrwXk4LIEGaImb0h8HumpC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+      "description": "Cuando Buddy joven cae al saco de regalo de Santa durante la Nochebuena, ha transportado atrás al Polo Norte y ha levantado como un elfo que hace el juguete por los ayudantes de Santa. Pero ya que se convierte en la adultez, no puede sacudir el fastidio sintiendo que no pertenece. Buddy jura de visitar Manhattan y enco"
+    },
+    {
+      "id": "tt0212338",
+      "type": "movie",
+      "title": "Meet the Parents",
+      "year": 2000,
+      "tmdb_id": 1597,
+      "alt_titles": [
+        "La familia de mi novia"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yJioJIJn3cWZhK1mj4SYP44enUh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg",
+      "description": "El enfermero Greg Focker conoce a los padres de su novia antes de proponerle matrimonio, pero el desconfiado padre de su novia es la peor pesadilla de cualquier cita."
+    },
+    {
+      "id": "tt1931533",
+      "type": "movie",
+      "title": "Seven Psychopaths",
+      "year": 2012,
+      "tmdb_id": 86838,
+      "alt_titles": [
+        "Siete Psicópatas",
+        "Sie7e psicópatas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vtFTwRFJoxNFZi6Lin1RtbY0kXL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6KrodMTWn9hNZBhrwOYd8snqtVp.jpg",
+      "description": "Un guionista (Colin Farrell) busca inspiración para su próximo trabajo, en el que dos excéntricos amigos (Sam Rockwell y Christopher Walken) planean secuestrar a un perro. El asunto se complica cuando el animal de compañía de un mafioso desaparece."
+    },
+    {
+      "id": "tt0780536",
+      "type": "movie",
+      "title": "In Bruges",
+      "year": 2008,
+      "tmdb_id": 8321,
+      "alt_titles": [
+        "Escondidos en Brujas",
+        "En Brujas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/i5xoTabhskqM6syMY2CDCb5WFDm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dtGxDOcFssdUUTYBr6M6INXTI1e.jpg",
+      "description": "Después de un trabajo complicado, Harry, el jefe londinense de ambos, les manda a descansar dos semanas a esta ciudad. Sintiéndose totalmente fuera de lugar entre la arquitectura gótica, los canales y las calles adoquinadas, los dos asesinos pasan el día haciendo de turistas. Ray, que no consigue olvidar las brutales i"
+    },
+    {
+      "id": "tt2283362",
+      "type": "movie",
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "tmdb_id": 353486,
+      "alt_titles": [
+        "Jumanji: En la selva",
+        "Jumanji: Welcome to the Jungle 3D"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ArTeEtWtpxVcXlNoxBgko1gLGnE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+      "description": "Un videojuego absorbe a cuatro estudiantes. Una vez en la selva, deben embarcarse en una búsqueda en sus avatares, que no coinciden para nada con la realidad."
+    },
+    {
+      "id": "tt14849194",
+      "type": "movie",
+      "title": "The Holdovers",
+      "year": 2023,
+      "tmdb_id": 840430,
+      "alt_titles": [
+        "Los que se quedan"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aZj21Kcmazecm6VDBn4bYU4evi3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+      "description": "Un instructor cascarrabias en una prestigiosa escuela estadounidense se ve obligado a permanecer en el campus durante las vacaciones de Navidad para cuidar de un grupo de estudiantes que no tienen a dónde ir. Con el tiempo, establece un vínculo inesperado con uno de ellos, un problemático alumno, y con la jefa de cocin"
+    },
+    {
+      "id": "tt0208092",
+      "type": "movie",
+      "title": "Snatch",
+      "year": 2000,
+      "tmdb_id": 107,
+      "alt_titles": [
+        "Snatch: Cerdos y diamantes",
+        "Diamonds"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ziWecvSRGjqeNKPx3kMqlYwssDo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+      "description": "Franky es un ladrón de diamantes que tiene que entregar un valioso ejemplar a su jefe Avi, pero, antes de hacerlo, se deja convencer por un tal Boris para apostar en un combate ilegal de boxeo. En realidad, se trata de una trampa para arrebatarle el diamante. Cuando Avi se entera, contrata a Tony para encontrar a Frank"
+    },
+    {
+      "id": "tt15671028",
+      "type": "movie",
+      "title": "No Hard Feelings",
+      "year": 2023,
+      "tmdb_id": 884605,
+      "alt_titles": [
+        "Hazme el favor",
+        "Sin malos rollos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aUtjDS46VWJm6Tc3Bsk7BAJBwFN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+      "description": "A punto de perder la casa en la que creció, Maddie descubre un intrigante anuncio clasificado de un trabajo: padres helicóptero millonarios buscan a alguien para poder “salir” con su hijo introvertido de 19 años, Percy, antes de que se vaya a la universidad. Para su sorpresa, Maddie, pronto descubre que el extraño Perc"
+    },
+    {
+      "id": "tt1570728",
+      "type": "movie",
+      "title": "Crazy, Stupid, Love.",
+      "year": 2011,
+      "tmdb_id": 50646,
+      "alt_titles": [
+        "Loco y estúpido amor",
+        "Loco, estúpido, amor",
+        "Crazy Stupid Love"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/gBFzkVslmiHVuwwjJ8cl9JZGrmg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+      "description": "La situación del cuarentón y puritano Cal Weaver es perfecta: tiene un buen trabajo, una bonita casa y unos hijos estupendos y está casado con el amor de su adolescencia. Sin embargo, cuando Cal se entera de que su esposa, Emily, le ha engañado y quiere divorciarse, su vida ‘perfecta’ se desmorona. Para colmo, en el ac"
+    },
+    {
+      "id": "tt1478338",
+      "type": "movie",
+      "title": "Bridesmaids",
+      "year": 2011,
+      "tmdb_id": 55721,
+      "alt_titles": [
+        "Damas en Guerra"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/6KRLhP1RI6PnILRncUYDcmScLFO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1pkpV7a02phSfAPeGVmpHaQd99J.jpg",
+      "description": "Annie es una treintañera soltera del Medio Oeste, con una vida sentimental más bien precaria, a la que Lilliam, su mejor amiga, le pide que sea su dama de honor. Mientras tanto, la otra amiga de Lillian hará todo lo posible por arrebatarle el papel a la inexperta Annie."
+    },
+    {
+      "id": "tt1119646",
+      "type": "movie",
+      "title": "The Hangover",
+      "year": 2009,
+      "tmdb_id": 18785,
+      "alt_titles": [
+        "¿Qué Pasó Ayer?",
+        "Resacon En Las Vegas 1",
+        "Hangover"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kZaaJQEi7n3mrBct1H3l2g45Ijb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+      "description": "El novio y tres amigos organizan una despedida de soltero en Las Vegas. Como era de esperar, a la mañana siguiente tienen una resaca tan monumental que no pueden recordar nada de lo ocurrido la noche anterior. Lo más extraordinario es que el novio ha desaparecido y en la suite del hotel se encuentran un tigre y un bebé"
+    },
+    {
+      "id": "tt1723121",
+      "type": "movie",
+      "title": "We're the Millers",
+      "year": 2013,
+      "tmdb_id": 138832,
+      "alt_titles": [
+        "¿Quién *&$%! son los Miller?",
+        "¿Quién *&S%! son los Miller?",
+        "¿Donde estan los Miller?",
+        "We are the Millers"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/30kgV3DZGe79ZDCprdtCRFWyrcv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jxDo3i2f6Ab1XeTWjdNDkkZYEju.jpg",
+      "description": "El distribuidor de marihuana David aprende por las malas que ninguna buena acción queda sin castigo; él intenta ayudar a algunos jóvenes y es sorprendido por unos criminales, perdiendo su dinero y producto. David está endeudado con su proveedor y para solucionar el problema debe ir a México para recoger un cargamento d"
+    },
+    {
+      "id": "tt0425112",
+      "type": "movie",
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "tmdb_id": 4638,
+      "alt_titles": [
+        "Hot Fuzz: Super Policías",
+        "Arma Fatal"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ztc4MsACNiZ8CvRUzTuDTOHgxyA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+      "description": "Nicholas Angel (Simon Pegg) es, sin duda alguna, el mejor policía de Londres. Sus detenciones superan en un 400% al segundo mejor agente del Cuerpo. Es tan bueno que, comparado a él, cualquier poli es malo. Por eso sus superiores deciden trasladarle a un lugar en que su talento no ponga a nadie en evidencia, a Sandford"
+    },
+    {
+      "id": "tt0829482",
+      "type": "movie",
+      "title": "Superbad",
+      "year": 2007,
+      "tmdb_id": 8363,
+      "alt_titles": [
+        "Supercool",
+        "Súper cool",
+        "Supersalidos",
+        "Superbad: Unrated Extended Special Edition"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hx6sr6iMpqy2uxs7Gl6Kdq7jwLH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/coru98UcFBzJIU7bxZguxaePgu0.jpg",
+      "description": "En una de sus últimas noches como estudiantes de instituto, Evan y Seth , dos amigos inadaptados, tropezarán con diversas dificultades para comprar bebidas para una fiesta a la que han invitado a las chicas de sus sueños. En su peripecia les acompañará el indescriptible McLovin, otro inadaptado que acaba de comprarse u"
+    },
+    {
+      "id": "tt4627382",
+      "type": "movie",
+      "title": "Roofman",
+      "year": 2025,
+      "tmdb_id": 1242419,
+      "alt_titles": [
+        "Un buen ladrón",
+        "Roofman: Un ladrón en el tejado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yoc4yqlsqnJ6Y4SrbouE54jRuRq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/E7hhuSZ1U5xymN2Olg2EOr4N4P.jpg",
+      "description": "Después de escapar de prisión, el exsoldado y ladrón profesional Jeffrey Manchester encuentra refugio en una tienda Toys \"R\" Us, donde logra sobrevivir durante meses sin ser descubierto mientras planea su próximo movimiento. Sin embargo, cuando se enamora de una madre divorciada, su doble vida comienza a desmoronarse."
+    },
+    {
+      "id": "tt0381707",
+      "type": "movie",
+      "title": "White Chicks",
+      "year": 2004,
+      "tmdb_id": 12153,
+      "alt_titles": [
+        "¿... Y dónde están las rubias?",
+        "¿...Y dónde están las rubias?",
+        "Dos rubias de pelo en pecho"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9oXAJaR58sukn59HmFZzDCy79E5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/di47xqYMCYpjqwnqNlO17X5qXMX.jpg",
+      "description": "Dos hermanos y agentes del FBI, Kevin y Marcus, han desempeñado y fracasado torpemente en casos que se les han asignado y su jefe enojado les advierte que la próxima vez que hagan mal cualquier misión serán despedidos. Ambos se disponen a esforzarse por tratar de no volver a fracasar y demostrar que son grandes agentes"
+    },
+    {
+      "id": "tt0088930",
+      "type": "movie",
+      "title": "Clue",
+      "year": 1985,
+      "tmdb_id": 15196,
+      "alt_titles": [
+        "¿Quién es el culpable?",
+        "Clue: The Movie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kC5uKt0b9dZwPuuH1P9nImYFhhZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
+      "description": "Un heterogéneo grupo de personas se reúne a cenar en una lujosa mansión y uno de los asistentes aparece muerto durante la velada. Ahora, deben averiguar quién de ellos ha sido el culpable. Una tarea complicada teniendo en cuenta que todos ellos tenían motivos suficientes para cometer el crimen. Película basada en el cé"
+    },
+    {
+      "id": "tt2005151",
+      "type": "movie",
+      "title": "War Dogs",
+      "year": 2016,
+      "tmdb_id": 308266,
+      "alt_titles": [
+        "Amigos De Armas",
+        "Juego De Armas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jwBcQXp7WgYgrcANpnuLCCfLpkK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oNoprEND25zXR6Fns8cIZUkuoMc.jpg",
+      "description": "Con la guerra en Irak en toda su furia, un joven ofrece a su amigo de la infancia la oportunidad de ganar mucho dinero al convertirse en un vendedor internacional de armas. Juntos, explotan una iniciativa del gobierno que permite a las empresas de participar en contratos militares. Pero pronto se verán involucrados en "
+    },
+    {
+      "id": "tt1386588",
+      "type": "movie",
+      "title": "The Other Guys",
+      "year": 2010,
+      "tmdb_id": 27581,
+      "alt_titles": [
+        "Policías de Repuesto",
+        "The B Team"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7fWnVlMg3mooXwW3nxOT8nbhteX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
+      "description": "Allen Gamble y Terry Hoitz son dos policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero cuando las cosas se tuerzan en la gran manzana, esta peculiar pareja tendrá que abandonar la comisaría y entrar en acción."
+    },
+    {
+      "id": "tt1232829",
+      "type": "movie",
+      "title": "21 Jump Street",
+      "year": 2012,
+      "tmdb_id": 64688,
+      "alt_titles": [
+        "Comando Especial",
+        "Comando Especial 1",
+        "Infiltrados en clase"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qnaQVp7OGaOtLbxJdvF50gWh1aa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
+      "description": "Dos policías novatos que eran enemigos en la preparatoria tienen una racha de mala suerte...hasta que les ordenan hacerse pasar por alumnos para atrapar a una red de narcotráfico dentro de su antigua escuela. Volviendo a su vida como adolescentes, pronto recaen en los hábitos de su juventud, poniendo en peligro el caso"
+    },
+    {
+      "id": "tt2704998",
+      "type": "movie",
+      "title": "Game Night",
+      "year": 2018,
+      "tmdb_id": 445571,
+      "alt_titles": [
+        "Noche de juegos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cSrbnS7SItBFenF6jrKGhgFAiaq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aKPCZwkSZy2ASLo0QKeYmcoplfA.jpg",
+      "description": "Un grupo de amigos que se reúne de forma periódica para pasar una noche de juegos, se encuentran tratando de resolver el misterio de un asesinato."
+    },
+    {
+      "id": "tt0449059",
+      "type": "movie",
+      "title": "Little Miss Sunshine",
+      "year": 2006,
+      "tmdb_id": 773,
+      "alt_titles": [
+        "Pequeña Miss Sunshine"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qE2ii6o1ndrhpI5ZYpxStvF5sKN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/twdtjJm31AExNx73DXaD4KRNU9c.jpg",
+      "description": "Una familia muy diversa se amontona en una vieja camioneta y viaja por carretera a California para que la pequeña Olive compita en un concurso de belleza."
+    },
+    {
+      "id": "tt0838283",
+      "type": "movie",
+      "title": "Step Brothers",
+      "year": 2008,
+      "tmdb_id": 12133,
+      "alt_titles": [
+        "Hermanastros"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/z2qCRmworrA5F0WKrAeTGrAsYeg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/247H2jS9Te9TTmKDcAMg3LN5gmI.jpg",
+      "description": "Aunque Brennan Huff (Will Ferrell) tiene casi cuarenta años, sigue viviendo con su madre Nancy (Mary Steenburgen) y se conforma con conseguir, de vez en cuando, empleos esporádicos. Dale Doback (John C. Reilly), es un parado profesional de cuarenta años que vive con su padre, Robert (Richard Jenkins). Cuando Nancy y Ro"
+    },
+    {
+      "id": "tt4698684",
+      "type": "movie",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "tmdb_id": 371645,
+      "alt_titles": [
+        "Cazando Salvajes",
+        "A la caza de los ñumanos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1xuCaDEYS18i8zuadVXwhcvN4pC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ixpUtvrZNwk6LBObXaNH8fh4FYf.jpg",
+      "description": "Ricky es un rebelde chico de ciudad de doce años al que no encuentran hogar de acogida para él, salvo una granja en medio de la nada con una pareja; ella encantadora, él, arisco y solitario. Cuando comienza a sentirse a gusto, un problema imprevisto dará pie a una caza humana por el campo neozelandés."
+    },
+    {
+      "id": "tt0396269",
+      "type": "movie",
+      "title": "Wedding Crashers",
+      "year": 2005,
+      "tmdb_id": 9522,
+      "alt_titles": [
+        "Los Cazanovias",
+        "Los Caza Novias",
+        "Wedding Crashers (Uncorked Version)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4ggYJCTPg2xs6AEYdce3OeoqRew.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m1WSBzJ3uZ0WmxRBt1dpGUfNq7J.jpg",
+      "description": "John y su amigo, Jeremy son criminales emocionales que saben cómo usar las esperanzas y los sueños de una mujer para su propio beneficio carnal. Su modus operandi: colarse en bodas. Normalmente, se reúnen con los invitados que desean brindar por el día romántico con una conexión aleatoria. Pero cuando John conoce a Cla"
+    },
+    {
+      "id": "tt0356150",
+      "type": "movie",
+      "title": "EuroTrip",
+      "year": 2004,
+      "tmdb_id": 9352,
+      "alt_titles": [
+        "Euroviaje censurado",
+        "Euroviaje",
+        "Euro Trip"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hw3jJDC1I7d8Cu3e75fx30SZESm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kg8na5u6qdCydm7cK7p2I0zQmgr.jpg",
+      "description": "Cuando la berlinense Mieke se declara vía e-mail a un norteamericano Scott, éste la rechaza creyendo que es un hombre. Cuando descubre su error intenta ponerse en contacto con ella, pero resulta imposible. La única forma de conquistarla parece viajar hasta Berlín (Alemania) y para ello, en su viaje le acompañarán su am"
+    },
+    {
+      "id": "tt1564367",
+      "type": "movie",
+      "title": "Just Go with It",
+      "year": 2011,
+      "tmdb_id": 50546,
+      "alt_titles": [
+        "Una esposa de mentira"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/85f1LUrau7eAz3jiK9rI0OkrwhW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xoYEe7RvAHWC59Jbo1tdktB4v2a.jpg",
+      "description": "En un viaje de fin de semana a Hawai, un cirujano plástico convence a su leal ayudante para que se haga pasar por su próxima esposa divorciada, con el fin de encubrir una mentira descuidada que le dijo a su novia, que es muy joven."
+    },
+    {
+      "id": "tt0448115",
+      "type": "movie",
+      "title": "Shazam!",
+      "year": 2019,
+      "tmdb_id": 287947,
+      "alt_titles": [
+        "¡Shazam!",
+        "Billy Batson and the Legend of Shazam!"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kIFthNFctw1ZYEIMer0dVnOln78.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg",
+      "description": "Billy Batson, un chico astuto de 14 años, puede transformarse mágicamente en el superhéroe adulto Shazam. Sus poderes se pondrán a prueba contra el malvado Dr. Thaddeus Sivana."
+    },
+    {
+      "id": "tt1430607",
+      "type": "movie",
+      "title": "Arthur Christmas",
+      "year": 2011,
+      "tmdb_id": 51052,
+      "alt_titles": [
+        "Operación Regalo",
+        "Santa Claus al rescate"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hgZgCWUHzSV4jNaQbOKAYdyXF0M.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hwtYE4Gs0IsBnrJ0nTZItOXlz19.jpg",
+      "description": "Con trucos más propios de espías, Santa y sus elfos de elite logran repartir en una sola noche los millones de regalos a los niños del mundo. ¿Qué significa que un solo niño no haya recibido su obsequio? ¡Todo! Pero será tarea del hijo menor de Santa, Arthur, enmendar este error y cumplir con la promesa de Navidad. Con"
+    },
+    {
+      "id": "tt0104952",
+      "type": "movie",
+      "title": "My Cousin Vinny",
+      "year": 1992,
+      "tmdb_id": 10377,
+      "alt_titles": [
+        "Mi Primo Vinny"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aPdPboSdGLCtwbHAlUOd0WxxQ7f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uEoaOfvWibpvjBNxFoj4MxWn0OH.jpg",
+      "description": "Debido a una serie de fatales coincidencias, dos jóvenes neoyorkinos, que viajaban al sur del país, son tomados por asesinos. Como no pueden pagar los honorarios de un buen abogado, deciden llamar al primo de uno de ellos, que es un abogado sin experiencia. En estas circunstancias, se prevé que el resultado del juicio "
+    },
+    {
+      "id": "tt0800039",
+      "type": "movie",
+      "title": "Forgetting Sarah Marshall",
+      "year": 2008,
+      "tmdb_id": 9870,
+      "alt_titles": [
+        "¿Cómo Sobrevivir A Mi Ex?",
+        "Cómo sobrevivir a mi ex?"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zbsh7n5V87cwOmZW4HtVwxevCVz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xe0kqei6uS5qzcSEb2bmokld0YN.jpg",
+      "description": "Peter Bretter es un músico desconocido que ha pasado seis años de su vida idolatrando a su novia, la estrella televisiva Sarah Marshall. Es el típico chico que le guarda el bolso mientras la fotografían los paparazzi y al que ella olvida mencionar en sus discursos de agradecimiento. Pero el mundo de Peter se derrumba c"
+    },
+    {
+      "id": "tt0478311",
+      "type": "movie",
+      "title": "Knocked Up",
+      "year": 2007,
+      "tmdb_id": 4964,
+      "alt_titles": [
+        "Ligeramente Embarazada"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/AqsB62u2UALTnAXGADCwSiWvjXG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8uNx4YtClqB9duM4n6jOx8vWvvl.jpg",
+      "description": "Allison Scott es una periodista de 24 años con una brillante carrera. Por desgracia, no todo sale como estaba previsto cuando, después de una noche de fiesta con el vago de Ben Stone, descubre que está embarazada. Ante la posibilidad de enfrentarse a la maternidad sola o de conocer mejor al padre, Allison decide dar un"
+    },
+    {
+      "id": "tt1637725",
+      "type": "movie",
+      "title": "Ted",
+      "year": 2012,
+      "tmdb_id": 72105,
+      "poster": "https://image.tmdb.org/t/p/w500/rpadMMk5g2ivupPqtTQMnHIxJK0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hkAVgWvAMmM8tj9CDEvGqMdNQBE.jpg",
+      "description": "Cuando John Bennett (Mark Wahlberg) era pequeño, deseaba que su osito de peluche Ted fuera un oso de verdad y, por desgracia, su sueño se hizo realidad. Más de veinte años después, Ted sigue con John y saca de quicio a su novia Lori, que empieza a perder la paciencia. Para colmo, a John no parece preocuparle su futuro "
+    },
+    {
+      "id": "tt1489887",
+      "type": "movie",
+      "title": "Booksmart",
+      "year": 2019,
+      "tmdb_id": 505600,
+      "alt_titles": [
+        "La Noche De Las Nerds",
+        "Súper empollonas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uklI1yO3vE7w1GzpmGOuJ8mAXBV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cheDSO3mYmsAFQlRM91o7MK6Wcc.jpg",
+      "description": "Booksmart. Dos excelentes estudiantes y grandes amigas, en la víspera de su graduación de su instituto, de repente se dan cuenta de que podrían haberse esforzado algo menos en clase y haberse divertido más. Así que deciden hacer algo al respecto para compensar tanto estudio y tan poca diversión: recuperar los años perd"
+    },
+    {
+      "id": "tt0332379",
+      "type": "movie",
+      "title": "The School of Rock",
+      "year": 2003,
+      "tmdb_id": 1584,
+      "alt_titles": [
+        "Escuela de Rock",
+        "School of Rock"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kdD0K41KJrjcSqXMOh9Z4RMTauE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k5MTAtE9CCi5TWA84qaFMYv3ajB.jpg",
+      "description": "Dewey Finn, un guitarrista con delirios de grandeza, es expulsado de su banda. La falta de recursos económicos lo obliga a buscar trabajo, cosa nada fácil, por lo que, finalmente, decide suplantar a un profesor sustituto en una escuela privada. A los alumnos de 5º grado intentará enseñarles el “rock & roll de alto volt"
+    },
+    {
+      "id": "tt0398165",
+      "type": "movie",
+      "title": "The Longest Yard",
+      "year": 2005,
+      "tmdb_id": 9291,
+      "alt_titles": [
+        "Golpe Bajo: El Juego Final",
+        "Golpe Bajo",
+        "El clan dels trencalossos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hUuCldGYaNhN6VL2DeoMPKACFFn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/63V4wbVah1gnjckPJnSU0ZmOGAW.jpg",
+      "description": "Mariscal de campo pro, Paul Crewe y ex campeón del colegio y entrenador, Nate Scarboro cumple una condena en la misma prisión. Pedido reunir un equipo de presidiarios para tomar las guardias, Crewe alista la ayuda de Scarboro para entrenar a los presidiarios a la victoria en un juego del fútbol 'fijado' para resultar t"
+    },
+    {
+      "id": "tt0343660",
+      "type": "movie",
+      "title": "50 First Dates",
+      "year": 2004,
+      "tmdb_id": 1824,
+      "alt_titles": [
+        "Como si fuera la primera vez"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cPTDtitf7UiP1rgV2PLQ5hGiRgY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v8lPo8UWKyP2tIXD8N64HfNP4Pw.jpg",
+      "description": "Henry Roth es un hombre temeroso del compromiso hasta que conoce a la bella Lucy. Se llevan bien y Henry cree que por fin ha encontrado a la chica de sus sueños, hasta que descubre que tiene pérdida de memoria a corto plazo y se olvida de él al día siguiente."
+    },
+    {
+      "id": "tt1282140",
+      "type": "movie",
+      "title": "Easy A",
+      "year": 2010,
+      "tmdb_id": 37735,
+      "alt_titles": [
+        "Se dice de mí",
+        "Rumores y Mentiras"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jQIpXLrdXMMjr4zedQ20rI56oSw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+      "description": "El guión, obra del dramaturgo Bert V. Royal, es una versión moderna y en clave estudiantil de “La letra escarlata”, la novela de Nathaniel Hawthorne. Narra la historia de una joven que decide fingir que lleva una vida promiscua, creyendo que así obtendrá algún tipo de beneficio. Sin embargo, las circunstancias se volve"
+    },
+    {
+      "id": "tt0454945",
+      "type": "movie",
+      "title": "She's the Man",
+      "year": 2006,
+      "tmdb_id": 9655,
+      "alt_titles": [
+        "Una chica en apuros",
+        "Ella es el Chico",
+        "She is the man"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9IaHaq3W7GEr7IxdwqUs94mceyS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9ys3pySjmZiONZWAy8QhOxv5SDH.jpg",
+      "description": "Viola Johnson está en un verdadero aprieto. Las complicaciones amenazan su plan para hacerse pasar por su hermano gemelo, Sebastian, y tomar su lugar en un nuevo internado. Se enamora de su apuesto compañero de cuarto, Duke, que adora a la bella Olivia, que se ha enamorado de Sebastian. Como si eso no fuera suficiente,"
+    },
+    {
+      "id": "tt2361509",
+      "type": "movie",
+      "title": "The Intern",
+      "year": 2015,
+      "tmdb_id": 257211,
+      "alt_titles": [
+        "Pasante de Moda"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5vpyzEwoE0MSfF7kFaP6YE3E2rR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i8Q2Ei2dPliMLgPWYhRTxIDzh7r.jpg",
+      "description": "En Pasante de moda, Ben Whittaker es un viudo de 70 años de edad que ha descubierto que la jubilación no es tan fabulosa como la cuentan. Al aprovechar una oportunidad para volver a la actividad, se convierte en practicante sénior en un sitio en línea de modas, fundado y manejado por Jules Ostin."
+    },
+    {
+      "id": "tt5104604",
+      "type": "movie",
+      "title": "Isle of Dogs",
+      "year": 2018,
+      "tmdb_id": 399174,
+      "alt_titles": [
+        "Isla de perros",
+        "犬ヶ島 (Isle of Dogs)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8Ix63RomDVTuz6r7lib403lEF6h.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/goMGTcitprGu7YD6VZS4lUUwzRA.jpg",
+      "description": "Después de que todas las mascotas caninas de Megasaki City sean exiliadas a una isla que es un vertedero, un niño de 12 años emprende un viaje para buscar a su perro extraviado."
+    },
+    {
+      "id": "tt4686844",
+      "type": "movie",
+      "title": "The Death of Stalin",
+      "year": 2017,
+      "tmdb_id": 402897,
+      "alt_titles": [
+        "La muerte de Stalin"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x2FqFdUxRekbNdow3vZdtDqL96z.jpg",
+      "description": "Moscú, 1953. Después de estar en el poder durante casi 30 años, el dictador soviético Josef Stalin se enferma y muere rápidamente. Ahora los miembros del Consejo de Ministros luchan por el poder."
+    }
+  ]
+}

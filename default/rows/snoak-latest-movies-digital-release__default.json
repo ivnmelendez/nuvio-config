@@ -1,0 +1,494 @@
+{
+  "items": [
+    {
+      "id": "tt36413910",
+      "type": "movie",
+      "title": "The Mosquito Bowl",
+      "year": 2026,
+      "tmdb_id": 1458300,
+      "alt_titles": [
+        "Mosquito Bowl"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg"
+    },
+    {
+      "id": "tt29611136",
+      "type": "movie",
+      "title": "Wicker",
+      "year": 2026,
+      "tmdb_id": 1195803,
+      "alt_titles": [
+        "El hombre de mis fantasias"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rdukIaIVFRrjy51jIdd5PTKwhKv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+      "description": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
+    },
+    {
+      "id": "tt37510326",
+      "type": "movie",
+      "title": "The Social Reckoning",
+      "year": 2026,
+      "tmdb_id": 1281331,
+      "alt_titles": [
+        "El poder de la red",
+        "The Social Network Part 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ls1KWflioSJgCcKhDr6ykvYmgbI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "description": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
+    },
+    {
+      "id": "tt35410859",
+      "type": "movie",
+      "title": "Fjord",
+      "year": 2026,
+      "tmdb_id": 1401459,
+      "alt_titles": [
+        "Fiordo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+      "description": "Los Gheorghiu, una pareja rumano-noruega muy religiosa, se instalan en un pueblo situado en un remoto fiordo, donde entablan una estrecha relación con sus vecinos, los Halberg. Sus hijos se hacen amigos a pesar de las diferencias en su educación. Cuando la adolescente Elia Gheorghiu aparece en el colegio con algunos mo"
+    },
+    {
+      "id": "tt9213874",
+      "type": "movie",
+      "title": "Breeder",
+      "year": 2026,
+      "tmdb_id": 1496696,
+      "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg"
+    },
+    {
+      "id": "tt39316936",
+      "type": "movie",
+      "title": "Clashing Through the Snow",
+      "year": 2026,
+      "tmdb_id": 1611767,
+      "alt_titles": [
+        "Rivales en la nieve",
+        "Bronca Navidad"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1oljTBjhbuIzd6UDRAhVpvbxxnY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "description": "Los editores rivales Ryan Mitchell y Hannah Hendricks quedan atrapados en una tormenta de nieve y deben compartir un auto alquilado para ir a Nueva York, donde los espera un contrato que salvará sus carreras. Se acumulan los percances en el camino y las desviaciones obligadas, mas el espíritu navideño derrite su feroz "
+    },
+    {
+      "id": "tt18351090",
+      "type": "movie",
+      "title": "Perfect Liars",
+      "year": 2026,
+      "tmdb_id": 1568060,
+      "alt_titles": [
+        "Perfectos mentirosos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+      "description": "Sigue a Jude Derry en una universidad elitista donde busca desenmascarar los secretos de los poderosos hermanos Cash, mientras se ve envuelta en engaños, tensión y un triángulo amoroso."
+    },
+    {
+      "id": "tt14413964",
+      "type": "movie",
+      "title": "Steps",
+      "year": 2026,
+      "tmdb_id": 1595124,
+      "alt_titles": [
+        "Hermanastras"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "description": "Culpada de hacer travesuras mágicas en el Royal Ball, la hermanastra Lilith convierte a su hermana en una rana. Debe trabajar con Cenicienta y un troll para salvar el reino y demostrar que los villanos también merecen un final feliz."
+    },
+    {
+      "id": "tt38258118",
+      "type": "movie",
+      "title": "Best Pancakes in the County",
+      "year": 2026,
+      "tmdb_id": 1615596,
+      "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg"
+    },
+    {
+      "id": "tt37096260",
+      "type": "movie",
+      "title": "Things We Don't Say",
+      "year": 2026,
+      "tmdb_id": 1473635,
+      "alt_titles": [
+        "Le cose non dette",
+        "The Things Left Unspoken"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pBeB38aB3FfzPqCrSoxZpvLHxjt.jpg"
+    },
+    {
+      "id": "tt24818230",
+      "type": "movie",
+      "title": "Madden",
+      "year": 2026,
+      "tmdb_id": 1131943,
+      "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "description": "Inspirada en la vida del aclamado ícono, Madden presenta la trayectoria de John Madden, de ganar el Super Bowl con Al Davis y los Raiders a ser una voz reconocida en el fútbol americano y crear el videojuego Madden NFL. Celebra a una mente brillante, cuyo espíritu y personalidad únicos, junto con el ímpetu de su esposa"
+    },
+    {
+      "id": "tt37020296",
+      "type": "movie",
+      "title": "Gentle Monster",
+      "year": 2026,
+      "tmdb_id": 1473148,
+      "alt_titles": [
+        "Un monstruo amable"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rv3PprTMvEf317skaiTeEYAfJcr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/A8ZP4aE0gq9FrHydF9HU4LCmrtF.jpg",
+      "description": "Lucy y Philip son felices: acaban de mudarse con su hijo a una casa de campo cerca de Múnich. Una mañana, su vida da un vuelco cuando la policía se presenta en su domicilio para detener a Philip y confiscar sus ordenadores. Conmocionada, Lucy busca la verdad sobre su marido. ¿Quién es realmente? ¿Debe alejarlo de su hi"
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "title": "Guarding Stars",
+      "year": 2026,
+      "tmdb_id": 1551025,
+      "alt_titles": [
+        "Como proteger a una estrella"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wQUXEPumBrVJR3Fe9h0xnwcnyFp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "description": "En esta comedia romántica llena de acción, una guardaespaldas (Leighton Meester) se enamora del famoso actor (Jared Padalecki) al que debe proteger durante Navidad."
+    },
+    {
+      "id": "tt14129116",
+      "type": "movie",
+      "title": "A Talent for Murder",
+      "year": 2026,
+      "tmdb_id": 1084409,
+      "alt_titles": [
+        "Maestros Del Crimen",
+        "Talento para matar"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
+      "description": "Un joven viaja de Nueva York a Suiza para intentar convencer a la aclamada autora de novelas de suspense Patricia Highsmith de que escriba una última entrega de su serie sobre Tom Ripley; sus esfuerzos, sin embargo, van tornándose poco a poco más siniestros."
+    },
+    {
+      "id": "tt27803347",
+      "type": "movie",
+      "title": "The Optimist",
+      "year": 2026,
+      "tmdb_id": 1129188,
+      "alt_titles": [
+        "The Optimist: The Bravest Act Is Truth"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kQvgYd8GaYkoovQZmE8IkbAMg2d.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/d162vjYEHGEGw2XqxH487bnEkfG.jpg"
+    },
+    {
+      "id": "tt29256561",
+      "type": "movie",
+      "title": "The Beast",
+      "year": 2026,
+      "tmdb_id": 1185344,
+      "alt_titles": [
+        "La bestia bajo fuego"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/31Xvjl1aYKd7sBwUmV0VJYiIly2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
+      "description": "Cuando una milicia de hostiles no identificados coordina un golpe de Estado contra Estados Unidos, el presidente debe contraatacar empleando las capacidades ofensivas —altamente clasificadas— de su limusina blindada, apodada «La Bestia»."
+    },
+    {
+      "id": "tt33184695",
+      "type": "movie",
+      "title": "Rolling Loud: The Movie",
+      "year": 2026,
+      "tmdb_id": 1336166,
+      "alt_titles": [
+        "Rolling Loud"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "title": "The Odyssey",
+      "year": 2026,
+      "tmdb_id": 1368337,
+      "alt_titles": [
+        "La Odisea",
+        "The.Odyssey.La.Odisea.2026"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite."
+    },
+    {
+      "id": "tt20564678",
+      "type": "movie",
+      "title": "Landship",
+      "year": 2026,
+      "tmdb_id": 1599668,
+      "poster": "https://image.tmdb.org/t/p/w500/iYMX7oUGxHn6Z9pSqcAgl5r0E4N.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jdb7kGp1UE1dot7rtCZlPuY4b6W.jpg"
+    },
+    {
+      "id": "tt36842933",
+      "type": "movie",
+      "title": "Just an Illusion",
+      "year": 2026,
+      "tmdb_id": 1404684,
+      "alt_titles": [
+        "Juste une illusion"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ku7zVdj7yUZn71cG6YvCoC3Rxjm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l1fhfzNclQcp4oBz550KMY0CTre.jpg"
+    },
+    {
+      "id": "tt37495239",
+      "type": "movie",
+      "title": "The Desert Child",
+      "year": 2026,
+      "tmdb_id": 1266800,
+      "alt_titles": [
+        "L'enfant du désert"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/PODwO3sxLAMU9NyffIdYOzxYVW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/raTby3MY67GCHiF1S0VSwq01fds.jpg"
+    },
+    {
+      "id": "tt34798706",
+      "type": "movie",
+      "title": "Extra Geography",
+      "year": 2026,
+      "tmdb_id": 1528830,
+      "poster": "https://image.tmdb.org/t/p/w500/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ptLT3O7XmXOLplR8T0e9ykGcw8l.jpg"
+    },
+    {
+      "id": "tt38213251",
+      "type": "movie",
+      "title": "Heartland",
+      "year": 2026,
+      "tmdb_id": 1543469,
+      "alt_titles": [
+        "HTLD"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella,"
+    },
+    {
+      "id": "tt15095848",
+      "type": "movie",
+      "title": "Being Heumann",
+      "year": 2026,
+      "tmdb_id": 1050981,
+      "alt_titles": [
+        "Ser Heumann",
+        "成为休曼"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bFw3y0v6xl24qxG36ve1ZjNnufo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+      "description": "La valiente Judy Heumann convierte su indignación en revolución. En 1977, manifestantes por los derechos de las personas con discapacidad y ella levantaron la voz: El sistema es el que está roto, nosotros no."
+    },
+    {
+      "id": "tt37675123",
+      "type": "movie",
+      "title": "Allen",
+      "year": 2026,
+      "tmdb_id": 1518204,
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "description": "Veinte años después de su increíble encuentro con un alienígena, Petey sigue estancado en el pasado. Hasta que, por alguna extraña razón, su viejo amigo vuelve..."
+    },
+    {
+      "id": "tt37202764",
+      "type": "movie",
+      "title": "Last Call",
+      "year": 2026,
+      "tmdb_id": 1627624,
+      "alt_titles": [
+        "Τελευταία Κλήση"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cLgbupB4xCyBnGeiDOfYXepM632.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/al0jSjK6p44ayWX8z4K3YS3dbjF.jpg"
+    },
+    {
+      "id": "tt39313557",
+      "type": "movie",
+      "title": "The Christmas Switch",
+      "year": 2026,
+      "tmdb_id": 1757174,
+      "alt_titles": [
+        "El Intercambio Navideño",
+        "Bara till jul"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tNoB9ptCmp8bzdanndxswxrOfG6.jpg",
+      "description": "En Navidad, una joven citadina vuelve a su pueblo a encargarse de la tienda familiar para que su hermana trabaje en Estocolmo…, y a ambas les atrae la idea de empezar de cero."
+    },
+    {
+      "id": "tt38420997",
+      "type": "movie",
+      "title": "The Gospel of Christmas",
+      "year": 2026,
+      "tmdb_id": 1559980,
+      "alt_titles": [
+        "Tyler Perry's The Gospel of Christmas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kzTJg0zhWJRDHJPYEpSqxkFigTv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg"
+    },
+    {
+      "id": "tt46082332",
+      "type": "movie",
+      "title": "Confession",
+      "year": 2026,
+      "tmdb_id": 1772726,
+      "poster": "https://image.tmdb.org/t/p/w500/kPId5qdaCPVOSeZYHaYXFYQmEFy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kLs8iYrujY0IhTSag1wkiiAFpKl.jpg"
+    },
+    {
+      "id": "tt7526136",
+      "type": "movie",
+      "title": "Heart of the Beast",
+      "year": 2026,
+      "tmdb_id": 1263337,
+      "alt_titles": [
+        "El corazón de la bestia",
+        "El corazon de la bestia"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kVDHPDggier9ciMc8Xglinq1jWv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "description": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia contra los elementos."
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "title": "Other Mommy",
+      "year": 2026,
+      "tmdb_id": 1400837,
+      "alt_titles": [
+        "Madre siniestra",
+        "La Otra Madre",
+        "Incidents Around the House"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "description": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia."
+    },
+    {
+      "id": "tt32329539",
+      "type": "movie",
+      "title": "Crawlers",
+      "year": 2026,
+      "tmdb_id": 1376400,
+      "poster": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+      "description": "Los inquilinos de los apartamentos Paradiso Palms luchan contra una invasión de arañas mortales, mientras que el astuto administrador del edificio podría ser su única esperanza de supervivencia."
+    },
+    {
+      "id": "tt39453578",
+      "type": "movie",
+      "title": "The Good Lawyer",
+      "year": 2026,
+      "tmdb_id": 1616419,
+      "alt_titles": [
+        "Un buen abogado",
+        "Un bon avocat"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tVJITyPQXww6DypTDlpILM0Ppzi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "description": "Luego de terminar en rehabilitación por una sobredosis, un abogado tiene una semana para salvar su carrera y prepararse para su propio juicio con la ayuda de una tenaz pasante."
+    },
+    {
+      "id": "tt34385184",
+      "type": "movie",
+      "title": "Misty Green",
+      "year": 2026,
+      "tmdb_id": 1381221,
+      "alt_titles": [
+        "Verde Brumoso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+      "description": "Misty Green, una talentosa actriz, lucha contra las adicciones que le impiden relanzar su carrera. Jordan, un director, le brinda una oportunidad de oro en forma de papel perfecto que, sin embargo, se ve complicada por su turbulenta historia en común."
+    },
+    {
+      "id": "tt39602215",
+      "type": "movie",
+      "title": "The Samurai and the Prisoner",
+      "year": 2026,
+      "tmdb_id": 1620313,
+      "alt_titles": [
+        "黒牢城"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nx7cSoAKzEf0O6mqNbWhjjU9eRz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dk1EJbIBFKByf1ZyoAIm0GNRnl4.jpg"
+    },
+    {
+      "id": "tt39400541",
+      "type": "movie",
+      "title": "One Year to Live, Buy a Man",
+      "year": 2026,
+      "tmdb_id": 1654940,
+      "alt_titles": [
+        "Un poco de compañía antes de morir",
+        "余命一年、男をかう"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4mdyjojUihFbw76GBl6ZO8E8bCh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. "
+    },
+    {
+      "id": "tt13611778",
+      "type": "movie",
+      "title": "The Mongoose",
+      "year": 2026,
+      "tmdb_id": 1294189,
+      "alt_titles": [
+        "La Mangosta"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
+      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida."
+    },
+    {
+      "id": "tt38515310",
+      "type": "movie",
+      "title": "A Dog's Perfect Christmas",
+      "year": 2026,
+      "tmdb_id": 1570488,
+      "alt_titles": [
+        "La razón de estar contigo: Una Navidad perfecta"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Cuando una emergencia médica sacude a la familia Goss, su sabio perro Winstead decide hacer todo lo posible para mantener a sus humanos unidos antes de la Nochebuena."
+    },
+    {
+      "id": "tt27739255",
+      "type": "movie",
+      "title": "Charlie Harper",
+      "year": 2026,
+      "tmdb_id": 1126097,
+      "poster": "https://image.tmdb.org/t/p/w500/9Nf8Pluoi1JrT6S0qDsDMndFnlz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wNj3vgm13CyKb04xIq7NQ8zTY1e.jpg"
+    },
+    {
+      "id": "tt29714073",
+      "type": "movie",
+      "title": "Bad Apples",
+      "year": 2026,
+      "tmdb_id": 1198654,
+      "alt_titles": [
+        "La manzana podrida"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+      "description": "Maria, una maestra de primaria que se esfuerza por motivar a una clase de niños de diez años, se ve obstaculizada por un alumno rebelde y caótico. Con su carrera en juego y el comportamiento del niño volviéndose incontrolable, toma una serie de malas decisiones que la llevan a llevarse accidentalmente a esta \"manzana p"
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "items": [
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "id": "tt33764258",
+      "poster": "https://image.tmdb.org/t/p/w500/sRxbUe5FB25Gde0e2FnwwSckpXb.jpg",
+      "rating": 8.02,
+      "runtime": "173 min",
+      "title": "The Odyssey",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "description": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia contra los elementos.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ],
+      "id": "tt7526136",
+      "poster": "https://image.tmdb.org/t/p/w500/kVDHPDggier9ciMc8Xglinq1jWv.jpg",
+      "rating": 7.843,
+      "runtime": "101 min",
+      "title": "Heart of the Beast",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "description": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "id": "tt35538033",
+      "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "rating": 7.519,
+      "runtime": "94 min",
+      "title": "Resident Evil",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "description": "En esta comedia romántica llena de acción, una guardaespaldas (Leighton Meester) se enamora del famoso actor (Jared Padalecki) al que debe proteger durante Navidad.",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "id": "tt6611324",
+      "poster": "https://image.tmdb.org/t/p/w500/wQUXEPumBrVJR3Fe9h0xnwcnyFp.jpg",
+      "rating": 7.0,
+      "runtime": "109 min",
+      "title": "Guarding Stars",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "id": "tt22084616",
+      "poster": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+      "rating": 8.457,
+      "runtime": "145 min",
+      "title": "Spider-Man: Brand New Day",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/w9AiymbmQGt3jdtsm78HdfKkChy.jpg",
+      "description": "Tras un misterioso suceso cósmico que arranca Oak Street de sus suburbios y transporta su vecindario a un lugar desconocido, la familia Platt pronto se adaptarán a un entorno ahora irreconocible.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ],
+      "id": "tt27165187",
+      "poster": "https://image.tmdb.org/t/p/w500/gaW5bvDp1B8gQraGFNSJNSemKwo.jpg",
+      "rating": 6.997,
+      "runtime": "100 min",
+      "title": "The End of Oak Street",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "description": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia.",
+      "genres": [
+        "Terror"
+      ],
+      "id": "tt36586020",
+      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
+      "rating": 6.487,
+      "runtime": "93 min",
+      "title": "Other Mommy",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+      "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un fastuoso Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que participen en los Hunger Games, que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciséis años, decide sustituir a su hermana en los juegos; pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Acción"
+      ],
+      "id": "tt1392170",
+      "poster": "https://image.tmdb.org/t/p/w500/iBCSJettKNmAfEa4qlqsj3WHyIW.jpg",
+      "rating": 7.227,
+      "runtime": "142 min",
+      "title": "The Hunger Games",
+      "type": "movie",
+      "year": 2012
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década.",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Crimen"
+      ],
+      "id": "tt34206385",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "rating": 6.8,
+      "runtime": "110 min",
+      "title": "Primetime",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/eHaazLxM5LRMh0ySkVy7SK6wUWt.jpg",
+      "description": "Cuando Katniss Everdeen regresa sana y salva a casa tras ganar la 74ª edición anual de los Juegos del Hambre, junto a su compañero tributo Peeta Mellark. Ganar significa tener que dejar atrás a su familia y amigos, para emprender una \"Gira de la Victoria\" por los diferentes distritos. Por el camino, Katniss se da cuenta de que está comenzando a gestarse una rebelión, pero el Capitolio sigue manteniéndolo todo perfectamente bajo control, mientras el presidente Snow prepara la 75ª edición anual de los Juegos del Hambre (El Vasallaje de los Veinticinco), una competición que podría cambiar Panem para siempre...",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "id": "tt1951264",
+      "poster": "https://image.tmdb.org/t/p/w500/3FAZBvsZQFuqJHnWZcrUUtKLEJ3.jpg",
+      "rating": 7.427,
+      "runtime": "146 min",
+      "title": "The Hunger Games: Catching Fire",
+      "type": "movie",
+      "year": 2013
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "description": "Culpada de hacer travesuras mágicas en el Royal Ball, la hermanastra Lilith convierte a su hermana en una rana. Debe trabajar con Cenicienta y un troll para salvar el reino y demostrar que los villanos también merecen un final feliz.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "id": "tt14413964",
+      "poster": "https://image.tmdb.org/t/p/w500/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+      "rating": 6.716,
+      "runtime": "107 min",
+      "title": "Steps",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/bk1TitfD4YIGrM6AvljonMCtfnl.jpg",
+      "description": "Años antes de convertirse en el tiránico Presidente de Panem, el Coriolanus Snow de 18 años es la última esperanza de su desvaneciente linaje, la una vez orgullosa familia que había caído en desgracia en un Capitolio post-guerra. Con los décimos Juegos del Hambre aproximándose rápidamente, el joven Snow se sorprende cuando es asignado como mentor de Lucy Gray Baird, la niña tributo del empobrecido Distrito 12. Pero luego de que Lucy Gray consigue toda la atención de Panem al cantar desafiante durante la ceremonia de la cosecha, Snow piensa que podría dar vuelta su suerte. Uniendo sus instintos de espectáculo y de encontrada astucia política, la carrera de Snow y Lucy Gray para sobrevivir revelerá quién es un pájaro cantor, y quién es una víbora.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "id": "tt10545296",
+      "poster": "https://image.tmdb.org/t/p/w500/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
+      "rating": 6.949,
+      "runtime": "157 min",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "type": "movie",
+      "year": 2023
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansión de los Crawford, Ashleigh descubre poco a poco que las cosas no son exactamente lo que parecen.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "id": "tt32261958",
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "rating": 6.98,
+      "runtime": "117 min",
+      "title": "Verity",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+      "description": "Katniss Everdeen (Jennifer Lawrence) en el Distrito 13 tras, literalmente, destrozar los juegos para siempre. Bajo el liderazgo de la Presidenta Coin (Julianne Moore) y contando con las advertencias de los amigos en quien confía, Katniss expande sus alas al tiempo que lucha por salvar a Peeta (Josh Hutcherson) y a una nación conmovida por su coraje...",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
+      ],
+      "id": "tt1951265",
+      "poster": "https://image.tmdb.org/t/p/w500/c03d7m2AvBrzNRhvBeoqVs9AG01.jpg",
+      "rating": 6.8,
+      "runtime": "122 min",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "type": "movie",
+      "year": 2014
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+      "description": "Inspirada en la vida del aclamado ícono, Madden presenta la trayectoria de John Madden, de ganar el Super Bowl con Al Davis y los Raiders a ser una voz reconocida en el fútbol americano y crear el videojuego Madden NFL. Celebra a una mente brillante, cuyo espíritu y personalidad únicos, junto con el ímpetu de su esposa y su contagioso amor por la gente, trascendieron el mundo del deporte.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Comedia"
+      ],
+      "id": "tt24818230",
+      "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "rating": 6.841,
+      "runtime": "112 min",
+      "title": "Madden",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "description": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el origen del sonido.",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "id": "tt21285562",
+      "poster": "https://image.tmdb.org/t/p/w500/flipeYd0sa4y4kpIc7Pn59JeBIj.jpg",
+      "rating": 7.16,
+      "runtime": "119 min",
+      "title": "The Dog Stars",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qVgLMRVNB5bHU0inmRa0ueShacN.jpg",
+      "description": "Katniss Everdeen (Jennifer Lawrence) se da cuenta de que ya no sólo está en juego su supervivencia, sino también el futuro. Con Panem sumida en una guerra a gran escala, Katniss tendrá que plantar cara al presidente Snow (Donald Sutherland) en el enfrentamiento final. Katniss, acompañada por un grupo de sus mejores amigos, que incluye a Gale (Liam Hemsworth), Finnick (Sam Claflin) y Peeta (Josh Hutcherson), emprende una misión con la unidad del Distrito 13, en la que arriesgan sus vidas para liberar a los ciudadanos de Panem y orquestan un intento de asesinato del presidente Snow, cada vez más obsesionado con destruirla. Las trampas mortales, los enemigos y las decisiones morales que aguardan a Katniss la pondrán en mayores aprietos que ninguna arena de Los Juegos del Hambre.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "id": "tt1951266",
+      "poster": "https://image.tmdb.org/t/p/w500/bxzZnv6zxud4uAwvzABrXHYSWBh.jpg",
+      "rating": 6.9,
+      "runtime": "136 min",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "type": "movie",
+      "year": 2015
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "id": "tt37287335",
+      "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "rating": 8.2,
+      "runtime": "109 min",
+      "title": "Obsession",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "description": "En 1993, los distanciados luchadores Ryu y Ken Masters se ven obligados a volver a la acción cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Fantasía"
+      ],
+      "id": "tt27419420",
+      "poster": "https://image.tmdb.org/t/p/w500/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg",
+      "rating": 6.239,
+      "runtime": "120 min",
+      "title": "Street Fighter",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "id": "tt13611778",
+      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "rating": 6.502,
+      "runtime": "99 min",
+      "title": "The Mongoose",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "description": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "id": "tt38213251",
+      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "rating": 6.201,
+      "runtime": "114 min",
+      "title": "Heartland",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
+      "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "id": "tt1756855",
+      "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "rating": 8.181,
+      "runtime": "103 min",
+      "title": "Coyote vs. Acme",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+      "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "id": "tt12042730",
+      "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+      "rating": 8.6,
+      "runtime": "156 min",
+      "title": "Project Hail Mary",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "description": "Hank es un mensajero encargado de transportar un órgano que puede salvarle la vida a un joven receptor. Pero la misión se vuelve una carrera contra el tiempo cuando un despiadado jefe del crimen hará lo que sea necesario para quedarse con él.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Suspense"
+      ],
+      "id": "tt31349844",
+      "poster": "https://image.tmdb.org/t/p/w500/gxrGVQdFmc3xxVn6UyY31ZjqM0s.jpg",
+      "rating": 8.155,
+      "runtime": "97 min",
+      "title": "Runner",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "description": "Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "id": "tt4154796",
+      "poster": "https://image.tmdb.org/t/p/w500/uIPTS25whXkAAfRqptuPX4y4XiS.jpg",
+      "rating": 8.247,
+      "runtime": "180 min",
+      "title": "Avengers: Endgame",
+      "type": "movie",
+      "year": 2019
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "description": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "id": "tt32338669",
+      "poster": "https://image.tmdb.org/t/p/w500/iHPYm59D7kF8yQr03hewusoyNET.jpg",
+      "rating": 7.6,
+      "runtime": "96 min",
+      "title": "Mutiny",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+      "description": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de dos bribones que se proponen asaltar todas las casas cerradas de su vecindario.",
+      "genres": [
+        "Comedia",
+        "Familia"
+      ],
+      "id": "tt0099785",
+      "poster": "https://image.tmdb.org/t/p/w500/iruzQaa7OHmtb6qKbW278v6Ml4b.jpg",
+      "rating": 7.472,
+      "runtime": "103 min",
+      "title": "Home Alone",
+      "type": "movie",
+      "year": 1990
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "description": "Siglos antes de la aparición del payaso Pennywise en Derry, tres chicos nativos americanos encuentran un aterrador espíritu ancestral en el bosque.",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "id": "tt50389959",
+      "poster": "https://image.tmdb.org/t/p/w500/jmhkSZYcSMVw8IWiNROyWaD3Sal.jpg",
+      "rating": 6.631,
+      "runtime": "30 min",
+      "title": "A Story of Derry",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "description": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ],
+      "id": "tt27369017",
+      "poster": "https://image.tmdb.org/t/p/w500/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+      "rating": 6.858,
+      "runtime": "157 min",
+      "title": "Hope",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+      "description": "Sigue a Jude Derry en una universidad elitista donde busca desenmascarar los secretos de los poderosos hermanos Cash, mientras se ve envuelta en engaños, tensión y un triángulo amoroso.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Suspense"
+      ],
+      "id": "tt18351090",
+      "poster": "https://image.tmdb.org/t/p/w500/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+      "rating": 7.204,
+      "runtime": "108 min",
+      "title": "Perfect Liars",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+      "description": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "id": "tt1160419",
+      "poster": "https://image.tmdb.org/t/p/w500/1Op57Khovv3ANSWn3TvhMStBboV.jpg",
+      "rating": 7.786,
+      "runtime": "155 min",
+      "title": "Dune",
+      "type": "movie",
+      "year": 2021
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+      "description": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visualmente impresionante, ¡El Grinch es diversión para toda la familia!",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "id": "tt2709692",
+      "poster": "https://image.tmdb.org/t/p/w500/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg",
+      "rating": 6.9,
+      "runtime": "85 min",
+      "title": "The Grinch",
+      "type": "movie",
+      "year": 2018
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+      "description": "Jo y Raissa se encuentran varadas en el fantástico mundo de la isla olvidada de Nakali. Descubren que su única forma de volver a casa podría ser a costa de toda una vida de recuerdos y emociones.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ],
+      "id": "tt36583977",
+      "poster": "https://image.tmdb.org/t/p/w500/clw1EmN6OA0AtogU6iFCwBZSCp1.jpg",
+      "rating": 8.054,
+      "runtime": "109 min",
+      "title": "Forgotten Island",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "description": "El matrimonio de Joe y Angela pende de un hilo. Cuando invitan a sus enigmáticos vecinos de arriba a una cena, la noche toma un rumbo inesperado.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+      ],
+      "id": "tt14173636",
+      "poster": "https://image.tmdb.org/t/p/w500/dvMLCv3u989LO1tLLDYMJcK8TZo.jpg",
+      "rating": 7.2,
+      "runtime": "107 min",
+      "title": "The Invite",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Cuando una emergencia médica sacude a la familia Goss, su sabio perro Winstead decide hacer todo lo posible para mantener a sus humanos unidos antes de la Nochebuena.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "id": "tt38515310",
+      "poster": "https://image.tmdb.org/t/p/w500/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
+      "rating": 7.1,
+      "runtime": "102 min",
+      "title": "A Dog's Perfect Christmas",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+      "description": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías?",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "id": "tt15047880",
+      "poster": "https://image.tmdb.org/t/p/w500/8yQ7RDPPBlHMYdIo4ihPkHkOfnY.jpg",
+      "rating": 7.4,
+      "runtime": "146 min",
+      "title": "Disclosure Day",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+      "description": "En el Japón de la posguerra surge un nuevo terror. ¿Podrán sobrevivir las personas devastadas... y mucho menos defenderse?",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "id": "tt23289160",
+      "poster": "https://image.tmdb.org/t/p/w500/5EANtRFXIv4LND2hhsHXATpCegy.jpg",
+      "rating": 7.63,
+      "runtime": "125 min",
+      "title": "Godzilla Minus One",
+      "type": "movie",
+      "year": 2023
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
+      "description": "Un hombre determinado realiza una hazaña desafiando probabilidades casi imposibles para cumplir su sueño de ser el primero en llegar a la cima del Monte Everest.",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Aventura"
+      ],
+      "id": "tt6262770",
+      "poster": "https://image.tmdb.org/t/p/w500/wqLaFFN8Qd88Y5QpfvKu82Kw5iD.jpg",
+      "rating": 8.128,
+      "runtime": "126 min",
+      "title": "Tenzing",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "description": "Cuando Woody logra regresar con Buzz, Jessie y el resto de la pandilla, descubren una nueva amenaza: la tecnología. Un nuevo tiempo de juego para los niños.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ],
+      "id": "tt29355505",
+      "poster": "https://image.tmdb.org/t/p/w500/zkQmhKTszD48vEcjIfwAlqLnGSr.jpg",
+      "rating": 8.239,
+      "runtime": "102 min",
+      "title": "Toy Story 5",
+      "type": "movie",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+      "description": "Cuando una peligrosa banda asalta su remota casa, un veterano atormentado por la culpa debe unir fuerzas con sus nietos, a quienes apenas conoce, para poder sobrevivir.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "id": "tt39370926",
+      "poster": "https://image.tmdb.org/t/p/w500/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "rating": 6.825,
+      "runtime": "140 min",
+      "title": "Never Surrender",
+      "type": "movie",
+      "year": 2026
+    }
+  ]
+}

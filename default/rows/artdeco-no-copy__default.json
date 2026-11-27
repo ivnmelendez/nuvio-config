@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "tt1254207",
+      "type": "movie",
+      "title": "Big Buck Bunny",
+      "year": 2008,
+      "tmdb_id": 10378,
+      "alt_titles": [
+        "El gran conejo",
+        "Big Buck Bunny (Short 2008)"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/i9jJzvoXET4D9pOkoEwncSdNNER.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xtdybjRRZ15mCrPOvEld305myys.jpg",
+      "description": "El conejo que vive en un paraíso bucólico de bonitas praderas, árboles fruteros, pájaros y mariposas, es llevado al límite por la destrucción y crueldad de tres pequeños roedores."
+    },
+    {
+      "id": "tt1727587",
+      "type": "movie",
+      "title": "Sintel",
+      "year": 2010,
+      "tmdb_id": 45745,
+      "poster": "https://image.tmdb.org/t/p/w500/l98Zns4oQe1BSvbF4hJ8oL6VSf0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/msqeiEyIRpPAtrCeRGFNZQ9tkJL.jpg"
+    },
+    {
+      "id": "tt2285752",
+      "type": "movie",
+      "title": "Tears of Steel",
+      "year": 2012,
+      "tmdb_id": 133701,
+      "poster": "https://image.tmdb.org/t/p/w500/8qy3jRmaHR7f8VZh3iXCqCWfFsH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fOy6SL5Zs2PFcNXwqEPIDPrLB1q.jpg"
+    },
+    {
+      "id": "tt4957236",
+      "type": "movie",
+      "title": "Cosmos Laundromat",
+      "year": 2015,
+      "tmdb_id": 358332,
+      "alt_titles": [
+        "Cosmos Laundromat - First Cycle"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5ZXi0oitpEgAdoJglFTc5SZF9nt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/f2wABsgj2lIR2dkDEfBZX8p4Iyk.jpg"
+    },
+    {
+      "id": "tt6914802",
+      "type": "movie",
+      "title": "Agent 327: Operation Barbershop",
+      "year": 2017,
+      "tmdb_id": 457784,
+      "poster": "https://image.tmdb.org/t/p/w500/tSIMZK9XZSIb1dL3iQeTESEZvHw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aupI9kV5CawUp02XWnI2l7Ym9SH.jpg"
+    },
+    {
+      "id": "tt29100749",
+      "type": "movie",
+      "title": "Wing It!",
+      "year": 2023,
+      "tmdb_id": 1177628,
+      "poster": "https://image.tmdb.org/t/p/w500/kVRGAgqUC2u75pLsXgDj14tOsRJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o2G1kW9pCcRo7NmiZhJBm5LcVpH.jpg"
+    },
+    {
+      "id": "tt7993892",
+      "type": "movie",
+      "title": "Caminandes: Llamigos",
+      "year": 2016,
+      "tmdb_id": 406956,
+      "alt_titles": [
+        "Caminandes 3: Llamigos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/753kJbZ5iS7DUomTKX9qF5Cs5NY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tIX2BIhkhoFq1iwtHYzTSbHbe82.jpg"
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "items": [
+    {
+      "id": "tt0117091",
+      "type": "movie",
+      "title": "Mother",
+      "year": 1996,
+      "tmdb_id": 27265,
+      "alt_titles": [
+        "Las manías de mamá"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/mxJJ0IEOOdvMo5yO7rcJBqyZ11n.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aViC67Gyp0BzAQjBcGJsRv2HlB0.jpg"
+    },
+    {
+      "id": "tt9138170",
+      "type": "movie",
+      "title": "Limbo",
+      "year": 2020,
+      "tmdb_id": 554371,
+      "alt_titles": [
+        "En el limbo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1gkXhkAesdep1cC1mSTceccwbOt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sAZqfj8pX9M1vDmeyLtYgbyvWHL.jpg",
+      "description": "En este drama divertido y emotivo, un músico sirio y sus compañeros refugiados son enviados a una isla remota mientras esperan las respuestas a sus solicitudes de asilo."
+    },
+    {
+      "id": "tt1411697",
+      "type": "movie",
+      "title": "The Hangover Part II",
+      "year": 2011,
+      "tmdb_id": 45243,
+      "alt_titles": [
+        "¿Qué Pasó Ayer? Parte II",
+        "Que Paso Ayer 2",
+        "Resacón 2, ¡ahora en Tailandia!",
+        "Qué Paso Ayer? Parte 2"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dzaVnS19yDTkkGZRlf89sND75i7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
+      "description": "El grupo viaja a Tailandia para la boda de Stu. Tras el desastre de su despedida de soltero en Las Vegas el año pasado, Stu prefiere ir a lo seguro con un tranquilo brunch preboda. Sin embargo, nada sale según lo planeado y Bangkok se convierte en el escenario perfecto para otra aventura con este grupo tan alocado."
+    },
+    {
+      "id": "tt1231583",
+      "type": "movie",
+      "title": "Due Date",
+      "year": 2010,
+      "tmdb_id": 41733,
+      "alt_titles": [
+        "Todo un parto",
+        "Salidos de cuentas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/sqHybmI1y6uUnMwZGyaXnGpOLpj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/naV4PO7ftzNThYKGX44F8vRY2z3.jpg",
+      "description": "Peter Highman, un serio arquitecto que está a punto de ser padre, tendrá que cruzar todo Estados Unidos, desde Atlanta hasta Los Ángeles, para asistir al nacimiento de su primer hijo, pero también tendrá que soportar a un excéntrico compañero de viaje."
+    },
+    {
+      "id": "tt0107616",
+      "type": "movie",
+      "title": "Much Ado About Nothing",
+      "year": 1993,
+      "tmdb_id": 11971,
+      "alt_titles": [
+        "Mucho Ruido y Pocas Nueces",
+        "Molt soroll per res"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uo4aje1fYyx4jkwwn05ZPPDvc7w.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dktr46Mbdr2DpHmqe5ruUmiu6qN.jpg",
+      "description": "Adaptación de una comedia de Shakespeare. El Príncipe Don Pedro de Aragón (Denzel Washington) regresa victorioso de una batalla acompañado de su hermano bastardo Don Juan (Keanu Reeves), de Benedicto (Kenneth Branagh) y de Claudio (Robert Sean Leonard), un joven florentino que ha sido colmado de honores por el gran val"
+    },
+    {
+      "id": "tt0102536",
+      "type": "movie",
+      "title": "Night on Earth",
+      "year": 1991,
+      "tmdb_id": 339,
+      "alt_titles": [
+        "Una noche en la tierra"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/dNA14GVmnU2r7isrojCTwzXP9ig.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/s7lwxcX5iZuOdoQhM77WyQaPtWv.jpg",
+      "description": "Película dividida en historias independientes a través de las cuales Jim Jarmusch presenta el panorama nocturno de cinco grandes ciudades (Los Angeles, Nueva York, París, Roma y Helsinki), con un taxi, y lo que en él ocurre desde el anochecer hasta el amanecer de un mismo día, y obviamente con diferentes personajes, co"
+    },
+    {
+      "id": "tt0089907",
+      "type": "movie",
+      "title": "The Return of the Living Dead",
+      "year": 1985,
+      "tmdb_id": 10925,
+      "alt_titles": [
+        "El Regreso de los Muertos Vivientes",
+        "El regreso de los muertos vivos",
+        "Return of the Living Dead"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yZsQ2asRp8mwbGt4WnqnE59pfdT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1FrQyuhqvQm5G1SqTEgpZtrkitd.jpg",
+      "description": "Cuando un torpe par de empleados en un almacén de suministros médicos accidentalmente libera un gas mortal en el aire, los vapores causan que los muertos vuelvan a animarse mientras van en un alboroto en busca de su comida favorita: ¡cerebros!"
+    },
+    {
+      "id": "tt0315327",
+      "type": "movie",
+      "title": "Bruce Almighty",
+      "year": 2003,
+      "tmdb_id": 310,
+      "alt_titles": [
+        "Todopoderoso"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/7GfL6SYdRwJpoDZAsHDG0bOptPV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m0eJc9CwCy5nowYQdNEaxkHHmj4.jpg",
+      "description": "Tras pasar el peor día de su vida, el reportero de televisión Bruce Nolan desafía a Dios reprochándole lo mal que está administrando el mundo. Dios acepta el reto, le otorga todos sus poderes y lo conmina a hacerlo mejor que Él."
+    },
+    {
+      "id": "tt3824648",
+      "type": "movie",
+      "title": "Big Time Adolescence",
+      "year": 2020,
+      "tmdb_id": 539617,
+      "alt_titles": [
+        "Por fin adolescente",
+        "Bendita adolescencia"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/nkYVoSgPECPhuNLhQ5PucYlfPLB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/p4wHM8TrdGpBGqFMptdc03Gj0zx.jpg",
+      "description": "A punto de alcanzar la mayoría de edad, el joven Mo intenta navegar la complicada vida de adolescente. Para ello, sigue los consejos de su problemático mejor amigo, Zeke, un joven hombre que genuinamente lo aprecia, aunque se rige por un comportamiento generalmente destructivo, abandonó la universidad y vende drogas."
+    },
+    {
+      "id": "tt0088930",
+      "type": "movie",
+      "title": "Clue",
+      "year": 1985,
+      "tmdb_id": 15196,
+      "alt_titles": [
+        "¿Quién es el culpable?",
+        "Clue: The Movie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kC5uKt0b9dZwPuuH1P9nImYFhhZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
+      "description": "Un heterogéneo grupo de personas se reúne a cenar en una lujosa mansión y uno de los asistentes aparece muerto durante la velada. Ahora, deben averiguar quién de ellos ha sido el culpable. Una tarea complicada teniendo en cuenta que todos ellos tenían motivos suficientes para cometer el crimen. Película basada en el cé"
+    },
+    {
+      "id": "tt0493405",
+      "type": "movie",
+      "title": "CHiPs",
+      "year": 2017,
+      "tmdb_id": 417644,
+      "alt_titles": [
+        "CHIPS: Patrulla motorizada recargada"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/rtZUq0Ps11e8sGj0xCtPfXyGfX7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nz88EJ2iL1h6K9mpji9RlhYnlWc.jpg",
+      "description": "Las aventuras de dos oficiales de motocicletas de la Patrulla de Caminos de California mientras recorren las autopistas de Los Ángeles."
+    },
+    {
+      "id": "tt30343797",
+      "type": "movie",
+      "title": "Dusty Slay: Workin' Man",
+      "year": 2024,
+      "tmdb_id": 1215417,
+      "alt_titles": [
+        "Workin' Man"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jBZr8tjgcFpmR15LBOFXqcmE5Gg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pNLnx4U832pmRhwp3cDZ12G4t5s.jpg"
+    },
+    {
+      "id": "tt7158430",
+      "type": "movie",
+      "title": "Hearts Beat Loud",
+      "year": 2018,
+      "tmdb_id": 470333,
+      "alt_titles": [
+        "Sonidos del Corazón",
+        "Al Ritmo Del Corazón"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2rXorg6F5pBhdlOP4BFzUQclu6M.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6XznuR5s363S8ZqrqEFO0qXl7V5.jpg",
+      "description": "En el moderno barrio de Red Hook, en Brooklyn, un padre soltero y dueño de la tienda de discos Frank, se está preparando para enviar a su hija Sam a la universidad mientras se ve obligado a cerrar su tienda vintage. Con la esperanza de mantenerse conectado a través de sus pasiones musicales compartidas, Frank insta a S"
+    },
+    {
+      "id": "tt2788710",
+      "type": "movie",
+      "title": "The Interview",
+      "year": 2014,
+      "tmdb_id": 228967,
+      "alt_titles": [
+        "Una loca entrevista"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/bHkF3PQDqnKHdmi2KvdQiFtX8zI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3YKGMZQ0pwQXSBSASeKlfPlkso7.jpg",
+      "description": "Dave Skylark, presentador de un programa de entrevistas, y el productor Aaron Rapoport logran conseguir una entrevista exclusiva con Kim Jong-Un, dictador de Corea del Norte. Sin embargo, la CIA les pide entonces que aprovechen la ocasión para asesinar al déspota."
+    },
+    {
+      "id": "tt0482527",
+      "type": "movie",
+      "title": "It's a Boy Girl Thing",
+      "year": 2006,
+      "tmdb_id": 37725,
+      "alt_titles": [
+        "Ella en mi cuerpo y él en el mio",
+        "Ella en mi cuerpo y él en el mío"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/d97Zdpv16Iz9E8Ih0yOhfxHxH6e.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ieTEC1HsZ69FVR6hcjdrdq3Ale5.jpg",
+      "description": "Dos enemigos de toda la vida despiertan una mañana para descubrir que han intercambiado cuerpos y géneros, y ambos se preparan para arruinar la reputación del otro en la preparatoria."
+    },
+    {
+      "id": "tt0109219",
+      "type": "movie",
+      "title": "Barcelona",
+      "year": 1994,
+      "tmdb_id": 16771,
+      "poster": "https://image.tmdb.org/t/p/w500/kG0zAGG4jlDg4gEkkbmDEVYokPh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gyP4rLbexXLpXIBigzxGPJfZ3G9.jpg"
+    },
+    {
+      "id": "tt0427944",
+      "type": "movie",
+      "title": "Thank You for Smoking",
+      "year": 2005,
+      "tmdb_id": 9388,
+      "alt_titles": [
+        "Gracias por fumar"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/wIOfcMgsgqNqdx2Z0MkLFsfz8SQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bvPsCaurkBk2jzSJXWJJXb0kTCA.jpg",
+      "description": "Nick Naylor, jefe de prensa de una gran compañía de tabaco, dedica su vida a defender los derechos de los fumadores contra la cultura neopuritana dominante. Enfrentado a grupos de defensa de la salud y a un oportunista senador, Nick pasa a la ofensiva como relaciones públicas del consumo de cigarrillos, pero al mismo t"
+    },
+    {
+      "id": "tt1284575",
+      "type": "movie",
+      "title": "Bad Teacher",
+      "year": 2011,
+      "tmdb_id": 52449,
+      "alt_titles": [
+        "Malas enseñanzas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/qGpqTg9c2iQLCHAgDwiK5iJysQP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tSir1KH6WgQNAEDzf50tcrPiPzC.jpg",
+      "description": "Elizabeth es una profesora despiadada, grosera, malhablada y absolutamente irresponsable: bebe, se coloca y sólo piensa en encontrar un buen partido para poder dejar de trabajar. Cuando su prometido la deja, pone en marcha un plan para conquistar a un rico y guapo profesor; pero, para ello, tendrá que competir con la m"
+    },
+    {
+      "id": "tt0356150",
+      "type": "movie",
+      "title": "EuroTrip",
+      "year": 2004,
+      "tmdb_id": 9352,
+      "alt_titles": [
+        "Euroviaje censurado",
+        "Euroviaje",
+        "Euro Trip"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hw3jJDC1I7d8Cu3e75fx30SZESm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kg8na5u6qdCydm7cK7p2I0zQmgr.jpg",
+      "description": "Cuando la berlinense Mieke se declara vía e-mail a un norteamericano Scott, éste la rechaza creyendo que es un hombre. Cuando descubre su error intenta ponerse en contacto con ella, pero resulta imposible. La única forma de conquistarla parece viajar hasta Berlín (Alemania) y para ello, en su viaje le acompañarán su am"
+    },
+    {
+      "id": "tt8591526",
+      "type": "movie",
+      "title": "Fremont",
+      "year": 2023,
+      "tmdb_id": 1048522,
+      "poster": "https://image.tmdb.org/t/p/w500/wJZovPXB3SWL1BL1GyLrCRrk4z9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jai2IePHlNTKwCNoOM5HQgMVUaj.jpg",
+      "description": "Una antigua traductora del ejército, reconvertida en trabajadora de una fábrica de galletas de la suerte, encontrará en ellas un medio para reconectar con el mundo."
+    },
+    {
+      "id": "tt6977338",
+      "type": "movie",
+      "title": "Good Boys",
+      "year": 2019,
+      "tmdb_id": 521777,
+      "alt_titles": [
+        "Chicos Buenos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lZbpGWA1P8k7P6MJXdMDDDS01z9.jpg",
+      "description": "Después de ser invitados a su primera \"fiesta del beso\", tres buenos amigos destrozan por casualidad un dron que tenían prohibido tocar. Para reemplazarlo, se ausentan de clase y toman una serie de decisiones erróneas, involucrándose en un caso que incluye drogas y policía."
+    },
+    {
+      "id": "tt1282140",
+      "type": "movie",
+      "title": "Easy A",
+      "year": 2010,
+      "tmdb_id": 37735,
+      "alt_titles": [
+        "Se dice de mí",
+        "Rumores y Mentiras"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jQIpXLrdXMMjr4zedQ20rI56oSw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+      "description": "El guión, obra del dramaturgo Bert V. Royal, es una versión moderna y en clave estudiantil de “La letra escarlata”, la novela de Nathaniel Hawthorne. Narra la historia de una joven que decide fingir que lleva una vida promiscua, creyendo que así obtendrá algún tipo de beneficio. Sin embargo, las circunstancias se volve"
+    },
+    {
+      "id": "tt1119646",
+      "type": "movie",
+      "title": "The Hangover",
+      "year": 2009,
+      "tmdb_id": 18785,
+      "alt_titles": [
+        "¿Qué Pasó Ayer?",
+        "Resacon En Las Vegas 1",
+        "Hangover"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kZaaJQEi7n3mrBct1H3l2g45Ijb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+      "description": "El novio y tres amigos organizan una despedida de soltero en Las Vegas. Como era de esperar, a la mañana siguiente tienen una resaca tan monumental que no pueden recordar nada de lo ocurrido la noche anterior. Lo más extraordinario es que el novio ha desaparecido y en la suite del hotel se encuentran un tigre y un bebé"
+    },
+    {
+      "id": "tt1086772",
+      "type": "movie",
+      "title": "Blended",
+      "year": 2014,
+      "tmdb_id": 232672,
+      "alt_titles": [
+        "Luna de miel en familia",
+        "The Familymoon"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uKxwN7cNbRlgBR1Rmny58Jd5wut.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g5haoqEqt5VwVwQKEkoXY9zqSxb.jpg",
+      "description": "Un hombre y una mujer va un resort con sus respectivas familias y no pueden ocultar su sorpresa al verse el uno al otro. Ya se conocían, había tenido una cita a ciegas hace algún tiempo, una cita cuyo resultado no había sido para nada satisfactorio. No obstante, contra todo pronóstico, la tracción que entonces no sinti"
+    },
+    {
+      "id": "tt15671028",
+      "type": "movie",
+      "title": "No Hard Feelings",
+      "year": 2023,
+      "tmdb_id": 884605,
+      "alt_titles": [
+        "Hazme el favor",
+        "Sin malos rollos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aUtjDS46VWJm6Tc3Bsk7BAJBwFN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+      "description": "A punto de perder la casa en la que creció, Maddie descubre un intrigante anuncio clasificado de un trabajo: padres helicóptero millonarios buscan a alguien para poder “salir” con su hijo introvertido de 19 años, Percy, antes de que se vaya a la universidad. Para su sorpresa, Maddie, pronto descubre que el extraño Perc"
+    },
+    {
+      "id": "tt1135525",
+      "type": "movie",
+      "title": "The Slammin' Salmon",
+      "year": 2009,
+      "tmdb_id": 34423,
+      "poster": "https://image.tmdb.org/t/p/w500/yX9skMoAc1JAimJFtczEif4f1jS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5eQsXKGVowcKHnZYd9AwOrwGPsH.jpg"
+    },
+    {
+      "id": "tt0398165",
+      "type": "movie",
+      "title": "The Longest Yard",
+      "year": 2005,
+      "tmdb_id": 9291,
+      "alt_titles": [
+        "Golpe Bajo: El Juego Final",
+        "Golpe Bajo",
+        "El clan dels trencalossos"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/hUuCldGYaNhN6VL2DeoMPKACFFn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/63V4wbVah1gnjckPJnSU0ZmOGAW.jpg",
+      "description": "Mariscal de campo pro, Paul Crewe y ex campeón del colegio y entrenador, Nate Scarboro cumple una condena en la misma prisión. Pedido reunir un equipo de presidiarios para tomar las guardias, Crewe alista la ayuda de Scarboro para entrenar a los presidiarios a la victoria en un juego del fútbol 'fijado' para resultar t"
+    },
+    {
+      "id": "tt27367464",
+      "type": "movie",
+      "title": "Kneecap",
+      "year": 2024,
+      "tmdb_id": 1180629,
+      "poster": "https://image.tmdb.org/t/p/w500/sgflb0u8gW8ohjtXoTT52ra3Lhr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/224f3zy21srh9WnBLFU2z3axIFA.jpg"
+    },
+    {
+      "id": "tt0113677",
+      "type": "movie",
+      "title": "Living in Oblivion",
+      "year": 1995,
+      "tmdb_id": 9071,
+      "alt_titles": [
+        "Vivir Rodando",
+        "Viviendo en el olvido"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/FP3ic4Hb52hqQSTbBZlJE8wLXL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",
+      "description": "Película acerca de la filmación de películas. Tiene lugar durante un día de filmación en el set de una película de bajo presupuesto. Es un tributo a todas los cineastas independientes."
+    },
+    {
+      "id": "tt2203939",
+      "type": "movie",
+      "title": "The Other Woman",
+      "year": 2014,
+      "tmdb_id": 193610,
+      "alt_titles": [
+        "¡Mujeres Al Ataque!",
+        "Mujeres al Ataque"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/psmDfJmQdezIdviAlBRKPjGL2gh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/40yTRVLhBuRvDbBChbz3dzbZHO3.jpg",
+      "description": "Tras enterarse de que el hombre con quien sale está casado, una mujer descubre además que tiene mucho en común con su esposa, por lo que ambas deciden vengarse de él y sus infidelidades. Contarán también con la ayuda de su actual amante."
+    },
+    {
+      "id": "tt0215129",
+      "type": "movie",
+      "title": "Road Trip",
+      "year": 2000,
+      "tmdb_id": 9285,
+      "alt_titles": [
+        "Viaje Censurado"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8o5cRXmL371Lt5qmN6rzTPl9vn0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cV0JkbhWNSgfRmENuVMkkDvNgdG.jpg",
+      "description": "Un joven envía por error a su novia una cinta de video donde está grabado él con otra chica. Ayudado por sus amigos iniciarán un viaje deseperado por recuperar el video."
+    },
+    {
+      "id": "tt0302640",
+      "type": "movie",
+      "title": "The Hot Chick",
+      "year": 2002,
+      "tmdb_id": 11852,
+      "alt_titles": [
+        "Este cuerpo no es mío",
+        "Este cuerpo no es el mío"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vK8uTRjiNkJ7P2VINNLxYWiiw0z.jpg",
+      "description": "Una joven adolescente, muy popular y atractiva pero mala, se despierta un día dentro del cuerpo de un hombre. Mientras intenta descubrir qué ha pasado y cómo volver a su estado anterior, se da cuenta entonces de lo cruel y maligna que ha sido con los demás hasta ese momento."
+    },
+    {
+      "id": "tt0115906",
+      "type": "movie",
+      "title": "Citizen Ruth",
+      "year": 1996,
+      "tmdb_id": 13891,
+      "poster": "https://image.tmdb.org/t/p/w500/ncDIFOY7Mcan2gunAivLjIx3Kj1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1PW1QmsdOH7kO95wdoI2YQmTxcC.jpg"
+    },
+    {
+      "id": "tt0118789",
+      "type": "movie",
+      "title": "Buffalo '66",
+      "year": 1998,
+      "tmdb_id": 9464,
+      "alt_titles": [
+        "Búfalo '66",
+        "The Ornit Movie"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/u7mSqUsQyYpEWpovr55XDcT7v3d.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oCcRRoalUWy83x3gqhCIl6pPUAi.jpg",
+      "description": "Es invierno en Buffalo, Nueva York. Billy Brown acaba de salir de la cárcel después de cinco años tras una apuesta poco acertada que no pudo pagar. Sin embargo, ha engañado a sus padres diciéndoles que trabaja para el Gobierno en un importante proyecto y que está casado con una preciosa joven. Desesperado por impresion"
+    },
+    {
+      "id": "tt2404463",
+      "type": "movie",
+      "title": "The Heat",
+      "year": 2013,
+      "tmdb_id": 136795,
+      "alt_titles": [
+        "Chicas Armadas y Peligrosas",
+        "Armadas y peligrosas"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4GYx4r8P73pJgO9NoKRg0mJ4H2o.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c0V8KAiuoWLXf7TfvwHK4yhIfb9.jpg",
+      "description": "Sarah Ashburn es una arrogante detective del FBI que se verá obligada a trabajar a regañadientes junto a Shannon Mullins, una agente de policía de la ciudad de Boston, Massachusetts, de carácter excéntrico e impulsivo. Las dos mujeres tendrán que aprender a resolver sus grandes diferencias, a compartir sus habilidades "
+    },
+    {
+      "id": "tt0445934",
+      "type": "movie",
+      "title": "Blades of Glory",
+      "year": 2007,
+      "tmdb_id": 9955,
+      "alt_titles": [
+        "Patinando a la Gloria"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/1pIxa7pfrdG6vz9AnTFATkIX9il.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/brJ9nYhHNa8EsJRKRkJD4lv9c5j.jpg",
+      "description": "Chazz Michael Michaels y Jimmy MacElroy, rivales acérrimos en patinaje artístico, se pelean tras empatar por la medalla de oro en los campeonatos del mundo. Expulsados de por vida de la competición masculina de patinaje individual, estos rivales encuentran un resquicio legal que les permitirá volver a patinar: Particip"
+    },
+    {
+      "id": "tt1007028",
+      "type": "movie",
+      "title": "Zack and Miri Make a Porno",
+      "year": 2008,
+      "tmdb_id": 10358,
+      "alt_titles": [
+        "Zack y Miri hacen una porno"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/l1DtEqMzlerRn9m3AK4VDZaRxGx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5kPMUjtfDemu8MvKoa37cYoo5iJ.jpg",
+      "description": "Zack y Miri son dos amigos que se conocieron en el instituto y a los que les cuesta afrontar la edad adulta pues, a sus veintimuchos años, se ven inmersos en deudas. Para hacer dinero rápido deciden montar una empresa para grabar porno amateur con sus amigos. Mientras rueden las películas, descubrirán que sentían algo "
+    },
+    {
+      "id": "tt0067482",
+      "type": "movie",
+      "title": "A New Leaf",
+      "year": 1971,
+      "tmdb_id": 36850,
+      "poster": "https://image.tmdb.org/t/p/w500/rjeL29wYY6p0OHGaoFORjXKkwbY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5AfPKd4i7IrPCRRyMU4H0CCfUUJ.jpg"
+    },
+    {
+      "id": "tt1232200",
+      "type": "movie",
+      "title": "That's My Boy",
+      "year": 2012,
+      "tmdb_id": 87428,
+      "alt_titles": [
+        "Ése es mi hijo"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/cjIWPGHQDxmaFLbmn4HUHRunC2f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/p2mJPQc9ADr75RrMtbtBjxRXjj2.jpg",
+      "description": "Donny Berger es un padre que pretende controlar la inminente boda de su hijo Todd, y para ello se muda a vivir con él y su novia Jamie."
+    },
+    {
+      "id": "tt0384793",
+      "type": "movie",
+      "title": "Accepted",
+      "year": 2006,
+      "tmdb_id": 9788,
+      "alt_titles": [
+        "Aceptados",
+        "Admitido"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/ed5W7iDp8BINUPw0bXPStxGxJOh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bKdNEAJ4TEN7w9Y8MgUwiC7F8Xd.jpg",
+      "description": "Cuando un joven de un instituto descubre que ha sido rechazado por todas las universidades en las que pidió el ingreso, decide crear una universidad ficticia para engañar a sus exigentes padres. Pero cuando centenares de estudiantes empiezan a apuntarse a ésta, deberá poner en marcha el más fabuloso engaño para escolar"
+    },
+    {
+      "id": "tt5805752",
+      "type": "movie",
+      "title": "Brigsby Bear",
+      "year": 2017,
+      "tmdb_id": 403431,
+      "poster": "https://image.tmdb.org/t/p/w500/9QepAxHR9am4nKWZqIDpIQjuB5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/t2wxBFRFbbUTy9eDneGN7EvzrVR.jpg",
+      "description": "'Brigsby Bear Adventures' es un programa de televisión infantil que tiene un solo espectador: James. Cuando el programa termina de golpe, la vida de James cambia para siempre, y éste se propone terminar la historia él mismo"
+    },
+    {
+      "id": "tt14849194",
+      "type": "movie",
+      "title": "The Holdovers",
+      "year": 2023,
+      "tmdb_id": 840430,
+      "alt_titles": [
+        "Los que se quedan"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aZj21Kcmazecm6VDBn4bYU4evi3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/57fhbxl9is7W7ur5v6UuvlNsoSg.jpg",
+      "description": "Un instructor cascarrabias en una prestigiosa escuela estadounidense se ve obligado a permanecer en el campus durante las vacaciones de Navidad para cuidar de un grupo de estudiantes que no tienen a dónde ir. Con el tiempo, establece un vínculo inesperado con uno de ellos, un problemático alumno, y con la jefa de cocin"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "items": [
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "description": "En el tranquilo pueblo de Pazos, Aniceto (Miguel Borines) y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo. Mientras Irene lucha por su vida en el hospital, Elías (Tristán Ulloa), un sargento de la Guardia Civil convencido de que Aniceto es el autor del crimen, se enfrenta a un sistema que le parece que no está dispuesto a escuchar sus advertencias ni a proteger a la víctima. Con Aniceto en libertad y la vida de Irene pendiendo de un hilo, ¿saldrá la verdad a la luz antes de que sea demasiado tarde?",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Drama"
+      ],
+      "id": "tt38707741",
+      "poster": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+      "rating": 6.458,
+      "runtime": null,
+      "title": "Murder in Galicia",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "description": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt31842126",
+      "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "rating": 7.742,
+      "runtime": null,
+      "title": "The Good Daughter",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+      "description": "Planificar un gran golpe lleva 12 meses y ejecutarlo 12 horas; si un ladrón no es capturado en un plazo de 12 días, ya no lo atraparán jamás. A través de tres líneas temporales trepidantes, un agente del FBI y un delincuente profesional se enfrentan en un juego mortal del gato y el ratón por toda Europa.",
+      "genres": [
+        "Action & Adventure",
+        "Crimen",
+        "Drama"
+      ],
+      "id": "tt32375763",
+      "poster": "https://image.tmdb.org/t/p/w500/wqiJp937rgCXf2eZRTo5m5dhpp2.jpg",
+      "rating": 6.3,
+      "runtime": null,
+      "title": "12 12 12",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "description": "En la noche de Halloween, un equipo de baile femenino cae en la culpa católica, deseos impíos y visiones fantasmales luego de que una iniciación se va al diablo.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "id": "tt8014982",
+      "poster": "https://image.tmdb.org/t/p/w500/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+      "rating": 7.971,
+      "runtime": null,
+      "title": "The Body",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
+      "description": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado.",
+      "genres": [
+        "Comedia",
+        "Crimen"
+      ],
+      "id": "tt37214564",
+      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+      "rating": 7.762,
+      "runtime": null,
+      "title": "ChiaroScuro",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+      "description": "Noviembre de 1985: el M-19 se toma el Palacio de Justicia en Bogotá, desatando una jornada de violencia que cambiará a Colombia para siempre. Entre el fuego cruzado, rehenes desesperados, un ejército implacable y una guerrilla dispuesta a perderlo todo, la nación presencia por primera vez la guerra destrozando el corazón de la ciudad. Las consecuencias de la toma dejarán una huella indeleble en los sobrevivientes y en las familias que buscarán justicia durante décadas. A las 27 horas de horror le seguirán 40 años de preguntas sin resolver.",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "id": "tt37762350",
+      "poster": "https://image.tmdb.org/t/p/w500/ju6k9yjDo4kmGq2nylFtBCSmfML.jpg",
+      "rating": 7.214,
+      "runtime": null,
+      "title": "Under Siege",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "description": "Loïs llega a Belrose con Max, el amor de su vida. Lane, el creador de la popular aplicación Campus Drivers, es famoso por su falta de apego. Sus caminos no estaban destinados a entrelazarse, pero hay encuentros que cambian todo y reabren viejas heridas. Cuando el amor llega inesperadamente, las certezas desaparecen.",
+      "genres": [
+        "Drama"
+      ],
+      "id": "tt39943756",
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "rating": 7.73,
+      "runtime": null,
+      "title": "Campus Drivers",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
+      "description": "",
+      "genres": [
+        "Drama"
+      ],
+      "id": "tt36982492",
+      "poster": "https://image.tmdb.org/t/p/w500/orMW4drEq3eLZKSiF7KKUq1qhvH.jpg",
+      "rating": 8.6,
+      "runtime": null,
+      "title": "Sunshine through the Rain",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Dr. Dawid Łazarz (interpretado por Leszek Lichota), un brillante neurocirujano de una clínica privada cuya vida y carrera se hunden tras una arriesgada operación fallida. Para rehacer su vida, acepta trabajar en un hospital comarcal con menos recursos y mayor presión asistencial, enfrentándose al choque entre la medicina de élite y la realidad del sistema público.",
+      "genres": [
+        "Drama"
+      ],
+      "id": "tt38681812",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "rating": 7.735,
+      "runtime": null,
+      "title": "Anaesthesia",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "",
+      "genres": [
+        "Documental"
+      ],
+      "id": "tt43681696",
+      "poster": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+      "rating": 7.3,
+      "runtime": null,
+      "title": "Taken: Natalee Holloway",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "description": "Cuando el emperador Sovieshu se enamora de una esclava fugitiva y le pide el divorcio a su esposa, la querida emperatriz Navier, ella lo sorprende con una audaz petición: solo aceptará si le permiten casarse con Heinrey, el príncipe del Reino del Oeste.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "id": "tt39325975",
+      "poster": "https://image.tmdb.org/t/p/w500/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "rating": 8.7,
+      "runtime": null,
+      "title": "The Remarried Empress",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
+      "description": "En un viejo Oeste retrofuturista plagado de forajidos, máquinas y fuerzas sobrenaturales, un padre se convierte en juez, juzgado y verdugo para proteger a su familia.",
+      "genres": [
+        "Animación",
+        "Western",
+        "Sci-Fi & Fantasy"
+      ],
+      "id": "tt39957390",
+      "poster": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg",
+      "rating": 7.85,
+      "runtime": null,
+      "title": "Bass X Machina",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "description": "Agobiado por las deudas, un hombre acepta una serie de lucrativos trabajos de medio tiempo, pero sus esfuerzos por ganar dinero desatan una pesadilla.",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "id": "tt36458668",
+      "poster": "https://image.tmdb.org/t/p/w500/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+      "rating": 7.556,
+      "runtime": null,
+      "title": "Dead-End Job",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+      "description": "Durante sus vacaciones, dos parejas en crisis descubren verdades inquietantes sobre su intercambio de casas y sus anfitriones. Thriller basado en la novela de Stefan Ahnhem.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt42767924",
+      "poster": "https://image.tmdb.org/t/p/w500/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+      "rating": 4.75,
+      "runtime": null,
+      "title": "A Couple of Lies",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "description": "Cuando una víctima del asesino serial Jurek Walter aparece viva, el detective Jonah Lynn corre contra el tiempo para encontrar a una persona desaparecida, mientras su protegida, Saga Bauer, se infiltra para obtener respuestas del asesino.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt26598805",
+      "poster": "https://image.tmdb.org/t/p/w500/iyZbDfI9fdHXT92H475wM0d6kRm.jpg",
+      "rating": 7.641,
+      "runtime": null,
+      "title": "Nocturne",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+      "description": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
+      "genres": [
+        "Documental"
+      ],
+      "id": "tt49250618",
+      "poster": "https://image.tmdb.org/t/p/w500/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+      "rating": 8.385,
+      "runtime": "60 min",
+      "title": "The Fall of El Mayo",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
+      "description": "Desesperada por encontrar una cura para la enfermedad desconocida que afecta a su hija, la coleccionista de arte Lúcia Rossetti recurre a una sanadora espiritual. Cuando Lúcia cae víctima de una estafa, se revela una serie de secretos que entrelazan a dos familias marcadas por el amor.",
+      "genres": [
+        "Drama"
+      ],
+      "id": "tt45854934",
+      "poster": "https://image.tmdb.org/t/p/w500/2xP7n3cQ5cvHaoMqmpAKt86feBl.jpg",
+      "rating": 7.2,
+      "runtime": "45 min",
+      "title": "The Gift of Deceit",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "description": "Serie documental que narra el éxito, el activismo público y la trágica muerte de la querida estrella de «Friends» mediante testimonios de sus seres cercanos.",
+      "genres": [
+        "Documental"
+      ],
+      "id": "tt44941753",
+      "poster": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "rating": 7.537,
+      "runtime": "60 min",
+      "title": "The One About Matthew Perry",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+      "description": "Un grupo de jóvenes intentan sacar adelante una pizzería mientras lidian con la escuela y la autoridad. Basada en la popular miniserie web.",
+      "genres": [
+        "Comedia"
+      ],
+      "id": "tt42220724",
+      "poster": "https://image.tmdb.org/t/p/w500/neEKHIaWcyhwuvv0HXF5Ig6RmXH.jpg",
+      "rating": 7.3,
+      "runtime": null,
+      "title": "Minimum Wage",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/n0RJ41WxoROYkKOdJP0NU1hEktJ.jpg",
+      "description": "",
+      "genres": [
+        "Comedia"
+      ],
+      "id": "tt39469996",
+      "poster": "https://image.tmdb.org/t/p/w500/9ZAPU2IRSdI9xdVb42z2F1momJc.jpg",
+      "rating": 5.6,
+      "runtime": null,
+      "title": "Newlyweds",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "description": "",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Misterio"
+      ],
+      "id": "tt39980704",
+      "poster": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "rating": 7.0,
+      "runtime": null,
+      "title": "YAGA",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "description": "",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "id": "tt39387986",
+      "poster": "https://image.tmdb.org/t/p/w500/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+      "rating": 6.3,
+      "runtime": null,
+      "title": "Fading Grandeur",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
+      "description": "",
+      "genres": [
+        "Comedia"
+      ],
+      "id": "tt35926686",
+      "poster": "https://image.tmdb.org/t/p/w500/xm3NMFDjgPRjgCmH5uo3LuVZYBX.jpg",
+      "rating": 6.222,
+      "runtime": null,
+      "title": "It Gets Worse",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+      "description": "Tras despertarse de un extraño accidente automovilístico, Sonny descubre que su madre ha sido sustituida por un impostor.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt21952924",
+      "poster": "https://image.tmdb.org/t/p/w500/xuZFtTtGfDcphMDur84Cr3EKcc6.jpg",
+      "rating": 7.192,
+      "runtime": null,
+      "title": "Phony",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+      "description": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Crimen"
+      ],
+      "id": "tt45246384",
+      "poster": "https://image.tmdb.org/t/p/w500/I91Lf9144zcXXpTsKrEuGCq3nt.jpg",
+      "rating": 8.952,
+      "runtime": null,
+      "title": "Love in Disguise",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+      "description": "Cuatro parejas. Un juego sexy. El primer amor de Anna volvió. En una reunión, el grupo decide jugar el juego de las llaves: deben elegir una y pasar la noche con el dueño de la llave. Sin compromisos. Sin sentimientos. ¿Es posible? Confianza, celos, deseos ocultos, momentos graciosos y sexo caliente. El juego desata más de lo esperado, y todos confrontan una pregunta: ¿qué me hace realmente feliz?",
+      "genres": [
+        "Drama"
+      ],
+      "id": "tt37180305",
+      "poster": "https://image.tmdb.org/t/p/w500/2XVAJEE6FGUPei4yaFYnMR5TU09.jpg",
+      "rating": 8.0,
+      "runtime": null,
+      "title": "Friends Sex and Games",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "description": "Pam Voorhees, madre soltera, no ha podido superar el dolor tras la trágica muerte por ahogamiento de su hijo pequeño y enfermizo, Jason, en el lago del pueblo hace casi un año. Cuando dos desconocidos llegan a su casa indagando en su pasado, se desencadena una inquietante cadena de acontecimientos que deja a los habitantes de Crystal Lake preguntándose: ¿quién es realmente Pam Voorhees?",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt23148340",
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": 8.539,
+      "runtime": null,
+      "title": "Crystal Lake",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+      "description": "¡Comienzan las clases en Hollywood Arts! La autoproclamada estrella Trina Vega vuelve para llevar a los alumnos al estrellato, al reconocimiento... y al caos.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Familia"
+      ],
+      "id": "tt35673115",
+      "poster": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg",
+      "rating": 6.929,
+      "runtime": null,
+      "title": "Hollywood Arts",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "description": "Una versión reiniciada de Visión se ha estado escondiendo de aquellos que pretenden usarlo como un arma. Mientras permanece oculto, consulta a las personalidades de IA integradas en su programación —incluyendo al infame Ultrón— para comprender su verdadero propósito.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "id": "tt23112594",
+      "poster": "https://image.tmdb.org/t/p/w500/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
+      "rating": 8.23,
+      "runtime": null,
+      "title": "VisionQuest",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+      "description": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt36470958",
+      "poster": "https://image.tmdb.org/t/p/w500/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
+      "rating": 6.256,
+      "runtime": null,
+      "title": "The Trap",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/5vq3s6js8xkKKa8dudCclr9Xs6z.jpg",
+      "description": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
+      "genres": [
+        "Action & Adventure"
+      ],
+      "id": "tt40385667",
+      "poster": "https://image.tmdb.org/t/p/w500/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+      "rating": 6.637,
+      "runtime": null,
+      "title": "Treasure Island",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+      "description": "La reapertura de un misterioso caso de asesinato sin resolver de 1985 en Luisiana saca a la luz una inquietante historia de derramamiento de sangre y traumas ocultos durante mucho tiempo.",
+      "genres": [
+        "Documental"
+      ],
+      "id": "tt46683025",
+      "poster": "https://image.tmdb.org/t/p/w500/mqJ2SwlEHBzAFykQXt820xmyUMF.jpg",
+      "rating": 7.182,
+      "runtime": null,
+      "title": "The Pet Cemetery Murders: A Ghost Story",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/yeMmiOzXkAdbbRgy2W41H3c2lLQ.jpg",
+      "description": "Con la esperanza de conseguir su libertad, la mejor carterista de Gyeongseong se infiltra en el Gobierno colonial japonés para robar secretos, pero se enamora del hijo de su objetivo.",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "id": "tt39201866",
+      "poster": "https://image.tmdb.org/t/p/w500/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+      "rating": 8.8,
+      "runtime": null,
+      "title": "100 Days of Deception",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+      "description": "Tras un cataclismo global una niña descubre que es el nuevo Avatar - ahora señalada como la Destructora, no una salvadora. Cazada por humanos y espíritus, ella y su gemela perdida deben descubrir sus orígenes y salvar a la humanidad del colapso.",
+      "genres": [
+        "Animación",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "id": "tt35854736",
+      "poster": "https://image.tmdb.org/t/p/w500/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+      "rating": 8.9,
+      "runtime": null,
+      "title": "Avatar: Seven Havens",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
+      "description": "Cuando un heredero con un corazón artificial conoce a una mujer —literalmente— eléctrica, hacen un trato que hará latir su corazón en más de un sentido.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedia",
+        "Drama"
+      ],
+      "id": "tt37737331",
+      "poster": "https://image.tmdb.org/t/p/w500/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+      "rating": 8.59,
+      "runtime": null,
+      "title": "Take Charge of My Heart",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "description": "En un hospital dominado por el ego y la corrupción, llega una cirujana enigmática pero brillante que asume casos aparentemente imposibles en medio de una feroz oposición.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Crimen"
+      ],
+      "id": "tt39328047",
+      "poster": "https://image.tmdb.org/t/p/w500/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+      "rating": 8.588,
+      "runtime": null,
+      "title": "Doctor X: Mafia in White",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "description": "Cuando una misteriosa criatura marina aterroriza a un pueblo costero canadiense, un recio pescador y su familia luchan por proteger a su comunidad.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "id": "tt35934755",
+      "poster": "https://image.tmdb.org/t/p/w500/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "rating": 7.048,
+      "runtime": null,
+      "title": "Below",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "description": "Tras la repentina y prematura muerte de su padre, Carrie se ve obligada a enfrentarse al despiadado mundo de la preparatoria pública. Además de lidiar con un caso de acoso que se vuelve viral por toda su comunidad y la era de las redes sociales, llena de presión constante y crueldad cotidiana, también descubre los misteriosos poderes telequinésicos que despiertan junto con su adolescencia.",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "id": "tt11540908",
+      "poster": "https://image.tmdb.org/t/p/w500/sSFwvLI4rVqRil8J2cZOM3rOYGv.jpg",
+      "rating": 8.228,
+      "runtime": null,
+      "title": "Carrie",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/wLL8oRsz9XGFQpnCpgi8S0Pj6sO.jpg",
+      "description": "",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "id": "tt41814550",
+      "poster": "https://image.tmdb.org/t/p/w500/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+      "rating": 6.8,
+      "runtime": null,
+      "title": "NCIS: New York",
+      "type": "series",
+      "year": 2026
+    },
+    {
+      "background": "https://image.tmdb.org/t/p/w1280/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+      "description": "",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "id": "tt39087958",
+      "poster": "https://image.tmdb.org/t/p/w500/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
+      "rating": 8.7,
+      "runtime": "70 min",
+      "title": "Between Steps",
+      "type": "series",
+      "year": 2026
+    }
+  ]
+}
