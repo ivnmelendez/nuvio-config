@@ -118,12 +118,12 @@
       "titleEn": "Comedy",
       "rows": [
         {
+          "file": "default/rows/trakt-users-amohr-lists-teen-sex-comedy-movies__default.json",
           "limit": 40,
           "list": "trakt:users/amohr/lists/teen-sex-comedy-movies",
           "sort": "default",
           "title": "Comedia Adolescente",
-          "titleEn": "Teen Comedy",
-          "file": "default/rows/trakt-users-amohr-lists-teen-sex-comedy-movies__default.json"
+          "titleEn": "Teen Comedy"
         }
       ]
     }
