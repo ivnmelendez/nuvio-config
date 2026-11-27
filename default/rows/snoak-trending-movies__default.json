@@ -28,20 +28,6 @@
       "description": "Odiseo, el legendario rey de Ítaca, emprende un largo y peligroso viaje de regreso a casa tras la guerra de Troya. A lo largo de su travesía, se ve obligado a enfrentarse a los caprichos de los dioses, a monstruos mitológicos y a pruebas que ponen a prueba su astucia y su humanidad hasta el límite."
     },
     {
-      "id": "tt32558705",
-      "type": "movie",
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "year": 2026,
-      "tmdb_id": 1300968,
-      "alt_titles": [
-        "Los Juegos del Hambre: Amanecer en la cosecha",
-        "The Hunger Games 6"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "description": "Ambientada décadas antes de los eventos liderados por Katniss y Peeta, la historia sigue a Haymitch Abernathy, el enigmático ganador del 50° Torneo de Los juegos del hambre, en una versión más brutal y decisiva de la competencia. La película también mostrará la primera aparición televisiva de Caesar Flickerman, cuya co"
-    },
-    {
       "id": "tt6611324",
       "type": "movie",
       "title": "Guarding Stars",
@@ -68,18 +54,18 @@
       "description": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
     },
     {
-      "id": "tt37510326",
+      "id": "tt32558705",
       "type": "movie",
-      "title": "The Social Reckoning",
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": 2026,
-      "tmdb_id": 1281331,
+      "tmdb_id": 1300968,
       "alt_titles": [
-        "El poder de la red",
-        "The Social Network Part 2"
+        "Los Juegos del Hambre: Amanecer en la cosecha",
+        "The Hunger Games 6"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/ls1KWflioSJgCcKhDr6ykvYmgbI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "description": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
+      "poster": "https://image.tmdb.org/t/p/w500/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "description": "Ambientada décadas antes de los eventos liderados por Katniss y Peeta, la historia sigue a Haymitch Abernathy, el enigmático ganador del 50° Torneo de Los juegos del hambre, en una versión más brutal y decisiva de la competencia. La película también mostrará la primera aparición televisiva de Caesar Flickerman, cuya co"
     },
     {
       "id": "tt7526136",
@@ -96,31 +82,31 @@
       "description": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia contra los elementos."
     },
     {
-      "id": "tt39316936",
+      "id": "tt32213169",
       "type": "movie",
-      "title": "Clashing Through the Snow",
+      "title": "Way of the Warrior Kid",
       "year": 2026,
-      "tmdb_id": 1611767,
+      "tmdb_id": 1280115,
       "alt_titles": [
-        "Rivales en la nieve",
-        "Bronca Navidad"
+        "El camino del pequeño guerrero"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/1oljTBjhbuIzd6UDRAhVpvbxxnY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
-      "description": "Los editores rivales Ryan Mitchell y Hannah Hendricks quedan atrapados en una tormenta de nieve y deben compartir un auto alquilado para ir a Nueva York, donde los espera un contrato que salvará sus carreras. Se acumulan los percances en el camino y las desviaciones obligadas, mas el espíritu navideño derrite su feroz "
+      "poster": "https://image.tmdb.org/t/p/w500/uh9hCepFpB2xvLUeYSZKrjcjnvk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "description": "Jake es un SEAL herido que se vuelve el mentor de su tímido sobrino, Marc. Jake usa principios militares para enseñarle a Marc a ser un pequeño guerrero al entrar a la secundaria."
     },
     {
-      "id": "tt35538033",
+      "id": "tt37510326",
       "type": "movie",
-      "title": "Resident Evil",
+      "title": "The Social Reckoning",
       "year": 2026,
-      "tmdb_id": 1423191,
+      "tmdb_id": 1281331,
       "alt_titles": [
-        "Resident Evil: Noche cero"
+        "El poder de la red",
+        "The Social Network Part 2"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "description": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir."
+      "poster": "https://image.tmdb.org/t/p/w500/ls1KWflioSJgCcKhDr6ykvYmgbI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "description": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
     },
     {
       "id": "tt22084616",
@@ -137,31 +123,31 @@
       "description": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado."
     },
     {
-      "id": "tt32213169",
+      "id": "tt35538033",
       "type": "movie",
-      "title": "Way of the Warrior Kid",
+      "title": "Resident Evil",
       "year": 2026,
-      "tmdb_id": 1280115,
+      "tmdb_id": 1423191,
       "alt_titles": [
-        "El camino del pequeño guerrero"
+        "Resident Evil: Noche cero"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/uh9hCepFpB2xvLUeYSZKrjcjnvk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
-      "description": "Jake es un SEAL herido que se vuelve el mentor de su tímido sobrino, Marc. Jake usa principios militares para enseñarle a Marc a ser un pequeño guerrero al entrar a la secundaria."
+      "poster": "https://image.tmdb.org/t/p/w500/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "description": "Un desafortunado mensajero, encargado de entregar un paquete a un hospital remoto, se ve atrapado en medio de un brote y debe luchar contra hordas de criaturas mutantes para sobrevivir."
     },
     {
-      "id": "tt1392170",
+      "id": "tt39316936",
       "type": "movie",
-      "title": "The Hunger Games",
-      "year": 2012,
-      "tmdb_id": 70160,
+      "title": "Clashing Through the Snow",
+      "year": 2026,
+      "tmdb_id": 1611767,
       "alt_titles": [
-        "Los juegos del hambre",
-        "The Hunger Games 1"
+        "Rivales en la nieve",
+        "Bronca Navidad"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/iBCSJettKNmAfEa4qlqsj3WHyIW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
-      "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un fastuoso Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que part"
+      "poster": "https://image.tmdb.org/t/p/w500/1oljTBjhbuIzd6UDRAhVpvbxxnY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "description": "Los editores rivales Ryan Mitchell y Hannah Hendricks quedan atrapados en una tormenta de nieve y deben compartir un auto alquilado para ir a Nueva York, donde los espera un contrato que salvará sus carreras. Se acumulan los percances en el camino y las desviaciones obligadas, mas el espíritu navideño derrite su feroz "
     },
     {
       "id": "tt14413964",
@@ -184,6 +170,44 @@
       "tmdb_id": 1496696,
       "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/jcM2nzRn8lIi3q3mQPxoWsqOUa8.jpg"
+    },
+    {
+      "id": "tt1392170",
+      "type": "movie",
+      "title": "The Hunger Games",
+      "year": 2012,
+      "tmdb_id": 70160,
+      "alt_titles": [
+        "Los juegos del hambre",
+        "The Hunger Games 1"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/iBCSJettKNmAfEa4qlqsj3WHyIW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+      "description": "Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un fastuoso Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica entre los doce y los dieciocho años para que part"
+    },
+    {
+      "id": "tt36413910",
+      "type": "movie",
+      "title": "The Mosquito Bowl",
+      "year": 2026,
+      "tmdb_id": 1458300,
+      "alt_titles": [
+        "Mosquito Bowl"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg"
+    },
+    {
+      "id": "tt0068359",
+      "type": "movie",
+      "title": "A Charlie Brown Thanksgiving",
+      "year": 1973,
+      "tmdb_id": 13479,
+      "alt_titles": [
+        "El Día de Acción de Gracias de Charlie Brown"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/opVOb407K1kPTh1KrCy7VvnURw5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg"
     },
     {
       "id": "tt1951264",
@@ -213,18 +237,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/bk1TitfD4YIGrM6AvljonMCtfnl.jpg",
       "description": "Años antes de convertirse en el tiránico Presidente de Panem, el Coriolanus Snow de 18 años es la última esperanza de su desvaneciente linaje, la una vez orgullosa familia que había caído en desgracia en un Capitolio post-guerra. Con los décimos Juegos del Hambre aproximándose rápidamente, el joven Snow se sorprende cu"
-    },
-    {
-      "id": "tt36413910",
-      "type": "movie",
-      "title": "The Mosquito Bowl",
-      "year": 2026,
-      "tmdb_id": 1458300,
-      "alt_titles": [
-        "Mosquito Bowl"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg"
     },
     {
       "id": "tt27165187",
@@ -257,6 +269,36 @@
       "description": "Katniss Everdeen (Jennifer Lawrence) en el Distrito 13 tras, literalmente, destrozar los juegos para siempre. Bajo el liderazgo de la Presidenta Coin (Julianne Moore) y contando con las advertencias de los amigos en quien confía, Katniss expande sus alas al tiempo que lucha por salvar a Peeta (Josh Hutcherson) y a una "
     },
     {
+      "id": "tt0093748",
+      "type": "movie",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987,
+      "tmdb_id": 2609,
+      "alt_titles": [
+        "Nada en Común",
+        "Mejor solo que mal acompañado",
+        "Planes, Trains & Automobiles"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4Gpwo0Jqjvl5PIbvcEjRsmabBoX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+      "description": "Neal Page, un ejecutivo quien viaja a New York por negocios, por aras del destino conoce a Del Griffith, un excéntrico y empático vendedor de cortinas quien le hace perder el viaje a Chicago donde está su hogar, Page se da cuenta que Griffith vive en un mundo gobernado por un tipo de reglas opuestas a su ordenado estil"
+    },
+    {
+      "id": "tt36586020",
+      "type": "movie",
+      "title": "Other Mommy",
+      "year": 2026,
+      "tmdb_id": 1400837,
+      "alt_titles": [
+        "Madre siniestra",
+        "La Otra Madre",
+        "Incidents Around the House"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "description": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia."
+    },
+    {
       "id": "tt1951266",
       "type": "movie",
       "title": "The Hunger Games: Mockingjay - Part 2",
@@ -273,19 +315,18 @@
       "description": "Katniss Everdeen (Jennifer Lawrence) se da cuenta de que ya no sólo está en juego su supervivencia, sino también el futuro. Con Panem sumida en una guerra a gran escala, Katniss tendrá que plantar cara al presidente Snow (Donald Sutherland) en el enfrentamiento final. Katniss, acompañada por un grupo de sus mejores ami"
     },
     {
-      "id": "tt36586020",
+      "id": "tt34966140",
       "type": "movie",
-      "title": "Other Mommy",
+      "title": "Focker In-Law",
       "year": 2026,
-      "tmdb_id": 1400837,
+      "tmdb_id": 1400336,
       "alt_titles": [
-        "Madre siniestra",
-        "La Otra Madre",
-        "Incidents Around the House"
+        "La nueva Focker",
+        "Focker-in-Law"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/vnQtwToGRWTuHdLltq3hNdbXkii.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-      "description": "Bela, una niña de ocho años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama «otra mamá», se vuelve cada vez más amenazante para ella y su familia."
+      "poster": "https://image.tmdb.org/t/p/w500/kiagXCuuvdE28GspcvOXlfFI0J3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+      "description": "Henry, el hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
     },
     {
       "id": "tt0099785",
@@ -314,18 +355,18 @@
       "description": "En 2006, el presentador Chris Hansen de NBC se propuso hacer historia en la televisión con el programa To Catch a Predator, convirtiendo una investigación encubierta de horario estelar en uno de los fenómenos culturales más controvertidos de la década."
     },
     {
-      "id": "tt34966140",
+      "id": "tt14129116",
       "type": "movie",
-      "title": "Focker In-Law",
+      "title": "A Talent for Murder",
       "year": 2026,
-      "tmdb_id": 1400336,
+      "tmdb_id": 1084409,
       "alt_titles": [
-        "La nueva Focker",
-        "Focker-in-Law"
+        "Maestros Del Crimen",
+        "Talento para matar"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/kiagXCuuvdE28GspcvOXlfFI0J3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-      "description": "Henry, el hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
+      "description": "Un joven viaja de Nueva York a Suiza para intentar convencer a la aclamada autora de novelas de suspense Patricia Highsmith de que escriba una última entrega de su serie sobre Tom Ripley; sus esfuerzos, sin embargo, van tornándose poco a poco más siniestros."
     },
     {
       "id": "tt4154796",
@@ -343,19 +384,6 @@
       "description": "Después de los devastadores eventos de los Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo."
     },
     {
-      "id": "tt32261958",
-      "type": "movie",
-      "title": "Verity",
-      "year": 2026,
-      "tmdb_id": 1283515,
-      "alt_titles": [
-        "Verity: La sombra de un engaño"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansió"
-    },
-    {
       "id": "tt12042730",
       "type": "movie",
       "title": "Project Hail Mary",
@@ -368,6 +396,19 @@
       "poster": "https://image.tmdb.org/t/p/w500/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
       "description": "El profesor de ciencias Ryland Grace despierta en una nave espacial a años luz de su hogar sin recordar quién es ni cómo llegó allí. A medida que recupera la memoria, comienza a descubrir su misión: resolver el enigma de la misteriosa sustancia que está causando la extinción del sol."
+    },
+    {
+      "id": "tt32261958",
+      "type": "movie",
+      "title": "Verity",
+      "year": 2026,
+      "tmdb_id": 1283515,
+      "alt_titles": [
+        "Verity: La sombra de un engaño"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "description": "La escritora en apuros Lowen Ashleigh está al borde de la ruina financiera cuando acepta la oferta de su vida: ha sido contratada para completar los libros restantes de una exitosa serie que la autora de thrillers superventas, Verity Crawford, no puede terminar tras un misterioso accidente. Al llegar a la lujosa mansió"
     },
     {
       "id": "tt21285562",
@@ -384,20 +425,6 @@
       "description": "Tras la devastación mundial causada por una pandemia, un hombre vive una existencia solitaria en un hangar de aviones en Colorado con su perro y un hosco pistolero con quien ha entablado amistad. Cuando escucha una misteriosa transmisión por radio mientras vuela su viejo Cessna, comienza una búsqueda para descubrir el "
     },
     {
-      "id": "tt14129116",
-      "type": "movie",
-      "title": "A Talent for Murder",
-      "year": 2026,
-      "tmdb_id": 1084409,
-      "alt_titles": [
-        "Maestros Del Crimen",
-        "Talento para matar"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
-      "description": "Un joven viaja de Nueva York a Suiza para intentar convencer a la aclamada autora de novelas de suspense Patricia Highsmith de que escriba una última entrega de su serie sobre Tom Ripley; sus esfuerzos, sin embargo, van tornándose poco a poco más siniestros."
-    },
-    {
       "id": "tt24818230",
       "type": "movie",
       "title": "Madden",
@@ -406,34 +433,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
       "description": "Inspirada en la vida del aclamado ícono, Madden presenta la trayectoria de John Madden, de ganar el Super Bowl con Al Davis y los Raiders a ser una voz reconocida en el fútbol americano y crear el videojuego Madden NFL. Celebra a una mente brillante, cuyo espíritu y personalidad únicos, junto con el ímpetu de su esposa"
-    },
-    {
-      "id": "tt29256561",
-      "type": "movie",
-      "title": "The Beast",
-      "year": 2026,
-      "tmdb_id": 1185344,
-      "alt_titles": [
-        "La bestia bajo fuego"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/31Xvjl1aYKd7sBwUmV0VJYiIly2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
-      "description": "Cuando una milicia de hostiles no identificados coordina un golpe de Estado contra Estados Unidos, el presidente debe contraatacar empleando las capacidades ofensivas —altamente clasificadas— de su limusina blindada, apodada «La Bestia»."
-    },
-    {
-      "id": "tt0093748",
-      "type": "movie",
-      "title": "Planes, Trains and Automobiles",
-      "year": 1987,
-      "tmdb_id": 2609,
-      "alt_titles": [
-        "Nada en Común",
-        "Mejor solo que mal acompañado",
-        "Planes, Trains & Automobiles"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/4Gpwo0Jqjvl5PIbvcEjRsmabBoX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
-      "description": "Neal Page, un ejecutivo quien viaja a New York por negocios, por aras del destino conoce a Del Griffith, un excéntrico y empático vendedor de cortinas quien le hace perder el viaje a Chicago donde está su hogar, Page se da cuenta que Griffith vive en un mundo gobernado por un tipo de reglas opuestas a su ordenado estil"
     },
     {
       "id": "tt1756855",
@@ -447,34 +446,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg",
       "description": "Luego de que los productos Acme le fallan demasiadas veces en su tenaz búsqueda del Correcaminos, Wile E. Coyote decide contratar a un abogado especializado en vallas publicitarias para demandar a Acme Corporation."
-    },
-    {
-      "id": "tt13611778",
-      "type": "movie",
-      "title": "The Mongoose",
-      "year": 2026,
-      "tmdb_id": 1294189,
-      "alt_titles": [
-        "La Mangosta"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
-      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida."
-    },
-    {
-      "id": "tt10676052",
-      "type": "movie",
-      "title": "The Fantastic 4: First Steps",
-      "year": 2025,
-      "tmdb_id": 617126,
-      "alt_titles": [
-        "Los 4 Fantásticos: Primeros pasos",
-        "Los cuatro Fantásticos de Marvel Studios",
-        "Blue Moon"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/lESwYExnRVCDscOmdvklWxZgWUp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-      "description": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enig"
     },
     {
       "id": "tt2709692",
@@ -492,26 +463,17 @@
       "description": "Illumination y Universal Pictures presentan El Grinch, basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visual"
     },
     {
-      "id": "tt0068359",
+      "id": "tt29256561",
       "type": "movie",
-      "title": "A Charlie Brown Thanksgiving",
-      "year": 1973,
-      "tmdb_id": 13479,
-      "alt_titles": [
-        "El Día de Acción de Gracias de Charlie Brown"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/opVOb407K1kPTh1KrCy7VvnURw5.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg"
-    },
-    {
-      "id": "tt27419420",
-      "type": "movie",
-      "title": "Street Fighter",
+      "title": "The Beast",
       "year": 2026,
-      "tmdb_id": 1153576,
-      "poster": "https://image.tmdb.org/t/p/w500/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "description": "En 1993, los distanciados luchadores Ryu y Ken Masters se ven obligados a volver a la acción cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros."
+      "tmdb_id": 1185344,
+      "alt_titles": [
+        "La bestia bajo fuego"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/31Xvjl1aYKd7sBwUmV0VJYiIly2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r5RYEmZzm1Z6imS7XfiKPnMlyc7.jpg",
+      "description": "Cuando una milicia de hostiles no identificados coordina un golpe de Estado contra Estados Unidos, el presidente debe contraatacar empleando las capacidades ofensivas —altamente clasificadas— de su limusina blindada, apodada «La Bestia»."
     },
     {
       "id": "tt37287335",
@@ -525,6 +487,44 @@
       "poster": "https://image.tmdb.org/t/p/w500/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "description": "Tras romper el misterioso \"Sauce de un Deseo\" para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pedía, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro."
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "tmdb_id": 617126,
+      "alt_titles": [
+        "Los 4 Fantásticos: Primeros pasos",
+        "Los cuatro Fantásticos de Marvel Studios",
+        "Blue Moon"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lESwYExnRVCDscOmdvklWxZgWUp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "description": "Con un estruendoso trasfondo en un mundo retrofuturista inspirado en los años 60, la Primera Familia de Marvel enfrenta su desafío más intimidante hasta ahora. Obligados a equilibrar sus roles como héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios espacial llamado Galactus y su enig"
+    },
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "title": "Street Fighter",
+      "year": 2026,
+      "tmdb_id": 1153576,
+      "poster": "https://image.tmdb.org/t/p/w500/j9Ukn1hRqSyv5qhHgDHd1s1Dhsg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "description": "En 1993, los distanciados luchadores Ryu y Ken Masters se ven obligados a volver a la acción cuando la misteriosa Chun-Li los recluta para el próximo Torneo Mundial de Guerreros."
+    },
+    {
+      "id": "tt13611778",
+      "type": "movie",
+      "title": "The Mongoose",
+      "year": 2026,
+      "tmdb_id": 1294189,
+      "alt_titles": [
+        "La Mangosta"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uAe2LEuZ2xg312FY7D8Ei4bl0aG.jpg",
+      "description": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida."
     },
     {
       "id": "tt15239678",
@@ -543,19 +543,18 @@
       "description": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede "
     },
     {
-      "id": "tt1160419",
+      "id": "tt4154756",
       "type": "movie",
-      "title": "Dune",
-      "year": 2021,
-      "tmdb_id": 438631,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "tmdb_id": 299536,
       "alt_titles": [
-        "Duna",
-        "Dune: Parte uno",
-        "Dune: Part One"
+        "Vengadores: Infinity War",
+        "Avengers 3"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/1Op57Khovv3ANSWn3TvhMStBboV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xS0g3s4blsiPmtpjjb7chFjI1ip.jpg",
-      "description": "Paul Atreides, un joven brillante y talentoso nacido en un gran destino más allá de su entendimiento, debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo."
+      "poster": "https://image.tmdb.org/t/p/w500/G7GOAKUjxIjMUVKBhXOviohEB0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "description": "Los Vengadores y sus aliados deben estar dispuestos a sacrificarlo todo para intentar derrotar al poderoso Thanos antes de que su ataque de devastación y ruina ponga fin al universo."
     }
   ]
 }
